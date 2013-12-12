@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" id="Avatar" image-rendering="auto" baseProfile="basic" version="1.1" x="0px" y="0px" width="68" height="126" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 126">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="47.29165154850442" cx="5.8" cy="-13.699" fx="5.799999999999997" fy="-13.699" gradientTransform="matrix(-0.496856689453125 0.868133544921875 0.87860107421875 0.4911041259765625 20.7 -11.999)" id="radialGradient">
+      <stop stop-color="#FFF" stop-opacity="1" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.40784313725490196" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient1">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient2">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient3">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient4">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient5">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient6">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient7">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient8">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient9">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient10">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient11">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient12">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient13">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient14">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient15">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient16">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient17">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient18">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient19">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient20">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient21">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient22">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient23">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient24">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient25">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient26">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient27">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient28">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient29">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient30">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient31">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient32">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient33">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient34">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient35">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient36">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient37">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient38">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient39">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient40">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient41">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient42">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient43">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient44">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient45">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient46">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient47">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient48">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient49">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient50">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient51">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient52">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient53">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient54">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient55">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient56">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient57">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient58">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient59">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient60">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient61">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient62">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient63">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient64">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient65">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient66">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient67">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient68">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient69">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient70">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient71">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient72">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient73">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient74">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient75">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient76">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient77">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient78">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient79">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient80">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient81">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient82">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient83">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient84">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient85">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient86">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient87">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient88">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient89">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient90">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient91">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient92">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient93">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient94">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient95">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient96">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient97">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient98">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient99">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient100">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient101">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient102">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient103">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient104">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient105">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient106">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient107">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient108">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient109">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient110">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient111">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient112">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient113">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient114">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient115">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient116">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient117">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient118">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient119">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient120">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient121">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient122">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient123">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient124">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient125">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient126">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient127">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient128">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient129">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient130">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient131">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient132">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient133">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient134">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient135">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient136">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient137">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient138">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient139">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient140">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient141">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient142">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient143">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient144">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient145">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient146">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient147">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient148">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient149">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient150">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient151">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient152">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient153">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient154">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient155">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient156">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient157">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient158">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient159">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient160">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient161">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient162">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient163">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient164">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient165">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient166">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient167">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient168">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient169">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient170">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient171">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient172">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient173">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient174">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient175">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient176">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient177">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient178">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient179">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient180">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient181">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient182">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient183">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient184">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient185">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient186">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient187">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient188">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient189">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient190">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient191">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient192">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient193">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient194">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient195">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient196">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient197">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient198">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient199">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient200">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient201">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient202">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient203">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient204">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient205">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient206">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient207">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient208">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient209">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient210">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient211">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient212">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient213">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient214">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.853016558914845" cx="-9.849" cy="19.25" fx="-9.848999999999997" fy="19.25" gradientTransform="matrix(0.453399658203125 -0.8914642333984375 -0.9022979736328125 -0.4481048583984375 12 19.15)" id="radialGradient215">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="47.304" cx="26.502" cy="-25.652" fx="26.502" fy="-25.652" gradientTransform="matrix(-0.497 0.868 0.878 0.491 41.4 -23.999)" id="radialGradient216">
+      <stop stop-color="#FFF" stop-opacity="1" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.40784313725490196" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.859" cx="2.15" cy="38.403" fx="2.15" fy="38.403" gradientTransform="matrix(0.453 -0.891 -0.902 -0.448 23.85 38.35)" id="radialGradient217">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.859" cx="2.15" cy="38.403" fx="2.15" fy="38.403" gradientTransform="matrix(0.453 -0.891 -0.902 -0.448 23.85 38.35)" id="radialGradient218">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.859" cx="2.15" cy="38.403" fx="2.15" fy="38.403" gradientTransform="matrix(0.453 -0.891 -0.902 -0.448 23.85 38.35)" id="radialGradient219">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.859" cx="2.15" cy="38.403" fx="2.15" fy="38.403" gradientTransform="matrix(0.453 -0.891 -0.902 -0.448 23.85 38.35)" id="radialGradient220">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.859" cx="2.15" cy="38.403" fx="2.15" fy="38.403" gradientTransform="matrix(0.453 -0.891 -0.902 -0.448 23.85 38.35)" id="radialGradient221">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" color-interpolation="sRGB" r="46.859" cx="2.15" cy="38.403" fx="2.15" fy="38.403" gradientTransform="matrix(0.453 -0.891 -0.902 -0.448 23.85 38.35)" id="radialGradient222">
+      <stop stop-color="#FFF" stop-opacity="0.3568627450980392" offset="0"/>
+      <stop stop-color="#FFF" stop-opacity="0.13725490196078433" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="sideSkull4" overflow="visible">
+    <g id="sideSkull3_0">
+      <g id="element">
+        <path id="path" fill="url(#radialGradient216)" d="M25.05,-7.45 C24.75,-13.55 18.7,-22.3 11.3,-24.55 6.85,-25.8 2.8,-26.55 -1.05,-26.7 -1.45,-26.75 -1.75,-26.75 -2.05,-26.75 -2.35,-26.75 -2.6,-26.75 -2.85,-26.75 -2.85,-26.75 -2.95,-26.75 -2.95,-26.75 -3.1,-26.75 -3.2,-26.75 -3.25,-26.75 L-3.55,-26.75 C-3.85,-26.85 -4.15,-26.85 -4.4,-26.8 -4.45,-26.8 -4.55,-26.8 -4.6,-26.75 L-4.8,-26.7 -5.45,-26.6 -5.8,-26.6 -6.15,-26.55 -6.25,-26.5 -6.55,-26.5 -7,-26.4 C-7.2,-26.35 -7.4,-26.35 -7.65,-26.3 -7.95,-26.25 -8.25,-26.2 -8.5,-26.15 -12.5,-25.4 -16.05,-23.8 -19.15,-21.35 -23.4,-18 -25.7,-11.5 -25.8,-2.55 L-26.05,-2.2 -25.8,-2.4 -25.8,-1.6 C-25.8,0.4 -25.5,2.45 -24.95,4.5 L-25.05,4.4 -24.95,4.8 -24.85,5 -24.85,5.05 -24.8,5.1 -24.75,5.1 C-24.45,6.15 -24.05,7.3 -23.55,8.35 L-23.65,8.2 -23.9,7.9 -23.7,8.6 -23.7,8.65 -23.1,9.15 C-22.45,10.5 -21.65,11.8 -20.75,13.05 L-20.75,13.15 -20.65,13.2 -20.6,13.25 C-19.1,15.3 -17.25,17.2 -15.1,19 -9.6,23.55 -0.45,26.4 4.3,26.95 4.8,27.1 5.2,27.15 5.5,27.15 L5.7,27.15 6.2,27.05 6.4,27.05 6.8,27 7.1,27 C12.25,26.3 16.45,23.45 21.3,17.5 L22.1,16.8 22.2,16.6 22.25,16.2 C22.9,15.1 23.4,13.85 23.8,12.35 L23.8,12.3 23.85,12.25 23.9,12.1 24.05,11.55 24,11.55 C24.35,10.1 24.65,8.5 24.85,6.65 L25,6.5 25,6.15 24.95,6.05 24.95,5.9 24.9,5.95 25.1,3.1 25.25,2.95 C25.3,2.85 25.3,2.75 25.25,2.7 L25.25,2.65 25.2,2.6 25.15,2.6 C25.15,2.55 25.15,2.55 25.15,2.5 25.3,-0.85 25.25,-4.15 25.05,-7.45z M10.15,-24.35 L8.45,-24.9 11.2,-24.15 C13.8,-23.35 16.35,-21.75 18.65,-19.4 17.45,-20.3 16.15,-21 14.95,-21.5 13.4,-22.85 11.8,-23.8 10.15,-24.35z M19.7,18.8 C17.8,20.95 16,22.6 14.2,23.85 15.5,22.8 16.8,21.45 18.15,19.8 L19.7,18.8z M-24,-13 C-22.9,-16.55 -21.2,-19.3 -18.9,-21.05 -17.2,-22.4 -15.3,-23.5 -13.25,-24.4 -14.7,-23.6 -16.1,-22.7 -17.35,-21.6 -19.05,-20.1 -20.4,-17.95 -21.35,-15.2 -22.45,-14.45 -23.35,-13.65 -24,-13z"/>
+        <path id="path1" fill="url(#radialGradient217)" d="M12.3,-22.05 C11.6,-22.25 10.9,-22.45 10.25,-22.6 12.1,-21.8 13.55,-20.9 14.6,-19.85 15.75,-18.85 16.7,-17.6 17.55,-16.2 L16.3,-15.9 C15.25,-17.65 13.85,-19.3 12.25,-20.9 11.6,-21.45 10.9,-22 10.15,-22.45 11.15,-21.65 12.2,-20.6 13.15,-19.4 14.2,-18.25 15.15,-17.05 15.95,-15.8 15.9,-15.8 15.85,-15.8 15.8,-15.75 L16.6,-15.45 C16.6,-15.5 16.6,-15.5 16.55,-15.55 L17.75,-15.9 C17.9,-15.55 18.1,-15.15 18.3,-14.75 18.5,-14.7 18.7,-14.6 18.9,-14.5 18.65,-15 18.4,-15.55 18.1,-16 18.45,-16.1 18.75,-16.2 19,-16.3 18.9,-16.4 18.8,-16.5 18.75,-16.6 18.5,-16.55 18.25,-16.45 17.9,-16.35 17.05,-17.8 16,-19.05 14.9,-20.15 14.2,-20.85 13.3,-21.45 12.3,-22.05z M10.4,-23.05 C9.15,-23.6 7.8,-24.1 6.25,-24.55 L6.25,-24.575 L6.15,-24.6 C4.65,-25.2 3.2,-25.7 1.7,-26.05 4.3,-25.7 7.05,-25 10.05,-24 11.2,-23.55 12.45,-22.9 13.7,-22.05 12.55,-22.45 11.5,-22.8 10.4,-23.05z M7.65,-24 L8.9,-23.35 C9.35,-23.25 9.85,-23.15 10.4,-23.05 9.15,-23.6 7.8,-24.1 6.25,-24.55 6.7,-24.4 7.2,-24.25 7.65,-24z M10.2,-17.2 L9.75,-17.2 C9.6,-17.45 9.45,-17.7 9.3,-17.95 7.9,-20.2 6.25,-22.05 4.35,-23.45 5.55,-23.4 6.65,-23.3 7.55,-23.15 L8.55,-22.95 C8.9,-22.75 9.3,-22.55 9.7,-22.3 11.6,-20.9 13.3,-18.8 14.9,-16.05 13.3,-16.55 11.75,-16.95 10.2,-17.2z M8.55,-22.95 C8.9,-22.75 9.3,-22.55 9.7,-22.3 9.4,-22.5 9.1,-22.7 8.85,-22.9 L8.55,-22.95z M4.35,-23.45 C4.3,-23.45 4.2,-23.45 4.15,-23.45 5.05,-22.85 5.9,-21.95 6.75,-20.7 7.55,-19.8 8.3,-18.85 9,-17.75 9.1,-17.6 9.2,-17.45 9.25,-17.3 L9.75,-17.2 C9.6,-17.45 9.45,-17.7 9.3,-17.95 7.9,-20.2 6.25,-22.05 4.35,-23.45z M9.25,-17.3 L8.8,-17.4 8.7,-17.4 C8.05,-18.7 7.35,-19.75 6.75,-20.7 7.55,-19.8 8.3,-18.85 9,-17.75 9.1,-17.6 9.2,-17.45 9.25,-17.3z M19.15,-16.8 C19.2,-16.7 19.3,-16.6 19.4,-16.45 19.9,-16.7 20.25,-16.95 20.4,-17.2 20.45,-17.2 20.45,-17.2 20.5,-17.25 L20.3,-17.4 C20.25,-17.45 20.15,-17.55 20.1,-17.6 L20.1,-17.55 C20.15,-17.5 20.1,-17.45 20.05,-17.4 19.9,-17.2 19.6,-17 19.15,-16.8z M19.15,-16.8 C18.2,-18.15 17.2,-19.4 16.05,-20.5 17.6,-19.65 18.95,-18.65 20.1,-17.6 L20.1,-17.55 C20.15,-17.5 20.1,-17.45 20.05,-17.4 19.9,-17.2 19.6,-17 19.15,-16.8z M20.5,-17.25 C21.9,-15.4 23.05,-13.4 23.8,-11.4 22.95,-12.15 22,-12.8 21.05,-13.4 20.55,-14.5 20,-15.5 19.4,-16.45 19.9,-16.7 20.25,-16.95 20.4,-17.2 20.45,-17.2 20.45,-17.2 20.5,-17.25z M16.35,-15.05 C17.5,-13.25 18.25,-11.3 18.75,-9.25 18.7,-9.3 18.65,-9.3 18.6,-9.3 L18.2,-9.45 18,-9.5 C17.55,-11.4 16.75,-13.45 15.75,-15.3 15.9,-15.25 16.1,-15.15 16.35,-15.05z M17,-14.8 C16.75,-14.9 16.5,-15 16.35,-15.05 17.5,-13.25 18.25,-11.3 18.75,-9.25 18.9,-9.2 19.1,-9.15 19.25,-9.1 18.75,-11.1 18,-13 17,-14.8z M18.65,-14.15 C19.4,-12.5 19.95,-10.65 20.4,-8.6 20,-8.75 19.6,-8.95 19.25,-9.1 18.75,-11.1 18,-13 17,-14.8 17.25,-14.75 17.5,-14.7 17.75,-14.55 18,-14.45 18.3,-14.3 18.65,-14.15z M19.2,-13.85 C19,-14 18.8,-14.1 18.65,-14.15 19.4,-12.5 19.95,-10.65 20.4,-8.6 20.55,-8.5 20.75,-8.4 20.9,-8.3 21.35,-8.55 21.8,-8.7 22.2,-8.85 22.15,-9 22.15,-9.15 22.1,-9.25 21.7,-9.05 21.3,-8.85 20.75,-8.65 20.4,-10.6 19.85,-12.3 19.2,-13.85z M20.9,-8.3 C21.35,-8.55 21.8,-8.7 22.2,-8.85 22.35,-8.35 22.4,-7.75 22.45,-7.25 21.95,-7.65 21.4,-8 20.9,-8.3z M20.75,-8.65 C20.4,-10.6 19.85,-12.3 19.2,-13.85 19.7,-13.6 20.25,-13.35 20.8,-13 21.35,-11.7 21.8,-10.45 22.1,-9.25 21.7,-9.05 21.3,-8.85 20.75,-8.65z M15,-15.55 C13.7,-15.25 12.4,-15 10.95,-14.8 10.7,-15.5 10.35,-16.15 10,-16.8 L9.55,-16.85 C9.9,-16.15 10.25,-15.45 10.6,-14.75 L9.95,-14.65 C10,-14.5 10.05,-14.4 10.1,-14.25 10.35,-14.3 10.55,-14.35 10.7,-14.4 11.2,-13.3 11.65,-12.1 12.05,-10.8 12.15,-10.75 12.3,-10.75 12.45,-10.75 12,-12.15 11.55,-13.35 11.1,-14.45 12.75,-14.75 14.2,-15 15.35,-15.25 15.3,-15.35 15.25,-15.45 15.2,-15.5 15.15,-15.55 15.05,-15.55 15,-15.55z M10.95,-14.8 C10.7,-15.5 10.35,-16.15 10,-16.8 11.7,-16.5 13.4,-16.05 15,-15.55 13.7,-15.25 12.4,-15 10.95,-14.8z M15.35,-15.25 C16.25,-13.55 17.05,-11.65 17.6,-9.65 16,-10.1 14.3,-10.5 12.45,-10.75 12,-12.15 11.55,-13.35 11.1,-14.45 12.75,-14.75 14.2,-15 15.35,-15.25z M9.55,-16.85 C9.9,-16.15 10.25,-15.45 10.6,-14.75 L9.95,-14.65 C9.6,-15.45 9.25,-16.2 8.9,-16.95 L9.05,-16.95 9.55,-16.85z M11.55,-10.85 L11.35,-10.85 11.25,-10.9 C10.85,-12.1 10.5,-13.25 10.1,-14.25 10.35,-14.3 10.55,-14.35 10.7,-14.4 11.2,-13.3 11.65,-12.1 12.05,-10.8 11.9,-10.8 11.7,-10.8 11.55,-10.85z M0.4,-25.75 L2.2,-25.3 C4,-24.75 5.6,-24.25 7.05,-23.65 7.2,-23.6 7.4,-23.6 7.65,-23.55 L7.5,-23.6 C4.5,-24.95 1.75,-25.8 -0.85,-26.15 0.5,-25.7 1.9,-24.9 3.5,-23.9 3.6,-23.9 3.65,-23.9 3.75,-23.9 2.7,-24.6 1.6,-25.25 0.4,-25.75z M2.2,-25.3 C4,-24.75 5.6,-24.25 7.05,-23.65 5.85,-23.8 4.8,-23.9 3.75,-23.9 2.7,-24.6 1.6,-25.25 0.4,-25.75 L2.2,-25.3z M0,-23.7 C-0.6,-24.5 -1.25,-25.1 -1.85,-25.6 -2.1,-25.8 -2.35,-26.05 -2.55,-26.2 -0.9,-25.85 0.85,-25.1 2.8,-23.9 2.1,-23.9 1.2,-23.85 0,-23.7z M-1.85,-25.6 C-1.45,-25.15 -0.95,-24.55 -0.35,-23.7 -0.2,-23.7 -0.1,-23.7 0,-23.7 -0.6,-24.5 -1.25,-25.1 -1.85,-25.6z M3.45,-23.45 L3.95,-23.15 C5.35,-22.15 6.85,-20.2 8.25,-17.45 6.75,-17.65 5.25,-17.75 3.7,-17.75 L3.15,-17.7 C2.3,-20.05 1.35,-21.95 0.25,-23.35 1.7,-23.45 2.75,-23.5 3.45,-23.45z M0.2,-22.85 C0.45,-22.4 0.75,-21.95 1,-21.3 1.6,-20.25 2.1,-19.05 2.65,-17.7 L3.15,-17.7 C2.3,-20.05 1.35,-21.95 0.25,-23.35 0.1,-23.35 0.05,-23.35 -0.1,-23.35 L-0.05,-23.3 0.2,-22.85z M2.3,-17.7 C1.85,-19.15 1.45,-20.35 1,-21.3 1.6,-20.25 2.1,-19.05 2.65,-17.7 L2.3,-17.7z M3.3,-17.3 C3.15,-17.3 2.95,-17.3 2.8,-17.3 3.2,-16.2 3.6,-15.05 3.9,-13.8 3.75,-13.75 3.6,-13.75 3.45,-13.7 3.5,-13.6 3.5,-13.55 3.55,-13.4 3.65,-13.45 3.85,-13.45 4,-13.5 4.25,-12.65 4.45,-11.85 4.65,-11.05 L5.1,-11.05 C4.9,-11.95 4.7,-12.75 4.45,-13.55 6.4,-13.75 8.15,-13.95 9.7,-14.2 9.65,-14.35 9.6,-14.45 9.55,-14.6 L4.35,-13.85 C4,-15.1 3.65,-16.25 3.3,-17.3z M4,-13.5 C4.25,-12.65 4.45,-11.85 4.65,-11.05 L4.05,-11.05 C3.9,-11.85 3.7,-12.6 3.55,-13.4 3.65,-13.45 3.85,-13.45 4,-13.5z M3.45,-13.7 C3.1,-14.9 2.75,-16.1 2.4,-17.3 2.55,-17.3 2.65,-17.3 2.8,-17.3 3.2,-16.2 3.6,-15.05 3.9,-13.8 3.75,-13.75 3.6,-13.75 3.45,-13.7z M3.3,-17.3 C5.15,-17.35 6.9,-17.2 8.5,-17 8.9,-16.25 9.2,-15.45 9.55,-14.6 L4.35,-13.85 C4,-15.1 3.65,-16.25 3.3,-17.3z M9.7,-14.2 C10.1,-13.2 10.5,-12.1 10.8,-10.9 9.5,-11.05 8.1,-11.1 6.65,-11.1 L5.1,-11.05 C4.9,-11.95 4.7,-12.75 4.45,-13.55 6.4,-13.75 8.15,-13.95 9.7,-14.2z M3.15,-13.35 C3.1,-13.5 3.1,-13.55 3.05,-13.65 1.35,-13.55 -1,-13.3 -3.95,-13.05 -4,-14.2 -4.05,-15.4 -4.1,-16.6 -4.25,-16.55 -4.4,-16.55 -4.5,-16.5 -4.45,-15.35 -4.4,-14.2 -4.35,-13 L-6.15,-12.85 C-6.15,-12.7 -6.15,-12.6 -6.15,-12.45 L-4.35,-12.6 C-4.3,-11.75 -4.2,-10.9 -4.15,-10.05 -4,-10.1 -3.9,-10.1 -3.75,-10.1 -3.8,-10.95 -3.9,-11.8 -3.95,-12.65 -1.75,-12.8 0.6,-13.05 3.15,-13.35z M3.05,-13.65 C1.35,-13.55 -1,-13.3 -3.95,-13.05 -4,-14.2 -4.05,-15.4 -4.1,-16.6 -2.05,-17 0,-17.2 2,-17.25 2.4,-16.05 2.75,-14.85 3.05,-13.65z M3.65,-11.05 C1.3,-10.9 -1.2,-10.55 -3.75,-10.1 -3.8,-10.95 -3.9,-11.8 -3.95,-12.65 -1.75,-12.8 0.6,-13.05 3.15,-13.35 3.35,-12.55 3.55,-11.8 3.65,-11.05z M-6.4,-16.1 C-5.75,-16.25 -5.15,-16.4 -4.5,-16.5 -4.45,-15.35 -4.4,-14.2 -4.35,-13 L-6.15,-12.85 C-6.25,-13.9 -6.35,-15 -6.4,-16.1z M-4.35,-12.6 C-4.3,-11.75 -4.2,-10.9 -4.15,-10.05 -4.75,-9.95 -5.3,-9.85 -5.9,-9.75 -6,-10.65 -6.1,-11.55 -6.15,-12.45 L-4.35,-12.6z M4.75,-10.6 C5.1,-9.05 5.35,-7.4 5.6,-5.7 5.4,-5.65 5.25,-5.65 5.05,-5.65 4.8,-7.4 4.5,-9 4.15,-10.6 4.35,-10.6 4.55,-10.6 4.75,-10.6z M5.15,-5.2 C5.3,-5.2 5.45,-5.2 5.65,-5.25 L5.85,-3.7 5.35,-3.7 5.2,-4.75 C5.15,-4.9 5.15,-5.05 5.15,-5.2z M5.15,-5.2 C5.3,-5.2 5.45,-5.2 5.65,-5.25 L5.85,-3.7 6.25,-3.7 6.05,-5.3 C7.85,-5.55 9.8,-5.8 11.9,-6.1 11.85,-6.2 11.85,-6.3 11.85,-6.45 9.95,-6.15 8,-5.95 6,-5.75 5.75,-7.5 5.45,-9.15 5.2,-10.6 5.05,-10.6 4.9,-10.6 4.75,-10.6 5.1,-9.05 5.35,-7.4 5.6,-5.7 5.4,-5.65 5.25,-5.65 5.05,-5.65 5.1,-5.5 5.1,-5.35 5.15,-5.2z M6.05,-5.3 C7.85,-5.55 9.8,-5.8 11.9,-6.1 11.9,-5.95 11.9,-5.75 11.95,-5.6 L12.15,-3.6 6.25,-3.7 6.05,-5.3z M5.2,-10.6 C7.2,-10.65 9.15,-10.6 10.95,-10.45 11.35,-9 11.65,-7.65 11.85,-6.45 9.95,-6.15 8,-5.95 6,-5.75 5.75,-7.5 5.45,-9.15 5.2,-10.6z M5,-3.3 L5.15,-1.95 -2.65,-1.7 -2.85,-2.85 C-0.5,-3.1 1.95,-3.25 4.55,-3.3 L5,-3.3z M5.2,-1.55 L5.15,-1.95 -2.65,-1.7 -2.85,-2.85 C-3,-2.85 -3.1,-2.85 -3.25,-2.8 L-3.05,-1.7 -5,-1.65 C-4.95,-1.5 -4.95,-1.4 -4.95,-1.25 L-3,-1.3 -2.55,0.6 -4.6,0.65 C-4.6,0.75 -4.6,0.85 -4.55,1 L-2.45,0.95 -1.95,3.05 -4.15,3.2 C-4.1,3.35 -4.1,3.45 -4.05,3.6 L-1.9,3.45 -1.85,3.65 -4.05,3.6 C-4.05,3.7 -4.05,3.8 -4,3.95 -3.05,4 -2.3,4 -1.75,4 L-1.25,6.1 C-1.15,6.1 -1,6.1 -0.85,6.1 L-1.4,4 C0.3,4.05 1.85,4 3.1,3.95 L5.8,3.75 5.75,3.4 3.1,3.6 C1.85,3.65 0.25,3.65 -1.5,3.65 L-1.55,3.45 0.15,3.4 C1.6,3.3 3,3.3 4.4,3.3 L5.75,3.3 5.7,2.9 0.15,2.95 C-0.4,3 -1,3.05 -1.6,3.05 L-2.05,0.95 5.45,1.05 5.4,0.65 -2.15,0.6 -2.6,-1.3 5.2,-1.55z M5.7,2.9 L0.15,2.95 C-0.4,3 -1,3.05 -1.6,3.05 L-2.05,0.95 5.45,1.05 5.7,2.9z M5.75,3.4 L3.1,3.6 C1.85,3.65 0.25,3.65 -1.5,3.65 L-1.55,3.45 0.15,3.4 C1.6,3.3 3,3.3 4.4,3.3 L5.75,3.3 5.75,3.4z M5.65,6.25 L5.05,6.25 C3.25,6.25 1.3,6.2 -0.85,6.1 L-1.4,4 C0.3,4.05 1.85,4 3.1,3.95 L5.8,3.75 6.05,6.2 5.65,6.25z M5.4,0.65 L-2.15,0.6 -2.6,-1.3 5.2,-1.55 5.4,0.65z M-3.05,-1.7 L-5,-1.65 C-5.05,-2 -5.1,-2.3 -5.15,-2.6 -4.5,-2.65 -3.85,-2.75 -3.25,-2.8 L-3.05,-1.7z M-3,-1.3 L-2.55,0.6 -4.6,0.65 C-4.75,0 -4.85,-0.65 -4.95,-1.25 L-3,-1.3z M-1.95,3.05 L-4.15,3.2 C-4.3,2.45 -4.45,1.7 -4.55,1 L-2.45,0.95 -1.95,3.05z M-4,3.95 C-3.05,4 -2.3,4 -1.75,4 L-1.25,6.1 C-2,6.05 -2.8,5.95 -3.6,5.9 -3.75,5.25 -3.85,4.6 -4,3.95z M-1.85,3.65 L-4.05,3.6 -1.9,3.45 -1.85,3.65z M4.75,-5.15 C4.7,-5.3 4.7,-5.45 4.65,-5.6 1.7,-5.35 -0.95,-5.15 -3.3,-5.05 -3.45,-6.5 -3.55,-8.05 -3.7,-9.75 -3.85,-9.75 -3.95,-9.75 -4.1,-9.7 -3.95,-8.05 -3.8,-6.5 -3.65,-5.05 -4.1,-5 -4.7,-5 -5.4,-4.95 L-5.35,-4.6 C-4.65,-4.65 -4.05,-4.65 -3.55,-4.7 L-3.3,-3.2 C-3.15,-3.2 -3.05,-3.2 -2.9,-3.2 L-3.2,-4.7 C-1.2,-4.75 1.5,-4.95 4.75,-5.15z M4.55,-3.7 C2.25,-3.65 -0.2,-3.45 -2.9,-3.2 L-3.2,-4.7 C-1.2,-4.75 1.5,-4.95 4.75,-5.15 4.75,-5 4.75,-4.85 4.8,-4.7 L4.95,-3.7 4.55,-3.7z M4.65,-5.6 C1.7,-5.35 -0.95,-5.15 -3.3,-5.05 -3.45,-6.5 -3.55,-8.05 -3.7,-9.75 -1.05,-10.2 1.45,-10.5 3.75,-10.6 4.1,-8.85 4.4,-7.2 4.65,-5.6z M-5.35,-4.6 C-4.65,-4.65 -4.05,-4.65 -3.55,-4.7 L-3.3,-3.2 C-3.9,-3.15 -4.55,-3.05 -5.2,-3 L-5.35,-4.6z M-4.1,-9.7 C-3.95,-8.05 -3.8,-6.5 -3.65,-5.05 -4.1,-5 -4.7,-5 -5.4,-4.95 L-5.9,-9.35 C-5.25,-9.5 -4.7,-9.6 -4.1,-9.7z M6.3,-3.3 C6.15,-3.3 6.05,-3.3 5.9,-3.3 L6.05,-2 5.5,-1.95 5.55,-1.55 6.1,-1.6 6.3,0.65 5.8,0.65 5.85,1.05 6.3,1.05 6.4,2.9 6.1,2.9 6.15,3.3 6.4,3.3 6.4,3.35 6.15,3.4 6.2,3.75 6.4,3.7 6.4,3.75 C6.45,4.7 6.45,5.5 6.5,6.2 6.6,6.2 6.7,6.2 6.85,6.2 L6.85,3.75 6.8,3.7 9.8,3.4 12.65,3.65 C12.65,3.5 12.65,3.4 12.65,3.25 L11.9,3.15 12.65,3.05 C12.6,2.9 12.6,2.8 12.6,2.65 L9.8,3.05 6.8,2.9 6.7,1.05 C9.05,1.15 11,1.2 12.5,1.3 12.5,1.2 12.5,1.05 12.5,0.95 11,0.85 9.05,0.75 6.7,0.65 L6.5,-1.6 C8.05,-1.65 10,-1.75 12.3,-1.85 12.25,-2 12.25,-2.1 12.25,-2.25 10.7,-2.15 8.75,-2.05 6.45,-2 L6.3,-3.3z M5.9,-3.3 L6.05,-2 5.5,-1.95 5.35,-3.3 C5.5,-3.3 5.7,-3.3 5.9,-3.3z M6.1,-1.6 L6.3,0.65 5.8,0.65 5.55,-1.55 6.1,-1.6z M6.3,-3.3 C8,-3.35 9.5,-3.35 10.9,-3.3 L12.15,-3.2 C12.2,-2.85 12.2,-2.55 12.25,-2.25 10.7,-2.15 8.75,-2.05 6.45,-2 L6.3,-3.3z M12.3,-1.85 C12.35,-0.9 12.45,0 12.5,0.95 11,0.85 9.05,0.75 6.7,0.65 L6.5,-1.6 C8.05,-1.65 10,-1.75 12.3,-1.85z M12.6,2.65 L9.8,3.05 6.8,2.9 6.7,1.05 C9.05,1.15 11,1.2 12.5,1.3 12.55,1.75 12.55,2.25 12.6,2.65z M11.9,3.15 L12.65,3.05 C12.6,3.1 12.6,3.2 12.65,3.25 L11.9,3.15z M12.75,5.9 L11.45,6.05 C9.65,6.15 8.15,6.2 6.85,6.2 L6.85,3.75 6.8,3.7 9.8,3.4 12.65,3.65 C12.7,4.45 12.7,5.2 12.75,5.9z M6.3,1.05 L6.4,2.9 6.1,2.9 5.85,1.05 6.3,1.05z M6.4,3.75 C6.45,4.7 6.45,5.5 6.5,6.2 L6.45,6.2 6.2,3.75 6.4,3.7 6.4,3.75z M6.4,3.35 L6.15,3.4 6.15,3.3 6.4,3.3 6.4,3.35z M19.4,-8.2 C19.35,-8.3 19.35,-8.4 19.35,-8.5 19.2,-8.55 19.05,-8.6 18.9,-8.65 18.95,-8.5 18.95,-8.3 19,-8.1 18.8,-8.05 18.6,-7.95 18.4,-7.9 18.4,-7.75 18.4,-7.65 18.45,-7.5 18.7,-7.55 18.9,-7.65 19.1,-7.7 19.3,-6.45 19.45,-5.15 19.45,-3.9 L19.45,-2.9 C19.2,-2.85 19,-2.85 18.8,-2.8 L18.8,-2.7 19.8,-2.5 19.8,-2.55 21.1,-2.75 C21.1,-2.55 21.1,-2.4 21.15,-2.2 L21.5,-2.1 C21.45,-2.35 21.45,-2.6 21.45,-2.85 21.9,-2.9 22.3,-3 22.65,-3.1 22.65,-3.25 22.65,-3.35 22.65,-3.45 22.25,-3.4 21.85,-3.3 21.4,-3.2 21.3,-4.8 21.2,-6.25 21,-7.65 20.85,-7.75 20.65,-7.85 20.5,-7.9 20.75,-6.4 20.95,-4.85 21.05,-3.15 L19.8,-2.95 19.8,-3.9 C19.8,-5.2 19.65,-6.55 19.45,-7.8 L20.25,-8.05 C20.1,-8.15 19.9,-8.25 19.75,-8.3 L19.4,-8.2z M19.35,-8.5 C19.5,-8.45 19.6,-8.4 19.75,-8.3 L19.4,-8.2 C19.35,-8.3 19.35,-8.4 19.35,-8.5z M18.9,-8.65 C18.95,-8.5 18.95,-8.3 19,-8.1 18.8,-8.05 18.6,-7.95 18.4,-7.9 18.35,-8.25 18.25,-8.6 18.15,-8.9 L18.2,-8.9 C18.45,-8.85 18.65,-8.75 18.9,-8.65z M18.45,-7.5 C18.7,-7.55 18.9,-7.65 19.1,-7.7 19.3,-6.45 19.45,-5.15 19.45,-3.9 L19.45,-2.9 C19.2,-2.85 19,-2.85 18.8,-2.8 L18.55,-6.5 C18.55,-6.8 18.5,-7.15 18.45,-7.5z M19.8,-2.55 L21.1,-2.75 C21.1,-2.55 21.1,-2.4 21.15,-2.2 L19.8,-2.5 19.8,-2.55z M19.8,-3.9 C19.8,-5.2 19.65,-6.55 19.45,-7.8 L20.25,-8.05 C20.3,-8 20.4,-7.95 20.5,-7.9 20.75,-6.4 20.95,-4.85 21.05,-3.15 L19.8,-2.95 19.8,-3.9z M22.45,-6.55 C22.5,-5.35 22.6,-4.3 22.65,-3.45 22.25,-3.4 21.85,-3.3 21.4,-3.2 21.3,-4.8 21.2,-6.25 21,-7.65 21.45,-7.35 21.95,-7 22.45,-6.55z M21.5,-2.1 C21.45,-2.35 21.45,-2.6 21.45,-2.85 21.9,-2.9 22.3,-3 22.65,-3.1 22.65,-2.6 22.65,-2.2 22.65,-1.85 L21.5,-2.1z M18,-7.8 C16.5,-7.4 14.95,-7.05 13.35,-6.75 13.1,-8 12.8,-9.15 12.55,-10.2 14.45,-9.95 16.2,-9.6 17.75,-9.05 17.8,-8.6 17.9,-8.25 18,-7.8z M18.15,-6.5 L18.4,-2.75 18.35,-2.75 C16.95,-3.05 15.45,-3.25 13.95,-3.4 L13.45,-6.35 C15.25,-6.7 16.75,-7.05 18.05,-7.4 18.1,-7.1 18.1,-6.8 18.15,-6.5z M18.05,-7.4 C18,-7.5 18,-7.65 18,-7.8 16.5,-7.4 14.95,-7.05 13.35,-6.75 13.1,-8 12.8,-9.15 12.55,-10.2 12.45,-10.25 12.3,-10.25 12.2,-10.3 12.45,-9.15 12.7,-7.95 12.95,-6.7 12.7,-6.65 12.45,-6.6 12.25,-6.55 12.25,-6.4 12.25,-6.25 12.3,-6.15 12.5,-6.15 12.8,-6.2 13.05,-6.25 L13.55,-3.45 C13.7,-3.45 13.8,-3.45 13.95,-3.4 L13.45,-6.35 C15.25,-6.7 16.75,-7.05 18.05,-7.4z M12.2,-10.3 C12.45,-9.15 12.7,-7.95 12.95,-6.7 12.7,-6.65 12.45,-6.6 12.25,-6.55 12.1,-7.7 11.8,-9 11.35,-10.4 11.6,-10.35 11.9,-10.35 12.2,-10.3z M12.35,-5.65 C12.35,-5.8 12.35,-6 12.3,-6.15 12.5,-6.15 12.8,-6.2 13.05,-6.25 L13.55,-3.45 C13.2,-3.5 12.85,-3.5 12.5,-3.55 L12.35,-5.65z M12.6,-2.25 C12.6,-2.15 12.6,-2.05 12.65,-1.9 13,-1.9 13.35,-1.9 13.75,-1.95 L14.05,1 C13.7,0.95 13.3,0.95 12.9,0.95 12.9,1.1 12.9,1.2 12.9,1.3 13.3,1.3 13.7,1.3 14.05,1.35 L14.15,2.45 13,2.6 C13,2.75 13,2.85 13,3 L14.2,2.85 14.2,3.35 13.05,3.25 C13.05,3.4 13.05,3.55 13.05,3.65 L14.2,3.75 C14.25,4.4 14.25,5 14.3,5.7 14.4,5.65 14.55,5.65 14.7,5.65 14.65,4.95 14.65,4.35 14.6,3.75 16.2,4 17.55,4.2 18.6,4.4 18.6,4.25 18.6,4.15 18.6,4 17.1,3.7 15.8,3.55 14.55,3.4 L14.5,2.8 C15.95,2.55 17.3,2.35 18.6,2.1 18.55,1.85 18.55,1.6 18.55,1.35 L14.4,1 14.15,-2 C15.6,-2.1 17,-2.25 18.4,-2.4 L18.4,-2.45 C17.95,-2.5 17.55,-2.55 17.15,-2.6 16.1,-2.5 15.1,-2.45 14.1,-2.4 L14,-3.05 C13.85,-3.1 13.75,-3.1 13.6,-3.1 L13.7,-2.35 C13.35,-2.3 13,-2.3 12.6,-2.25z M14.4,1.35 L18.35,1.7 14.5,2.45 14.4,1.35z M14,-3.05 C14.9,-2.95 16,-2.8 17.15,-2.6 16.1,-2.5 15.1,-2.45 14.1,-2.4 L14,-3.05z M12.5,-3.2 C12.85,-3.15 13.2,-3.15 13.6,-3.1 L13.7,-2.35 C13.35,-2.3 13,-2.3 12.6,-2.25 12.55,-2.55 12.55,-2.85 12.5,-3.2z M13.75,-1.95 L14.05,1 C13.7,0.95 13.3,0.95 12.9,0.95 12.8,0 12.7,-0.9 12.65,-1.9 13,-1.9 13.35,-1.9 13.75,-1.95z M18.4,-2.4 C18.45,-1.2 18.5,0.05 18.55,1.35 L14.4,1 14.15,-2 C15.6,-2.1 17,-2.25 18.4,-2.4z M18.6,4.9 C17.2,5.2 15.95,5.45 14.7,5.65 14.65,4.95 14.65,4.35 14.6,3.75 16.2,4 17.55,4.2 18.6,4.4 18.6,4.55 18.6,4.75 18.6,4.9z M18.6,4 C17.1,3.7 15.8,3.55 14.55,3.4 L14.5,2.8 C15.95,2.55 17.3,2.35 18.6,2.1 18.6,2.7 18.6,3.35 18.6,4z M14.2,2.85 L14.2,3.35 13.05,3.25 C13,3.2 13,3.1 13,3 L14.2,2.85z M13,2.6 C12.95,2.2 12.95,1.75 12.9,1.3 13.3,1.3 13.7,1.3 14.05,1.35 L14.15,2.45 13,2.6z M13.15,5.85 C13.1,5.2 13.1,4.5 13.05,3.65 L14.2,3.75 C14.25,4.4 14.25,5 14.3,5.7 13.9,5.75 13.5,5.8 13.15,5.85z M19.5,-2.2 L19.55,1.4 18.95,1.35 C18.9,0.1 18.85,-1.15 18.8,-2.35 19.05,-2.3 19.25,-2.25 19.5,-2.2z M19.85,-2.15 C19.7,-2.2 19.6,-2.2 19.5,-2.2 L19.55,1.4 18.95,1.35 C18.95,1.55 18.95,1.75 19,2 19.15,1.95 19.35,1.9 19.55,1.85 L19.55,4.15 C19.35,4.1 19.15,4.1 19,4.05 19,4.2 19,4.3 19,4.45 19.2,4.5 19.4,4.5 19.55,4.55 19.55,4.6 19.55,4.6 19.55,4.65 L20.55,4.35 19.9,4.2 19.9,1.9 21.05,2.05 20.95,4.25 21.35,4.1 21.4,2.1 C21.85,2.15 22.3,2.25 22.7,2.3 22.65,2.15 22.65,2.05 22.7,1.95 22.3,1.85 21.9,1.75 21.45,1.7 L21.45,1.3 C21.9,1.2 22.35,1.05 22.7,0.9 22.7,0.75 22.7,0.6 22.7,0.45 22.35,0.6 21.9,0.75 21.45,0.9 21.5,0 21.5,-0.9 21.5,-1.75 21.35,-1.8 21.3,-1.8 21.15,-1.85 21.2,-0.95 21.15,0 21.1,1.05 L19.9,1.3 19.85,-2.15z M20.6,1.55 L21.1,1.4 21.1,1.6 20.6,1.55z M22.65,-1.45 C22.7,-0.8 22.7,-0.15 22.7,0.45 22.35,0.6 21.9,0.75 21.45,0.9 21.5,0 21.5,-0.9 21.5,-1.75 21.85,-1.65 22.25,-1.55 22.65,-1.45z M21.15,-1.85 C21.2,-0.95 21.15,0 21.1,1.05 L19.9,1.3 19.85,-2.15 C20.3,-2.1 20.7,-2 21.15,-1.85z M22.7,0.9 C22.7,1.2 22.7,1.6 22.7,1.95 22.3,1.85 21.9,1.75 21.45,1.7 L21.45,1.3 C21.9,1.2 22.35,1.05 22.7,0.9z M22.7,2.3 C22.65,2.8 22.65,3.3 22.6,3.75 L21.35,4.1 21.4,2.1 C21.85,2.15 22.3,2.25 22.7,2.3z M20.55,4.35 L19.9,4.2 19.9,1.9 21.05,2.05 20.95,4.25 20.55,4.35z M19.55,1.85 L19.55,4.15 C19.35,4.1 19.15,4.1 19,4.05 19,3.35 19,2.65 19,2 19.15,1.95 19.35,1.9 19.55,1.85z M19.55,4.55 C19.55,4.6 19.55,4.6 19.55,4.65 L19,4.8 C19,4.65 19,4.55 19,4.45 19.2,4.5 19.4,4.5 19.55,4.55z M24.1,-10.6 C24.05,-10.65 24,-10.65 23.95,-10.7 23.7,-10.25 23.15,-9.85 22.45,-9.45 22.5,-9.3 22.5,-9.2 22.55,-9.05 23.3,-9.5 23.85,-9.85 24.2,-10.3 24.15,-10.4 24.15,-10.5 24.1,-10.6z M22.85,-7.15 C22.8,-7.75 22.7,-8.4 22.55,-9.05 23.3,-9.5 23.85,-9.85 24.2,-10.3 24.5,-9.3 24.65,-8.35 24.7,-7.4 L24.8,-4.7 C24.25,-5.45 23.6,-6.2 22.85,-6.9 L22.85,-7.15z M22.45,-9.45 C22.2,-10.45 21.85,-11.5 21.35,-12.65 22.4,-12 23.2,-11.3 23.95,-10.7 23.7,-10.25 23.15,-9.85 22.45,-9.45z M24.65,-4.3 C24.3,-4.05 23.75,-3.75 23,-3.55 L23,-3.2 C23.8,-3.45 24.45,-3.7 24.85,-3.9 24.85,-3.95 24.85,-3.95 24.85,-4 24.8,-4.1 24.7,-4.2 24.65,-4.3z M23,-3.55 L22.9,-6.2 C23.6,-5.6 24.2,-4.95 24.65,-4.3 24.3,-4.05 23.75,-3.75 23,-3.55z M24.85,-3.9 C24.85,-3 24.85,-2.05 24.85,-1.05 L24.8,-1.05 C24.65,-1.25 24.05,-1.45 23.05,-1.75 L23,-3.2 C23.8,-3.45 24.45,-3.7 24.85,-3.9z M24.35,-0.8 L24.45,-0.75 24.5,-0.75 C24.35,-0.4 23.85,0 23.05,0.3 23.05,-0.2 23.05,-0.8 23.05,-1.35 23.95,-1.15 24.3,-0.95 24.4,-0.9 L24.35,-0.8z M24.6,-0.75 L24.5,-0.75 C24.35,-0.4 23.85,0 23.05,0.3 23.05,0.45 23.05,0.55 23.05,0.7 24,0.25 24.6,-0.15 24.85,-0.6 24.85,-0.65 24.85,-0.7 24.85,-0.75 L24.75,-0.7 24.6,-0.75z M23.05,2 C23.05,2.15 23.05,2.25 23.05,2.4 23.7,2.5 24.3,2.6 24.75,2.75 24.75,2.6 24.75,2.5 24.8,2.4 24.35,2.25 23.75,2.15 23.05,2z M24.75,2.9 C24.45,3.1 23.85,3.35 23,3.65 23.05,3.2 23.05,2.8 23.05,2.4 23.7,2.5 24.3,2.6 24.75,2.75 24.75,2.8 24.75,2.85 24.75,2.9z M23.05,0.7 C24,0.25 24.6,-0.15 24.85,-0.6 24.85,0.35 24.85,1.35 24.8,2.4 24.35,2.25 23.75,2.15 23.05,2 23.05,1.55 23.05,1.15 23.05,0.7z M20.55,4.8 L20.9,4.85 20.9,5.75 C20.85,7.15 20.75,8.25 20.7,9 20.85,8.9 21,8.8 21.15,8.75 21.2,8 21.25,7 21.3,5.75 L21.3,4.9 C21.75,5 22.2,5.1 22.55,5.25 22.55,5.1 22.55,5 22.6,4.9 22.2,4.8 21.75,4.7 21.3,4.55 21.1,4.6 20.8,4.7 20.55,4.8z M20.9,4.85 L20.9,5.75 C20.85,7.15 20.75,8.25 20.7,9 20.4,9.15 20.1,9.3 19.8,9.45 19.85,8.15 19.9,6.6 19.9,4.9 20.1,4.9 20.3,4.85 20.55,4.8 L20.9,4.85z M21.3,4.9 C21.75,5 22.2,5.1 22.55,5.25 22.5,6.2 22.45,7.15 22.3,8 21.9,8.25 21.5,8.55 21.15,8.75 21.2,8 21.25,7 21.3,5.75 L21.3,4.9z M21.3,4.55 C21.8,4.4 22.25,4.3 22.6,4.15 22.6,4.4 22.6,4.65 22.6,4.9 22.2,4.8 21.75,4.7 21.3,4.55z M19.9,4.9 C19.75,4.95 19.65,4.95 19.55,5 19.55,6.8 19.5,8.35 19.45,9.65 19.55,9.6 19.65,9.5 19.8,9.45 19.85,8.15 19.9,6.6 19.9,4.9z M19.55,5 C19.55,6.8 19.5,8.35 19.45,9.65 19.3,9.7 19.1,9.8 18.95,9.85 18.9,9.8 18.8,9.8 18.75,9.8 18.9,7.95 18.95,6.35 18.95,5.15 19.15,5.1 19.35,5.05 19.55,5z M18.75,9.8 C18.75,9.85 18.75,9.85 18.75,9.9 18.8,9.85 18.9,9.85 18.95,9.85 18.9,9.8 18.8,9.8 18.75,9.8z M22.95,5 L22.9,5.35 C23.7,5.6 24.3,5.85 24.55,6.1 L24.55,5.65 C24.2,5.45 23.65,5.25 22.95,5z M24.55,5.65 C24.2,5.45 23.65,5.25 22.95,5 L23,4.05 24.75,3.35 24.55,5.65z M24.55,6.1 L24.5,6.3 C23.95,6.8 23.35,7.3 22.75,7.7 L22.9,5.35 C23.7,5.6 24.3,5.85 24.55,6.1z M22.3,11.05 C22.25,11.15 22.25,11.25 22.25,11.4 22.85,11.65 23.2,11.9 23.4,12.1 23.45,12.05 23.45,12.05 23.5,12 23.55,11.9 23.55,11.8 23.6,11.75 23.3,11.5 22.9,11.25 22.3,11.05z M22.7,8.35 C23.25,7.95 23.85,7.5 24.4,7.05 24.2,8.75 23.95,10.35 23.6,11.75 23.3,11.5 22.9,11.25 22.3,11.05 22.45,10.2 22.55,9.3 22.7,8.35z M23.4,12.1 C22.85,12.6 22.3,13.05 21.75,13.4 21.9,12.8 22.1,12.15 22.25,11.4 22.85,11.65 23.2,11.9 23.4,12.1z M20.95,10.9 C21.3,11.05 21.55,11.1 21.85,11.25 21.9,11.1 21.9,11 21.95,10.85 21.65,10.75 21.3,10.65 21,10.5 21,10.35 21.05,9.95 21.1,9.35 20.95,9.4 20.85,9.5 20.7,9.6 20.65,10 20.6,10.3 20.6,10.35 L19.75,10.1 C19.75,10.05 19.75,10.05 19.75,10 19.55,10.1 19.35,10.2 19.15,10.3 19.2,10.3 19.3,10.3 19.4,10.35 19.25,12.1 19.1,13.45 18.85,14.6 18.6,14.5 18.35,14.4 18.1,14.3 18.05,14.4 18.05,14.5 18.05,14.65 18.3,14.7 18.5,14.8 18.75,14.9 L18.75,14.95 18.7,15.15 C18.7,15.2 18.7,15.25 18.7,15.3 18.95,15.15 19.2,15 19.5,14.85 L19.2,14.7 C19.5,13.55 19.6,12.2 19.75,10.5 L20.55,10.75 C20.4,12.3 20.15,13.6 19.85,14.7 20,14.6 20.15,14.5 20.3,14.4 20.55,13.3 20.8,12.15 20.95,10.9z M21.85,11.25 C21.7,12.15 21.5,12.95 21.3,13.7 20.95,13.95 20.65,14.15 20.3,14.4 20.55,13.3 20.8,12.15 20.95,10.9 21.3,11.05 21.55,11.1 21.85,11.25z M20.6,10.35 L19.75,10.1 C19.75,10.05 19.75,10.05 19.75,10 20.05,9.85 20.35,9.75 20.7,9.6 20.65,10 20.6,10.3 20.6,10.35z M21.1,9.35 C21.45,9.1 21.85,8.85 22.25,8.6 22.15,9.4 22.05,10.1 21.95,10.85 21.65,10.75 21.3,10.65 21,10.5 21,10.35 21.05,9.95 21.1,9.35z M19.4,10.35 C19.25,12.1 19.1,13.45 18.85,14.6 18.6,14.5 18.35,14.4 18.1,14.3 18.35,13.15 18.55,11.85 18.7,10.45 18.85,10.4 19,10.35 19.15,10.3 19.2,10.3 19.3,10.3 19.4,10.35z M18.75,14.9 L18.75,14.95 18.7,15.15 C18.7,15.2 18.7,15.25 18.7,15.3 18.35,15.45 18.05,15.55 17.75,15.65 17.85,15.3 17.95,14.95 18.05,14.65 18.3,14.7 18.5,14.8 18.75,14.9z M19.2,14.7 C19.5,13.55 19.6,12.2 19.75,10.5 L20.55,10.75 C20.4,12.3 20.15,13.6 19.85,14.7 19.7,14.7 19.55,14.8 19.5,14.85 L19.2,14.7z M21.55,16.6 C21.6,16.45 21.7,16.35 21.75,16.25 21.5,16.05 21.3,15.9 21,15.7 20.95,15.85 20.85,15.95 20.8,16.05 21.1,16.2 21.3,16.4 21.55,16.6z M21.3,17 C20.55,17.6 19.75,18.25 19,18.75 L20,17.4 C20.3,17 20.55,16.55 20.8,16.05 21.1,16.2 21.3,16.4 21.55,16.6 21.45,16.75 21.35,16.85 21.3,16.95 L21.3,17z M21,15.7 C21.2,15.15 21.35,14.65 21.55,14.05 22.15,13.65 22.75,13.25 23.25,12.75 22.85,14.2 22.35,15.35 21.75,16.25 21.5,16.05 21.3,15.9 21,15.7z M20.5,15.9 C20.55,15.75 20.6,15.65 20.65,15.5 20.45,15.4 20.25,15.3 20.05,15.15 20.05,15.1 20.05,15.05 20.1,15 19.9,15.1 19.7,15.2 19.55,15.35 19.1,16.75 18.45,18 17.65,19.15 L17.1,18.85 C17.95,17.65 18.6,16.6 18.95,15.65 18.8,15.7 18.65,15.8 18.5,15.85 18.15,16.65 17.55,17.6 16.7,18.7 16.6,18.65 16.5,18.65 16.4,18.6 L16.2,18.95 C16.3,18.95 16.4,18.95 16.45,19 16,19.5 15.65,19.95 15.3,20.4 L14.95,20.85 15.7,20.55 C16.05,20.1 16.45,19.65 16.85,19.15 L17.4,19.45 C17.25,19.6 17.15,19.75 17,19.9 L17.9,19.5 17.85,19.45 C18.8,18.3 19.45,17 19.95,15.55 20.15,15.65 20.35,15.75 20.5,15.9z M20.65,15.5 C20.45,15.4 20.25,15.3 20.05,15.15 20.05,15.1 20.05,15.05 20.1,15 20.4,14.8 20.7,14.65 21.05,14.45 20.9,14.8 20.8,15.15 20.65,15.5z M17.6,16.2 L18,16 C18.15,15.95 18.35,15.9 18.5,15.85 18.15,16.65 17.55,17.6 16.7,18.7 16.6,18.65 16.5,18.65 16.4,18.6 L16.9,17.85 C17.15,17.4 17.35,16.9 17.6,16.2z M19.55,15.35 C19.1,16.75 18.45,18 17.65,19.15 L17.1,18.85 C17.95,17.65 18.6,16.6 18.95,15.65 19.15,15.55 19.35,15.45 19.55,15.35z M17.9,19.5 L17.85,19.45 C18.8,18.3 19.45,17 19.95,15.55 20.15,15.65 20.35,15.75 20.5,15.9 20.25,16.35 19.95,16.8 19.7,17.15 L18,19.45 17.9,19.5z M17.4,19.45 C17.25,19.6 17.15,19.75 17,19.9 L15.7,20.55 C16.05,20.1 16.45,19.65 16.85,19.15 L17.4,19.45z M16.45,19 C16,19.5 15.65,19.95 15.3,20.4 L16.2,18.95 C16.3,18.95 16.4,18.95 16.45,19z M14.7,6.05 C14.55,6.05 14.45,6.05 14.3,6.1 14.3,6.95 14.3,7.85 14.3,8.85 14,8.8 13.6,8.75 13.25,8.7 13.25,8.85 13.25,8.95 13.25,9.1 13.6,9.15 13.95,9.2 14.25,9.25 L14.15,11.25 C14.25,11.2 14.4,11.2 14.55,11.15 L14.65,9.3 C16.1,9.6 17.35,9.85 18.3,10.1 L18.35,10.05 C18.35,9.9 18.35,9.8 18.4,9.75 17.3,9.5 16.05,9.2 14.7,8.95 14.7,7.9 14.7,6.95 14.7,6.05z M14.25,9.25 L14.15,11.25 C13.8,11.3 13.5,11.4 13.2,11.45 13.25,10.65 13.25,9.85 13.25,9.1 13.6,9.15 13.95,9.2 14.25,9.25z M13.25,8.7 C13.2,7.9 13.2,7.05 13.15,6.2 13.55,6.15 13.95,6.1 14.3,6.1 14.3,6.95 14.3,7.85 14.3,8.85 14,8.8 13.6,8.75 13.25,8.7z M14.65,9.3 C16.1,9.6 17.35,9.85 18.3,10.1 L16.65,10.65 C15.95,10.85 15.25,11.05 14.55,11.15 L14.65,9.3z M18.55,5.25 C18.55,6.45 18.5,7.95 18.4,9.75 17.3,9.5 16.05,9.2 14.7,8.95 14.7,7.9 14.7,6.95 14.7,6.05 15.95,5.85 17.2,5.6 18.55,5.25z M12.85,9.05 C12.85,8.9 12.85,8.8 12.85,8.65 11.15,8.45 9.1,8.2 6.85,8.05 L6.85,6.6 C6.7,6.6 6.6,6.6 6.5,6.6 6.65,7.95 6.75,9.05 6.85,9.95 L6.85,8.45 C8.85,8.55 10.85,8.7 12.85,9.05z M12.85,8.65 C11.15,8.45 9.1,8.2 6.85,8.05 L6.85,6.6 C8.15,6.6 9.7,6.55 11.5,6.4 L12.75,6.25 C12.8,7.1 12.8,7.85 12.85,8.65z M12.8,11.5 C11.6,11.75 10.55,11.9 9.6,12 8.75,11.9 7.85,11.8 7,11.75 6.95,11.3 6.9,10.7 6.85,9.95 L6.85,8.45 C8.85,8.55 10.85,8.7 12.85,9.05 12.85,9.85 12.85,10.7 12.8,11.5z M7,11.75 C7,11.9 7,12 7,12.15 7.2,12.15 7.45,12.15 7.7,12.2 L9.15,12.05 C9.3,12.05 9.45,12.05 9.6,12 8.75,11.9 7.85,11.8 7,11.75z M7,12.15 C7.2,12.15 7.45,12.15 7.7,12.2 L7,12.25 C7,12.2 7,12.2 7,12.15z M14.55,11.65 C14.4,11.7 14.25,11.7 14.15,11.75 L14.05,12.85 C13.75,12.8 13.45,12.7 13.2,12.65 13.15,12.8 13.15,12.9 13.15,13.05 13.4,13.1 13.7,13.2 13.95,13.25 13.75,14.5 13.4,15.85 12.95,17.3 13.1,17.25 13.25,17.2 13.4,17.15 13.85,15.85 14.15,14.55 14.3,13.35 15.6,13.65 16.7,14.05 17.7,14.5 17.7,14.35 17.7,14.25 17.75,14.1 16.75,13.65 15.65,13.3 14.35,12.95 14.45,12.35 14.5,11.95 14.55,11.65z M14.15,11.75 L14.05,12.85 C13.75,12.8 13.45,12.7 13.2,12.65 13.2,12.4 13.2,12.15 13.2,11.9 13.55,11.85 13.85,11.8 14.15,11.75z M18.3,10.6 C18.15,11.9 17.95,13.1 17.75,14.1 16.75,13.65 15.65,13.3 14.35,12.95 14.45,12.35 14.5,11.95 14.55,11.65 15.4,11.45 16.15,11.25 16.9,11.05 L18.3,10.6z M17.3,15.85 C16,16.35 14.7,16.85 13.4,17.15 13.85,15.85 14.15,14.55 14.3,13.35 15.6,13.65 16.7,14.05 17.7,14.5 17.55,14.95 17.45,15.4 17.3,15.85z M13.95,13.25 C13.75,14.5 13.4,15.85 12.95,17.3 12.85,17.3 12.75,17.3 12.65,17.35 12.9,16.25 13.1,14.8 13.15,13.05 13.4,13.1 13.7,13.2 13.95,13.25z M12.8,12 C12.8,12.2 12.8,12.35 12.8,12.55 12.3,12.4 11.7,12.3 11.15,12.25 11.65,12.2 12.2,12.1 12.8,12z M9.85,12.4 C10.85,12.55 11.9,12.7 12.8,12.95 12.7,14.8 12.5,16.35 12.25,17.5 L11.05,17.75 C10.05,17.65 8.75,17.55 7.2,17.45 7.2,16.35 7.15,14.75 7.05,12.65 L9.3,12.45 C9.45,12.45 9.65,12.45 9.85,12.4z M7.2,17.85 C8.05,17.9 8.85,17.95 9.65,18.05 9,18.1 8.25,18.2 7.2,18.3 7.2,18.15 7.2,18 7.2,17.85z M7.2,17.45 C7.2,17.6 7.2,17.7 7.2,17.85 8.05,17.9 8.85,17.95 9.65,18.05 9.9,18 10.1,17.95 10.3,17.9 L11.05,17.75 C10.05,17.65 8.75,17.55 7.2,17.45z M12.8,12.95 C12.8,12.8 12.8,12.7 12.8,12.55 12.3,12.4 11.7,12.3 11.15,12.25 10.65,12.25 10.2,12.35 9.85,12.4 10.85,12.55 11.9,12.7 12.8,12.95z M2.05,11.5 L0.5,11.5 -0.3,8.3 1.85,8.3 C3.35,8.3 4.85,8.35 6.3,8.45 L6.25,8.05 C4.75,7.95 3.2,7.9 1.7,7.9 L-0.4,7.9 -0.75,6.5 C-0.9,6.45 -1,6.45 -1.15,6.45 L-0.8,7.9 -3.15,8 C-3.1,8.1 -3.1,8.25 -3.05,8.4 L-0.7,8.3 0.1,11.5 -2.2,11.6 C-2.2,11.7 -2.2,11.8 -2.15,11.9 -2,11.95 -1.85,11.95 -1.7,11.95 L0.2,11.9 0.3,12.2 C0.4,12.2 0.55,12.2 0.7,12.2 0.65,12.1 0.65,12 0.6,11.9 L2.15,11.9 C3.55,11.9 4.95,11.95 6.4,12.05 L6.4,12.25 C6.45,12.25 6.55,12.25 6.6,12.25 L6.45,10.25 6.4,11.65 C5,11.55 3.55,11.5 2.05,11.5z M0.5,11.5 L-0.3,8.3 1.85,8.3 C3.35,8.3 4.85,8.35 6.3,8.45 L6.45,10.25 6.4,11.65 C5,11.55 3.55,11.5 2.05,11.5 L0.5,11.5z M0.3,12.2 C-0.35,12.15 -1.05,12.05 -1.7,11.95 L0.2,11.9 0.3,12.2z M0.6,11.9 L2.15,11.9 C3.55,11.9 4.95,11.95 6.4,12.05 L6.4,12.25 C4.5,12.3 2.6,12.3 0.7,12.2 0.65,12.1 0.65,12 0.6,11.9z M6.25,8.05 C4.75,7.95 3.2,7.9 1.7,7.9 L-0.4,7.9 -0.75,6.5 C1.5,6.6 3.45,6.65 5.05,6.65 L5.7,6.65 6.1,6.6 6.25,8.05z M-0.8,7.9 L-3.15,8 C-3.3,7.35 -3.45,6.8 -3.5,6.3 -2.7,6.35 -1.9,6.4 -1.15,6.45 L-0.8,7.9z M-0.7,8.3 L0.1,11.5 -2.2,11.6 C-2.55,10.4 -2.8,9.3 -3.05,8.4 L-0.7,8.3z M6.65,12.65 C6.55,12.65 6.45,12.65 6.4,12.7 L6.1,17.35 2.05,17.2 C1.7,16 1.25,14.45 0.8,12.55 0.65,12.55 0.55,12.55 0.4,12.55 L1.7,17.2 -0.45,17.2 -0.3,17.6 1.8,17.6 C1.85,17.85 1.9,18.15 2,18.4 2.15,18.4 2.25,18.4 2.4,18.4 2.3,18.15 2.2,17.85 2.15,17.6 L6.05,17.75 6,18.4 C6.15,18.4 6.25,18.4 6.4,18.4 L6.45,17.8 C6.6,17.8 6.75,17.8 6.9,17.85 6.9,17.7 6.9,17.6 6.9,17.45 6.75,17.4 6.65,17.4 6.5,17.4 L6.75,13.5 C6.7,13.25 6.7,12.95 6.65,12.65z M6,18.4 C4.8,18.4 3.6,18.45 2.4,18.4 2.3,18.15 2.2,17.85 2.15,17.6 L6.05,17.75 6,18.4z M6.5,17.4 L6.75,13.5 C6.85,15 6.9,16.35 6.9,17.45 6.75,17.4 6.65,17.4 6.5,17.4z M6.85,18.35 C6.7,18.35 6.55,18.35 6.4,18.4 L6.45,17.8 C6.6,17.8 6.75,17.8 6.9,17.85 6.85,18 6.85,18.2 6.85,18.35z M6.1,17.35 L2.05,17.2 C1.7,16 1.25,14.45 0.8,12.55 2.8,12.7 4.65,12.75 6.4,12.7 L6.1,17.35z M2,18.4 C1.3,18.35 0.6,18.3 -0.1,18.2 L-0.3,17.6 1.8,17.6 C1.85,17.85 1.9,18.15 2,18.4z M1.7,17.2 L-0.45,17.2 -0.7,16.6 C-1.15,15.3 -1.6,13.9 -2,12.3 -1.2,12.4 -0.4,12.5 0.4,12.55 L1.7,17.2z M2.5,18.8 C2.35,18.8 2.25,18.8 2.1,18.8 2.55,20.3 2.95,21.65 3.4,22.85 L2,22.85 C3.55,22.95 5.05,22.95 6.4,22.85 6.4,22.75 6.4,22.65 6.45,22.6 L5.95,22.65 6.35,18.8 C6.2,18.8 6.1,18.8 5.95,18.8 L5.55,22.7 3.75,22.85 C3.35,21.65 2.95,20.3 2.5,18.8z M2.1,18.8 C2.55,20.3 2.95,21.65 3.4,22.85 L2,22.85 C1.35,21.55 0.65,20.1 0.05,18.6 0.75,18.65 1.45,18.75 2.1,18.8z M2.5,18.8 C3.65,18.85 4.85,18.85 5.95,18.8 L5.55,22.7 3.75,22.85 C3.35,21.65 2.95,20.3 2.5,18.8z M6.85,18.75 L6.85,18.8 6.8,18.9 C6.7,20.15 6.6,21.4 6.45,22.6 L5.95,22.65 6.35,18.8 C6.5,18.75 6.7,18.75 6.85,18.75z M0.9,22.75 C0.2,21.95 -0.45,21 -1.15,20 -1.45,19.55 -1.7,19 -2.05,18.4 -1.5,18.4 -0.9,18.5 -0.35,18.55 0.2,20.05 0.85,21.5 1.6,22.8 1.4,22.75 1.15,22.75 0.9,22.75z M0.3,22.65 C0.5,22.7 0.7,22.7 0.9,22.75 0.2,21.95 -0.45,21 -1.15,20 -1.45,19.55 -1.7,19 -2.05,18.4 -2.2,18.35 -2.4,18.35 -2.55,18.3 -2.2,19 -1.8,19.65 -1.45,20.2 -0.9,21 -0.3,21.85 0.3,22.65z M-5.45,17.65 C-4.45,17.9 -3.5,18.15 -2.55,18.3 -2.2,19 -1.8,19.65 -1.45,20.2 -0.9,21 -0.3,21.85 0.3,22.65 -0.25,22.55 -0.95,22.45 -1.7,22.3 -3.25,20.85 -4.55,19.3 -5.6,17.65 L-5.45,17.65z M2.5,24.45 C2.1,24.05 1.75,23.65 1.35,23.25 L1.8,23.25 -1.2,22.85 C-1.1,22.95 -1,23.05 -0.9,23.15 L0.8,23.25 C1.75,24.3 2.6,25.1 3.4,25.7 3.1,25.35 2.8,24.9 2.5,24.45z M1.35,23.25 L1.8,23.25 C2,23.65 2.25,24.05 2.5,24.45 2.1,24.05 1.75,23.65 1.35,23.25z M2.15,25.45 C2.75,25.8 3.35,26.1 3.9,26.35 3.8,26.25 3.7,26.1 3.6,25.95 3.1,25.8 2.6,25.65 2.15,25.45z M2.15,25.45 C1.15,24.8 0.1,24.05 -0.9,23.15 L0.8,23.25 C1.75,24.3 2.6,25.1 3.4,25.7 3.45,25.75 3.55,25.85 3.6,25.95 3.1,25.8 2.6,25.65 2.15,25.45z M3.95,23.35 C3.8,23.35 3.65,23.35 3.55,23.35 3.95,24.65 4.3,25.6 4.65,26.15 4.3,25.9 3.95,25.7 3.6,25.4 3.95,25.85 4.25,26.25 4.6,26.5 L5.15,26.6 C5.25,26.55 5.35,26.45 5.4,26.35 5.55,25.6 5.75,24.55 5.9,23.3 5.75,23.3 5.6,23.3 5.5,23.3 L5.1,26.1 C4.75,25.6 4.4,24.65 3.95,23.35z M3.55,23.35 C3.95,24.65 4.3,25.6 4.65,26.15 4.3,25.9 3.95,25.7 3.6,25.4 3.2,24.85 2.75,24.15 2.25,23.3 2.7,23.3 3.1,23.3 3.55,23.35z M6.35,23.3 C6.1,24.8 5.8,25.8 5.4,26.35 5.55,25.6 5.75,24.55 5.9,23.3 6.05,23.3 6.2,23.3 6.35,23.3z M5.5,23.3 L5.1,26.1 C4.75,25.6 4.4,24.65 3.95,23.35 4.5,23.35 5,23.35 5.5,23.3z M7.2,18.7 C8.4,18.6 9.45,18.45 10.45,18.3 10.6,18.25 10.8,18.2 11.15,18.15 11.4,18.2 11.7,18.2 12.05,18.25 L12,18.35 C11.5,19.7 11,20.9 10.55,22.05 L6.85,22.55 C7,21.75 7.1,20.55 7.15,18.95 L7.2,18.75 7.2,18.7z M6.85,22.55 C6.85,22.6 6.85,22.7 6.8,22.8 7.9,22.7 8.9,22.55 9.9,22.35 L10.4,22.25 C10.45,22.15 10.5,22.1 10.55,22.05 L6.85,22.55z M12.1,18 L12.1,17.95 C11.7,18.05 11.4,18.1 11.15,18.15 11.4,18.2 11.7,18.2 12.05,18.25 L12.1,18z M10.05,22.8 L10.15,22.75 C10.1,22.8 10.1,22.9 10.05,23 8.85,24.55 7.45,25.6 5.95,26.15 6.3,25.5 6.55,24.55 6.75,23.25 7.9,23.15 8.95,23 10.05,22.8z M7.55,26.05 L7.15,26.2 6.35,26.4 C7.15,26.05 7.95,25.6 8.7,25 9.1,24.45 9.6,23.75 10.05,23 8.85,24.55 7.45,25.6 5.95,26.15 5.85,26.35 5.75,26.5 5.65,26.65 L6.35,26.65 C6.8,26.5 7.15,26.3 7.55,26.05z M7.15,26.2 L6.35,26.4 C7.15,26.05 7.95,25.6 8.7,25 8.35,25.45 7.95,25.75 7.55,26.05 L7.15,26.2z M16.55,17.65 C16.4,17.95 16.2,18.25 16.05,18.5 15.3,18.35 14.3,18.15 13.1,18 13.15,17.9 13.15,17.8 13.2,17.7 14.5,17.35 15.8,16.95 17.1,16.4 L16.55,17.65z M12.5,17.85 C12.6,17.8 12.7,17.8 12.75,17.8 12.75,17.85 12.75,17.9 12.7,17.95 12.65,17.95 12.55,17.95 12.5,17.95 L12.5,17.85z M12.45,18.3 C12.45,18.3 12.5,18.3 12.55,18.3 12.25,19.2 11.9,19.95 11.55,20.7 11.3,21.2 11.05,21.75 10.85,22.15 11.7,22 12.45,21.8 13.15,21.55 12.5,21.7 11.9,21.8 11.25,21.9 11.9,20.85 12.45,19.6 12.95,18.35 14.1,18.45 15.05,18.65 15.9,18.85 15.95,18.7 16,18.6 16.05,18.5 15.3,18.35 14.3,18.15 13.1,18 13.15,17.9 13.15,17.8 13.2,17.7 13.05,17.75 12.9,17.75 12.75,17.8 12.75,17.85 12.75,17.9 12.7,17.95 12.65,17.95 12.55,17.95 12.5,17.95 L12.45,18.3z M12.55,18.3 C12.25,19.2 11.9,19.95 11.55,20.7 11.8,20 12.1,19.3 12.4,18.45 L12.45,18.3 C12.45,18.3 12.5,18.3 12.55,18.3z M13.15,21.55 C12.5,21.7 11.9,21.8 11.25,21.9 11.9,20.85 12.45,19.6 12.95,18.35 14.1,18.45 15.05,18.65 15.9,18.85 15.3,19.75 14.75,20.5 14.3,21.1 14,21.25 13.6,21.4 13.15,21.55z M10.35,23.3 C10.5,23.05 10.65,22.85 10.75,22.65 10.7,22.65 10.7,22.65 10.65,22.65 10.55,22.9 10.45,23.1 10.35,23.3z M10.75,22.65 C11.95,22.35 12.9,22.1 13.7,21.8 13.75,21.8 13.8,21.8 13.85,21.8 13.8,21.85 13.75,21.9 13.7,21.95 12,23.5 10.35,24.7 8.75,25.55 9.25,24.95 9.8,24.2 10.35,23.3 10.5,23.05 10.65,22.85 10.75,22.65z M8.8,25.95 C9.15,25.8 9.55,25.65 9.95,25.45 11.2,24.6 12.45,23.45 13.7,21.95 12,23.5 10.35,24.7 8.75,25.55 8.4,25.9 8,26.2 7.65,26.45 7.7,26.45 7.75,26.45 7.8,26.4 8.1,26.3 8.45,26.15 8.8,25.95z M9.95,25.45 C9.2,25.85 8.55,26.2 7.8,26.4 8.1,26.3 8.45,26.15 8.8,25.95 9.15,25.8 9.55,25.65 9.95,25.45z M13.7,22.5 C14.05,22.2 14.35,21.9 14.7,21.55 L15.7,21.25 C15,21.9 14.15,22.55 13.05,23.3 13.3,23.05 13.5,22.75 13.7,22.5z M14.45,21.5 C14.2,21.85 13.95,22.15 13.7,22.5 14.05,22.2 14.35,21.9 14.7,21.55 L15.7,21.25 C15,21.9 14.15,22.55 13.05,23.3 12.7,23.65 12.35,24.05 12,24.4 13.85,23.3 15.4,22.15 16.6,20.9 16.65,20.85 16.75,20.85 16.8,20.85 16.95,20.7 17.1,20.5 17.25,20.35 L16.9,20.5 C16.2,20.85 15.4,21.15 14.45,21.5z M16.8,20.85 C14.5,23.3 12.3,24.95 10,25.85 10.7,25.5 11.35,25 12,24.4 13.85,23.3 15.4,22.15 16.6,20.9 16.65,20.85 16.75,20.85 16.8,20.85z M2.35,25.95 C1.65,25.55 0.9,25 0.15,24.5 -0.55,24.05 -1.3,23.55 -1.95,23.05 L-1.55,23.1 C-1.7,22.95 -1.75,22.85 -1.9,22.7 -2,22.65 -2.1,22.65 -2.2,22.65 L-2.55,22.6 -2.6,22.55 C-2.95,22.5 -3.25,22.4 -3.5,22.35 -3.45,22.4 -3.35,22.45 -3.3,22.5 L-5.35,22.1 C-5.15,22.25 -4.85,22.45 -4.55,22.65 L-2.7,22.95 C-1.7,23.75 -0.6,24.5 0.5,25.1 -0.5,24.75 -1.55,24.35 -2.6,23.8 -1,24.65 0.65,25.4 2.35,25.95z M-6.05,21.65 C-5.3,21.9 -4.45,22.1 -3.5,22.35 -3.45,22.4 -3.35,22.45 -3.3,22.5 L-5.35,22.1 C-5.6,22 -5.8,21.8 -6.05,21.65z M-4.55,22.65 L-2.7,22.95 C-1.7,23.75 -0.6,24.5 0.5,25.1 -0.5,24.75 -1.55,24.35 -2.6,23.8 -3.25,23.4 -3.9,23.05 -4.55,22.65z M-2.6,22.55 C-2.5,22.6 -2.35,22.6 -2.2,22.65 L-2.55,22.6 -2.6,22.55z M-1.55,23.1 C-1,23.55 -0.4,24.05 0.15,24.5 -0.55,24.05 -1.3,23.55 -1.95,23.05 L-1.55,23.1z M-7.75,-25.8 C-9,-25.1 -10.15,-24 -11.05,-22.45 -11.35,-22 -11.65,-21.35 -11.95,-20.65 L-16.85,-18.15 C-16.2,-19.65 -15.5,-20.8 -14.65,-21.7 -14.25,-22.15 -13.85,-22.5 -13.4,-22.85 -13.05,-23.15 -12.65,-23.4 -12.3,-23.65 -11.45,-24.2 -10.65,-24.6 -9.95,-25 -9.2,-25.35 -8.5,-25.6 -7.75,-25.8z M-13.4,-22.85 C-12.35,-23.75 -11.2,-24.5 -9.95,-25 -10.65,-24.6 -11.45,-24.2 -12.3,-23.65 -12.65,-23.4 -13.05,-23.15 -13.4,-22.85z M-5.7,-26.15 L-5.85,-26.15 C-6.15,-26.1 -6.45,-26 -6.75,-25.85 -7.55,-25.2 -8.45,-24.4 -9.3,-23.4 -10.05,-22.6 -10.65,-21.75 -11.2,-20.9 -11,-21 -10.8,-21.1 -10.55,-21.15 -10.15,-21.85 -9.6,-22.5 -9,-23.15 -7.9,-24.4 -6.8,-25.4 -5.7,-26.15z M-5.55,-26.2 L-5.25,-26.2 -5.35,-26.1 C-5.8,-25.55 -6.3,-24.85 -6.75,-23.9 -7,-23.35 -7.15,-22.85 -7.35,-22.25 -8.4,-21.95 -9.45,-21.6 -10.55,-21.15 -10.15,-21.85 -9.6,-22.5 -9,-23.15 -7.9,-24.4 -6.8,-25.4 -5.7,-26.15 L-5.55,-26.2z M-7.35,-22.25 C-7.2,-22.3 -7.05,-22.35 -6.9,-22.4 L-6.9,-22.45 C-6.75,-22.85 -6.6,-23.2 -6.45,-23.5 -6.2,-24.7 -5.8,-25.55 -5.35,-26.1 -5.8,-25.55 -6.3,-24.85 -6.75,-23.9 -7,-23.35 -7.15,-22.85 -7.35,-22.25z M-6.9,-22.4 L-6.9,-22.45 C-6.75,-22.85 -6.6,-23.2 -6.45,-23.5 -6.5,-23.35 -6.5,-23.25 -6.55,-23.1 L-6.65,-22.5 C-6.75,-22.45 -6.85,-22.45 -6.9,-22.4z M-11.45,-20.85 L-10.7,-22.25 C-9.6,-24.05 -8.3,-25.25 -6.75,-25.85 -7.55,-25.2 -8.45,-24.4 -9.3,-23.4 -10.05,-22.6 -10.65,-21.75 -11.2,-20.9 -11.3,-20.9 -11.4,-20.9 -11.45,-20.85z M-3.5,-26.3 L-3.75,-26.3 C-3.85,-26.3 -3.95,-26.3 -4,-26.3 -3.3,-26.05 -2.6,-25.7 -1.95,-25.1 -2.5,-25.75 -3.05,-26.15 -3.5,-26.3z M-4.75,-26.15 C-4.75,-25.1 -4.75,-24.05 -4.7,-23 -5.25,-22.85 -5.7,-22.75 -6.2,-22.6 L-6.15,-23 C-5.9,-24.2 -5.55,-25.1 -5.25,-25.65 -5.1,-25.8 -5,-25.95 -4.85,-26.1 -4.8,-26.15 -4.8,-26.15 -4.75,-26.15z M-4.65,-26.25 C-4.7,-26.2 -4.7,-26.2 -4.75,-26.15 -4.75,-25.1 -4.75,-24.05 -4.7,-23 -4.6,-23.05 -4.45,-23.05 -4.3,-23.05 -4.35,-24.15 -4.35,-25.2 -4.35,-26.25 -4.5,-26.25 -4.6,-26.25 -4.65,-26.25z M-4,-26.3 C-3.3,-26.05 -2.6,-25.7 -1.95,-25.1 -1.65,-24.7 -1.25,-24.25 -0.8,-23.65 -2.05,-23.5 -3.25,-23.3 -4.3,-23.05 -4.35,-24.15 -4.35,-25.2 -4.35,-26.25 -4.25,-26.3 -4.15,-26.3 -4,-26.3z M-21.1,-11.65 L-20.35,-11.7 C-20.4,-11.45 -20.45,-11.15 -20.5,-10.9 -20.35,-11 -20.2,-11.1 -20.05,-11.1 -20,-11.3 -20,-11.5 -19.95,-11.7 -19.65,-11.7 -19.35,-11.7 -19,-11.7 -18.95,-11.75 -18.9,-11.75 -18.85,-11.8 -18.85,-11.9 -18.85,-12 -18.8,-12.1 -19.2,-12.1 -19.5,-12.1 -19.85,-12.1 -19.5,-13.65 -19.1,-15.15 -18.6,-16.45 -18.55,-16.55 -18.5,-16.65 -18.45,-16.75 -18.65,-16.65 -18.85,-16.5 -19.05,-16.35 -19.5,-15 -19.9,-13.55 -20.25,-12.05 -20.85,-12.05 -21.35,-12.05 -21.85,-12.05 -21.9,-11.9 -21.9,-11.8 -21.9,-11.65 -21.65,-11.65 -21.35,-11.65 -21.1,-11.65z M-20.35,-11.7 C-20.4,-11.45 -20.45,-11.15 -20.5,-10.9 -21.1,-10.55 -21.65,-10.2 -22.25,-9.85 -22.15,-10.45 -22.05,-11.1 -21.9,-11.65 -21.65,-11.65 -21.35,-11.65 -21.1,-11.65 L-20.35,-11.7z M-21.05,-15 C-20.4,-15.5 -19.7,-15.95 -19.05,-16.35 -19.5,-15 -19.9,-13.55 -20.25,-12.05 -20.85,-12.05 -21.35,-12.05 -21.85,-12.05 -21.6,-13.15 -21.35,-14.1 -21.05,-15z M-18.45,-16.75 C-18.2,-16.95 -17.9,-17.15 -17.65,-17.3 -18.15,-15.65 -18.55,-13.85 -18.8,-12.1 -19.2,-12.1 -19.5,-12.1 -19.85,-12.1 -19.5,-13.65 -19.1,-15.15 -18.6,-16.45 -18.55,-16.55 -18.5,-16.65 -18.45,-16.75z M-19,-11.7 C-19.35,-11.55 -19.7,-11.35 -20.05,-11.1 -20,-11.3 -20,-11.5 -19.95,-11.7 -19.65,-11.7 -19.35,-11.7 -19,-11.7z M-22.3,-11.65 C-22.3,-11.8 -22.3,-11.9 -22.25,-12.05 -23.05,-12.1 -23.7,-12.15 -24.15,-12.25 L-24.2,-12.3 C-24.25,-12.2 -24.25,-12.1 -24.3,-11.95 -23.95,-11.8 -23.25,-11.7 -22.3,-11.65z M-22.7,-9.55 C-23.7,-8.85 -24.55,-8.25 -25.05,-7.7 -24.9,-9.2 -24.65,-10.65 -24.3,-11.95 -23.95,-11.8 -23.25,-11.7 -22.3,-11.65 -22.45,-11 -22.6,-10.25 -22.7,-9.55z M-24.2,-12.3 C-23.75,-12.85 -22.8,-13.7 -21.55,-14.65 -21.8,-13.8 -22.05,-12.95 -22.25,-12.05 -23.05,-12.1 -23.7,-12.15 -24.15,-12.25 L-24.2,-12.3z M-20.55,-10.4 C-20.85,-8.85 -21.05,-7.35 -21.1,-5.75 -21.65,-5.85 -22.15,-5.95 -22.6,-6.1 -22.55,-7.2 -22.45,-8.25 -22.3,-9.35 -21.85,-9.7 -21.25,-10 -20.55,-10.4z M-21.1,-5.35 C-21.1,-5.3 -21.1,-5.2 -21.1,-5.1 L-20.05,-5.55 C-20.3,-5.6 -20.5,-5.6 -20.7,-5.65 -20.65,-7.35 -20.45,-9 -20.1,-10.65 -20.25,-10.6 -20.4,-10.5 -20.55,-10.4 -20.85,-8.85 -21.05,-7.35 -21.1,-5.75 -21.65,-5.85 -22.15,-5.95 -22.6,-6.1 -22.65,-5.95 -22.65,-5.85 -22.65,-5.7 -22.2,-5.55 -21.65,-5.45 -21.1,-5.35z M-21.1,-5.1 L-22.7,-4.5 C-22.7,-4.9 -22.7,-5.25 -22.65,-5.7 -22.2,-5.55 -21.65,-5.45 -21.1,-5.35 -21.1,-5.3 -21.1,-5.2 -21.1,-5.1z M-18.9,-11.35 C-19.1,-9.7 -19.25,-7.85 -19.25,-5.9 L-20.05,-5.55 C-20.3,-5.6 -20.5,-5.6 -20.7,-5.65 -20.65,-7.35 -20.45,-9 -20.1,-10.65 -19.75,-10.9 -19.35,-11.1 -18.9,-11.35z M-25.15,-7 L-25.15,-6.95 C-24.8,-6.5 -24.1,-6.15 -22.95,-5.8 -22.95,-5.95 -22.95,-6.05 -22.95,-6.15 -23.85,-6.45 -24.5,-6.8 -24.8,-7.15 L-24.9,-7.4 C-25,-7.35 -25.1,-7.25 -25.15,-7.2 -25.15,-7.15 -25.15,-7.05 -25.15,-7z M-24.9,-7.4 C-24.4,-7.9 -23.65,-8.45 -22.75,-9.05 -22.85,-8.2 -22.95,-7.25 -22.95,-6.15 -23.85,-6.45 -24.5,-6.8 -24.8,-7.15 L-24.9,-7.4z M-23.05,-4.3 C-24.05,-3.85 -24.8,-3.45 -25.4,-3.05 -25.35,-4.7 -25.25,-6 -25.15,-6.95 -24.8,-6.5 -24.1,-6.15 -22.95,-5.8 -23,-5.3 -23,-4.85 -23.05,-4.3z M-25.4,-2.65 L-25.4,-2.3 C-25,-2 -24.2,-1.75 -22.95,-1.6 L-23,-2 C-24.25,-2.2 -25,-2.45 -25.25,-2.65 L-25.3,-2.7 C-25.35,-2.7 -25.35,-2.7 -25.4,-2.65z M-22.95,-0.3 C-24.35,0 -25.05,0.3 -25.3,0.6 L-25.4,-2.3 C-25,-2 -24.2,-1.75 -22.95,-1.6 L-22.95,-0.3z M-25.25,-2.65 L-25.3,-2.7 C-24.85,-3.05 -24.1,-3.45 -23.05,-3.9 L-23,-2 C-24.25,-2.2 -25,-2.45 -25.25,-2.65z M-20.7,-4.9 L-21.1,-4.75 C-21.1,-3.8 -21.05,-2.85 -21,-1.8 -21.6,-1.85 -22.15,-1.9 -22.65,-1.95 L-22.6,-1.55 C-22.15,-1.5 -21.6,-1.45 -21,-1.4 -20.95,-1.2 -20.95,-0.95 -20.9,-0.7 L-20.55,-0.75 C-20.55,-1 -20.55,-1.2 -20.6,-1.35 -20.15,-1.3 -19.6,-1.3 -19.05,-1.25 L-19.05,-1.65 C-19.65,-1.7 -20.15,-1.7 -20.6,-1.75 -20.7,-2.9 -20.75,-3.95 -20.7,-4.9z M-21.1,-4.75 C-21.1,-3.8 -21.05,-2.85 -21,-1.8 -21.6,-1.85 -22.15,-1.9 -22.65,-1.95 L-22.7,-4.1 -21.1,-4.75z M-20.6,-1.35 C-20.15,-1.3 -19.6,-1.3 -19.05,-1.25 L-19.05,-1.05 -20.55,-0.75 C-20.55,-1 -20.55,-1.2 -20.6,-1.35z M-20.9,-0.7 L-22.6,-0.4 -22.6,-1.55 C-22.15,-1.5 -21.6,-1.45 -21,-1.4 -20.95,-1.2 -20.95,-0.95 -20.9,-0.7z M-20.7,-4.9 L-20.05,-5.15 C-19.8,-5.1 -19.5,-5.05 -19.2,-5 L-19.05,-1.65 C-19.65,-1.7 -20.15,-1.7 -20.6,-1.75 -20.7,-2.9 -20.75,-3.95 -20.7,-4.9z M-19.25,-5.4 C-19.3,-5.45 -19.3,-5.45 -19.35,-5.45 L-20.05,-5.15 C-19.8,-5.1 -19.5,-5.05 -19.2,-5 L-19.25,-5.4z M-19.35,-5.45 L-19.25,-5.5 -19.25,-5.4 C-19.3,-5.45 -19.3,-5.45 -19.35,-5.45z M-20.5,-0.45 C-20.65,-0.4 -20.75,-0.4 -20.9,-0.35 -20.8,0.35 -20.7,1.15 -20.55,1.9 L-21.6,2.1 C-21.85,2.05 -22.05,2.05 -22.3,2 -22.25,2.2 -22.2,2.4 -22.15,2.55 L-21.65,2.45 -20.4,2.6 -20.1,3.8 -19.65,3.9 -19.95,2.7 C-19.4,2.75 -18.95,2.85 -18.4,2.9 -18.45,2.75 -18.45,2.6 -18.5,2.45 -19.05,2.45 -19.5,2.35 -20.05,2.3 L-20.05,2.2 C-19.55,2.15 -19.1,2.05 -18.6,2 -18.65,1.85 -18.65,1.75 -18.65,1.6 -19.15,1.65 -19.6,1.75 -20.15,1.85 -20.3,1.1 -20.4,0.3 -20.5,-0.45z M-19,-0.7 C-18.95,0.05 -18.8,0.85 -18.65,1.6 -19.15,1.65 -19.6,1.75 -20.15,1.85 -20.3,1.1 -20.4,0.3 -20.5,-0.45 -20.05,-0.5 -19.5,-0.6 -19,-0.7z M-20.05,2.2 C-19.55,2.15 -19.1,2.05 -18.6,2 -18.55,2.15 -18.55,2.35 -18.5,2.45 -19.05,2.45 -19.5,2.35 -20.05,2.3 L-20.05,2.2z M-18.4,2.9 C-18.35,3.35 -18.25,3.7 -18.1,4.1 L-18.3,4.15 -19.65,3.9 -19.95,2.7 C-19.4,2.75 -18.95,2.85 -18.4,2.9z M-18.1,4.15 L-18.1,4.1 -18.3,4.15 -18.1,4.15z M-20.4,2.6 L-20.1,3.8 -21.95,3.55 C-22,3.2 -22.1,2.9 -22.15,2.55 L-21.65,2.45 -20.4,2.6z M-22.3,2 C-22.4,1.3 -22.5,0.65 -22.55,0 -22.15,-0.1 -21.6,-0.2 -20.9,-0.35 -20.8,0.35 -20.7,1.15 -20.55,1.9 L-21.6,2.1 C-21.85,2.05 -22.05,2.05 -22.3,2z M-0.55,-23.3 L-0.1,-22.65 C0.45,-21.7 1.2,-19.95 1.9,-17.7 -0.05,-17.55 -2.1,-17.3 -4.15,-17 -4.25,-18.8 -4.3,-20.7 -4.3,-22.65 -3.2,-22.9 -1.9,-23.1 -0.55,-23.3z M-4.3,-22.65 C-4.45,-22.6 -4.55,-22.6 -4.7,-22.55 -4.65,-20.7 -4.6,-18.75 -4.55,-16.9 -4.4,-16.95 -4.3,-16.95 -4.15,-17 -4.25,-18.8 -4.3,-20.7 -4.3,-22.65z M-6.4,-16.55 C-6.5,-18.9 -6.45,-20.85 -6.3,-22.15 -5.75,-22.3 -5.25,-22.4 -4.7,-22.55 -4.65,-20.7 -4.6,-18.75 -4.55,-16.9 -5.2,-16.8 -5.75,-16.7 -6.4,-16.55z M-6.7,-22.1 C-6.85,-20.7 -6.9,-18.8 -6.8,-16.45 -7.25,-16.3 -7.75,-16.2 -8.25,-16.05 -8,-18.35 -7.6,-20.3 -7.05,-22 -6.95,-22.05 -6.85,-22.05 -6.7,-22.1z M-7.05,-22 C-7.15,-21.95 -7.35,-21.9 -7.5,-21.85 -8.05,-20.15 -8.45,-18.2 -8.7,-15.95 -8.55,-16 -8.4,-16 -8.25,-16.05 -8,-18.35 -7.6,-20.3 -7.05,-22z M-8.7,-15.95 C-10.05,-15.6 -11.35,-15.15 -12.65,-14.65 -12.5,-16.1 -12.35,-17.35 -12.15,-18.45 -11.8,-19.2 -11.4,-19.9 -10.9,-20.65 -9.85,-21.05 -8.75,-21.5 -7.5,-21.85 -8.05,-20.15 -8.45,-18.2 -8.7,-15.95z M-10.9,-20.65 C-11.15,-20.55 -11.35,-20.45 -11.6,-20.35 -11.8,-19.8 -12,-19.2 -12.15,-18.45 -11.8,-19.2 -11.4,-19.9 -10.9,-20.65z M-8.3,-15.65 C-8.45,-15.6 -8.6,-15.55 -8.75,-15.5 -8.8,-14.6 -8.85,-13.65 -8.9,-12.65 -10.3,-12.55 -11.6,-12.45 -12.8,-12.35 -12.8,-12.25 -12.8,-12.15 -12.8,-12 L-8.9,-12.3 -8.8,-9.05 C-8.7,-9.1 -8.6,-9.1 -8.5,-9.15 L-8.55,-12.3 -6.55,-12.4 C-6.55,-12.55 -6.55,-12.65 -6.55,-12.8 L-8.2,-12.7 -8.5,-12.65 C-8.45,-13.65 -8.4,-14.7 -8.3,-15.65z M-8.5,-12.65 C-8.45,-13.65 -8.4,-14.7 -8.3,-15.65 -7.75,-15.8 -7.25,-15.9 -6.8,-16 -6.75,-14.9 -6.65,-13.85 -6.55,-12.8 L-8.2,-12.7 -8.5,-12.65z M-8.9,-12.65 C-10.3,-12.55 -11.6,-12.45 -12.8,-12.35 -12.75,-13.1 -12.75,-13.65 -12.7,-14.2 -11.4,-14.7 -10.1,-15.1 -8.75,-15.5 -8.8,-14.6 -8.85,-13.65 -8.9,-12.65z M-12.8,-12 L-8.9,-12.3 -8.8,-9.05 C-10.1,-8.75 -11.4,-8.45 -12.8,-8 -12.85,-9.5 -12.85,-10.85 -12.8,-12z M-8.55,-12.3 L-6.55,-12.4 C-6.5,-11.45 -6.4,-10.55 -6.3,-9.65 -7.05,-9.5 -7.75,-9.35 -8.5,-9.15 L-8.55,-12.3z M-14.95,-21.95 C-14.6,-22.3 -14.2,-22.65 -13.85,-23 -16.3,-21.1 -17.95,-19.1 -18.85,-16.95 -18.65,-17.1 -18.45,-17.2 -18.2,-17.3 -17.7,-18.4 -17.05,-19.4 -16.15,-20.3 -15.85,-20.9 -15.4,-21.45 -14.95,-21.95z M-18.2,-17.3 C-17.7,-18.4 -17.05,-19.4 -16.15,-20.3 -16.65,-19.6 -17.1,-18.7 -17.45,-17.8 -17.65,-17.65 -17.95,-17.45 -18.2,-17.3z M-18.85,-16.95 C-19.55,-16.5 -20.2,-16 -20.85,-15.6 -19.9,-18.05 -18.65,-19.95 -17.1,-21.3 -15.35,-22.85 -13.35,-24.05 -11.15,-24.85 -12.15,-24.35 -13,-23.7 -13.85,-23 -16.3,-21.1 -17.95,-19.1 -18.85,-16.95z M-12.1,-20.15 C-12.25,-19.65 -12.35,-19.15 -12.45,-18.55 -13.05,-17.25 -13.45,-16 -13.65,-14.65 L-13.7,-14.2 -18.25,-12.1 C-18.3,-12.15 -18.4,-12.15 -18.45,-12.1 -18.15,-14.05 -17.7,-15.95 -17.1,-17.6 L-14.3,-19.05 C-14,-19.25 -13.25,-19.65 -12.1,-20.15z M-13.65,-14.65 L-13.7,-14.2 -13.25,-14.4 -13.25,-14.6 C-13.2,-15.2 -13.05,-15.8 -12.9,-16.35 -12.75,-17.2 -12.6,-17.9 -12.45,-18.55 -13.05,-17.25 -13.45,-16 -13.65,-14.65z M-13.25,-14.4 L-13.25,-14.6 C-13.2,-15.2 -13.05,-15.8 -12.9,-16.35 -12.95,-15.75 -13.05,-15.1 -13.1,-14.5 L-13.25,-14.4z M-18.45,-12.05 L-18.25,-12.1 C-18.3,-12.15 -18.4,-12.15 -18.45,-12.1 L-18.45,-12.05z M-13.1,-14.05 C-13.15,-13.55 -13.15,-13 -13.2,-12.35 -13.3,-12.35 -13.4,-12.35 -13.5,-12.35 L-13.3,-13.95 -13.1,-14.05z M-13.3,-13.95 L-13.75,-13.75 -13.9,-12.3 C-15.2,-12.3 -16.3,-12.2 -17.3,-12.15 L-18.2,-11.7 C-17.05,-11.75 -15.65,-11.85 -13.95,-11.95 -14.05,-10.65 -14.1,-9.2 -14.1,-7.55 L-13.75,-7.7 C-13.7,-9.3 -13.65,-10.75 -13.55,-11.95 L-13.2,-11.95 C-13.2,-12.1 -13.2,-12.25 -13.2,-12.35 -13.3,-12.35 -13.4,-12.35 -13.5,-12.35 L-13.3,-13.95z M-13.2,-11.95 C-13.25,-10.8 -13.25,-9.45 -13.2,-7.9 L-13.75,-7.7 C-13.7,-9.3 -13.65,-10.75 -13.55,-11.95 L-13.2,-11.95z M-14.1,-7.55 L-18.85,-6.05 C-18.8,-8 -18.7,-9.85 -18.5,-11.6 L-18.2,-11.7 C-17.05,-11.75 -15.65,-11.85 -13.95,-11.95 -14.05,-10.65 -14.1,-9.2 -14.1,-7.55z M-17.3,-12.15 L-13.75,-13.75 -13.9,-12.3 C-15.2,-12.3 -16.3,-12.2 -17.3,-12.15z M-13.2,-7.5 L-13,-5 -13.8,-5 C-13.8,-5.85 -13.8,-6.6 -13.75,-7.35 L-13.2,-7.5z M-13.75,-7.35 L-14.1,-7.2 C-14.15,-6.5 -14.15,-5.8 -14.15,-5.05 -15.9,-5.1 -17.5,-5.2 -18.85,-5.35 L-18.8,-4.95 C-17.45,-4.85 -15.9,-4.75 -14.1,-4.7 -14.1,-3.75 -14.1,-2.8 -14,-1.85 L-13.6,-1.9 C-13.7,-2.8 -13.75,-3.7 -13.75,-4.65 L-13,-4.6 -13,-5 -13.8,-5 C-13.8,-5.85 -13.8,-6.6 -13.75,-7.35z M-18.85,-5.65 L-14.1,-7.2 C-14.15,-6.5 -14.15,-5.8 -14.15,-5.05 -15.9,-5.1 -17.5,-5.2 -18.85,-5.35 L-18.85,-5.65z M-18.65,-1.15 L-18.65,-1.25 C-18.45,-1.25 -18.2,-1.25 -17.95,-1.25 L-18.65,-1.15z M-18.65,-1.6 L-18.65,-1.25 C-18.45,-1.25 -18.2,-1.25 -17.95,-1.25 L-15.9,-1.55 C-16.95,-1.6 -17.85,-1.6 -18.65,-1.6z M-18.8,-4.95 C-17.45,-4.85 -15.9,-4.75 -14.1,-4.7 -14.1,-3.75 -14.1,-2.8 -14,-1.85 L-15.9,-1.55 C-16.95,-1.6 -17.85,-1.6 -18.65,-1.6 L-18.8,-4.95z M-13,-4.6 L-12.8,-2.05 -13.6,-1.9 C-13.7,-2.8 -13.75,-3.7 -13.75,-4.65 L-13,-4.6z M-15.75,-1.2 C-15.2,-1.2 -14.6,-1.2 -14,-1.2 L-13.75,1 C-15.15,1.15 -16.7,1.3 -18.3,1.55 -18.45,0.85 -18.55,0.05 -18.65,-0.75 L-16,-1.2 -15.75,-1.2z M-12.7,-1.5 L-13.6,-1.5 -15.75,-1.2 C-15.2,-1.2 -14.6,-1.2 -14,-1.2 L-13.75,1 C-15.15,1.15 -16.7,1.3 -18.3,1.55 -18.25,1.7 -18.25,1.8 -18.2,1.95 -16.5,1.7 -15,1.5 -13.7,1.35 L-13.5,2.95 C-15.1,2.8 -16.6,2.65 -18.1,2.5 -18.05,2.65 -18.05,2.8 -18,2.95 -16.5,3.1 -15,3.25 -13.4,3.4 L-13.4,3.65 -13.35,3.7 -17.7,4.1 C-17.7,4.15 -17.7,4.15 -17.7,4.2 L-16.45,4.4 -13.3,4.1 C-13.25,4.35 -13.2,4.6 -13.15,4.85 L-12.75,4.9 C-12.8,4.65 -12.85,4.35 -12.9,4.1 L-11.75,4.05 C-11.8,3.9 -11.85,3.75 -11.85,3.65 L-12.95,3.7 -13,3.6 -13,3.45 -11.9,3.55 C-11.95,3.4 -11.95,3.25 -12,3.1 L-13.1,3 -13.3,1.3 C-12.95,1.25 -12.65,1.25 -12.35,1.25 -12.35,1.15 -12.35,1.05 -12.35,0.95 L-13.35,1 -13.6,-1.15 -12.65,-1.15 C-12.7,-1.25 -12.7,-1.35 -12.7,-1.5z M-13.6,-1.5 L-12.75,-1.65 C-12.75,-1.6 -12.75,-1.55 -12.7,-1.5 L-13.6,-1.5z M-12.65,-1.15 C-12.6,-0.4 -12.5,0.25 -12.35,0.95 L-13.35,1 -13.6,-1.15 -12.65,-1.15z M-13.5,2.95 C-15.1,2.8 -16.6,2.65 -18.1,2.5 -18.15,2.35 -18.15,2.15 -18.2,1.95 -16.5,1.7 -15,1.5 -13.7,1.35 L-13.5,2.95z M-13.3,1.3 C-12.95,1.25 -12.65,1.25 -12.35,1.25 -12.25,1.9 -12.15,2.5 -12,3.1 L-13.1,3 -13.3,1.3z M-13.4,3.65 L-13.35,3.7 -17.7,4.1 C-17.85,3.7 -17.95,3.35 -18,2.95 -16.5,3.1 -15,3.25 -13.4,3.4 L-13.4,3.65z M-13,3.6 L-13,3.45 -11.9,3.55 C-11.9,3.6 -11.9,3.65 -11.85,3.65 L-12.95,3.7 -13,3.6z M-12.9,4.1 L-11.75,4.05 C-11.7,4.4 -11.6,4.75 -11.5,5.05 L-12.75,4.9 C-12.8,4.65 -12.85,4.35 -12.9,4.1z M-13.15,4.85 L-16.45,4.4 -13.3,4.1 C-13.25,4.35 -13.2,4.6 -13.15,4.85z M-12.6,-5 L-12.55,-4.6 -9.15,-4.55 -8.8,-4.6 -8.65,-4.6 C-8.6,-4.25 -8.55,-3.65 -8.45,-2.6 -8.3,-2.65 -8.2,-2.65 -8.05,-2.65 L-8.25,-4.6 C-7.3,-4.6 -6.5,-4.6 -5.75,-4.6 -5.8,-4.75 -5.8,-4.85 -5.8,-4.95 -6.55,-4.95 -7.35,-4.95 -8.3,-4.95 -8.4,-6.25 -8.5,-7.45 -8.5,-8.6 L-8.5,-8.75 C-8.6,-8.7 -8.7,-8.7 -8.8,-8.65 L-8.7,-4.95 -12.6,-5z M-12.55,-4.6 L-9.15,-4.55 -8.8,-4.6 -8.65,-4.6 C-8.6,-4.25 -8.55,-3.65 -8.45,-2.6 -9.85,-2.5 -11.15,-2.3 -12.4,-2.1 L-12.55,-4.6z M-12.8,-7.6 C-11.5,-8 -10.2,-8.35 -8.8,-8.65 L-8.7,-4.95 -12.6,-5 -12.8,-7.6z M-8.5,-8.75 C-7.75,-8.9 -7,-9.1 -6.25,-9.25 -6.2,-8.45 -6.05,-7 -5.8,-4.95 -6.55,-4.95 -7.35,-4.95 -8.3,-4.95 -8.4,-6.25 -8.5,-7.45 -8.5,-8.6 L-8.5,-8.75z M-8.05,-2.65 L-8.25,-4.6 C-7.3,-4.6 -6.5,-4.6 -5.75,-4.6 L-5.55,-2.95 C-6.4,-2.85 -7.2,-2.75 -8.05,-2.65z M-12.35,-1.5 C-12.35,-1.35 -12.35,-1.25 -12.3,-1.15 L-9.05,-1.2 C-8.8,-1.25 -8.55,-1.25 -8.3,-1.25 L-8.05,0.65 -12,0.9 C-12,1.05 -12,1.15 -11.95,1.2 -10.8,1.2 -9.95,1.15 -9.4,1.1 L-7.95,1.05 -7.55,3.35 -7.95,3.4 -11.55,3.1 C-11.5,3.25 -11.5,3.45 -11.45,3.6 L-11.05,3.6 -11.4,3.65 C-11.4,3.75 -11.35,3.85 -11.3,4 L-8.05,3.75 -7.45,3.8 -7.05,5.6 C-6.95,5.65 -6.8,5.65 -6.65,5.65 -6.8,5.05 -6.95,4.45 -7.05,3.8 -6.05,3.85 -5.2,3.9 -4.45,3.95 -4.5,3.7 -4.55,3.45 -4.6,3.2 L-7.15,3.35 -7.55,1.05 -5,1 C-5.05,0.85 -5.05,0.75 -5.05,0.65 L-7.65,0.65 -7.9,-1.25 -5.3,-1.25 C-5.35,-1.4 -5.35,-1.5 -5.35,-1.65 L-7.95,-1.6 -8,-2.35 C-8.15,-2.3 -8.25,-2.3 -8.4,-2.3 -8.4,-2.05 -8.4,-1.85 -8.35,-1.6 L-12.35,-1.5z M-12.35,-1.7 C-10.85,-1.95 -9.55,-2.15 -8.4,-2.3 -8.4,-2.05 -8.4,-1.85 -8.35,-1.6 L-12.35,-1.5 C-12.35,-1.55 -12.35,-1.65 -12.35,-1.7z M-8,-2.35 C-7.05,-2.5 -6.25,-2.55 -5.5,-2.6 -5.45,-2.3 -5.4,-2 -5.35,-1.65 L-7.95,-1.6 -8,-2.35z M-8.3,-1.25 L-8.05,0.65 -12,0.9 C-12.15,0.2 -12.25,-0.45 -12.3,-1.15 L-9.05,-1.2 C-8.8,-1.25 -8.55,-1.25 -8.3,-1.25z M-5.3,-1.25 C-5.25,-0.65 -5.15,0 -5.05,0.65 L-7.65,0.65 -7.9,-1.25 -5.3,-1.25z M-4,5.9 C-4.95,5.85 -5.8,5.75 -6.65,5.65 -6.8,5.05 -6.95,4.45 -7.05,3.8 -6.05,3.85 -5.2,3.9 -4.45,3.95 -4.3,4.6 -4.15,5.25 -4,5.9z M-4.6,3.2 L-7.15,3.35 -7.55,1.05 -5,1 C-4.85,1.75 -4.75,2.45 -4.6,3.2z M-7.95,1.05 L-7.55,3.35 -7.95,3.4 -11.55,3.1 C-11.7,2.45 -11.8,1.85 -11.95,1.2 -10.8,1.2 -9.95,1.15 -9.4,1.1 L-7.95,1.05z M-7.05,5.6 C-8.45,5.45 -9.8,5.25 -11.05,5.1 -11.15,4.8 -11.25,4.4 -11.3,4 L-8.05,3.75 -7.45,3.8 -7.05,5.6z M-11.45,3.6 L-11.05,3.6 -11.4,3.65 -11.45,3.6z M-6.55,6.1 C-6.7,6.05 -6.85,6.05 -6.95,6.05 L-6.5,8.05 -10.15,8.2 C-10.1,8.35 -10.1,8.45 -10.05,8.55 L-6.35,8.45 -5.4,11.45 C-5.25,11.45 -5.15,11.45 -5,11.5 -5.3,10.6 -5.6,9.6 -5.95,8.45 L-3.5,8.4 C-3.5,8.25 -3.5,8.15 -3.55,8 L-6.05,8.05 C-6.2,7.4 -6.4,6.75 -6.55,6.1z M-5.4,11.45 C-6.75,11.2 -8,11 -9.2,10.7 -9.5,9.95 -9.8,9.3 -10.05,8.55 L-6.35,8.45 -5.4,11.45z M-3.55,8 L-6.05,8.05 C-6.2,7.4 -6.4,6.75 -6.55,6.1 -5.7,6.1 -4.85,6.2 -3.95,6.25 -3.8,6.9 -3.7,7.45 -3.55,8z M-2.55,11.85 C-2.6,11.75 -2.6,11.65 -2.6,11.6 L-4.2,11.65 C-3.65,11.7 -3.1,11.8 -2.55,11.85z M-5,11.5 C-5.3,10.6 -5.6,9.6 -5.95,8.45 L-3.5,8.4 C-3.15,9.7 -2.85,10.75 -2.6,11.6 L-4.2,11.65 C-4.45,11.6 -4.75,11.55 -5,11.5z M-6.5,8.05 L-10.15,8.2 C-10.45,7.35 -10.7,6.45 -10.95,5.55 -9.65,5.7 -8.35,5.9 -6.95,6.05 L-6.5,8.05z M-8.9,12.25 C-8.95,12.15 -9.05,12.05 -9.1,11.9 -9.55,11.95 -10.05,11.95 -10.5,12 L-10.95,10.9 C-11,10.85 -11,10.75 -11.05,10.65 -11.2,10.6 -11.3,10.6 -11.45,10.55 L-10.9,12 -10.85,12.05 C-12.25,12.2 -13.4,12.25 -14.3,12.35 -14.25,12.45 -14.15,12.55 -14.1,12.7 L-10.7,12.35 C-10.05,13.8 -9.3,15.15 -8.5,16.4 -8.35,16.45 -8.15,16.55 -7.95,16.6 -8.85,15.25 -9.65,13.85 -10.3,12.35 -9.85,12.3 -9.4,12.3 -8.9,12.25z M-9.1,11.9 C-9.55,11.95 -10.05,11.95 -10.5,12 L-10.95,10.9 C-11,10.85 -11,10.75 -11.05,10.65 -10.55,10.8 -10,10.9 -9.45,11.05 -9.35,11.3 -9.25,11.6 -9.1,11.9z M-10.85,12.05 C-12.25,12.2 -13.4,12.25 -14.3,12.35 -14.95,11.3 -15.5,10.25 -15.95,9.15 L-14.2,9.75 C-13.4,9.95 -12.45,10.25 -11.45,10.55 L-10.9,12 -10.85,12.05z M-14.1,12.7 L-10.7,12.35 C-10.05,13.8 -9.3,15.15 -8.5,16.4 -10.1,15.95 -11.45,15.4 -12.65,14.85 -13.2,14.15 -13.65,13.45 -14.1,12.7z M-7.95,16.6 C-8.85,15.25 -9.65,13.85 -10.3,12.35 -9.85,12.3 -9.4,12.3 -8.9,12.25 -8.3,13.8 -7.45,15.4 -6.5,17 -7.05,16.85 -7.5,16.75 -7.95,16.6z M-9,11.15 C-8.05,11.4 -7.1,11.6 -6.2,11.75 -7.05,11.8 -7.85,11.85 -8.7,11.9 -8.8,11.65 -8.9,11.4 -9,11.15z M-8.7,11.9 C-8.65,12 -8.6,12.15 -8.55,12.25 -7.5,12.2 -6.4,12.15 -5.25,12.1 -4.6,13.9 -3.85,15.65 -3.1,17.2 L-5.45,17.25 C-4.95,17.4 -4.35,17.5 -3.8,17.65 L-2.9,17.6 C-2.85,17.65 -2.85,17.75 -2.8,17.85 -2.65,17.85 -2.45,17.85 -2.3,17.9 -2.35,17.8 -2.4,17.7 -2.45,17.6 L-0.7,17.6 -0.85,17.2 -2.65,17.2 C-3.45,15.65 -4.15,13.9 -4.85,12.05 L-4.4,12.05 C-5,11.95 -5.55,11.85 -6.2,11.75 -7.05,11.8 -7.85,11.85 -8.7,11.9z M-5.25,12.1 C-4.6,13.9 -3.85,15.65 -3.1,17.2 L-5.45,17.25 C-5.6,17.2 -5.8,17.15 -5.95,17.15 -6.9,15.7 -7.7,14.05 -8.55,12.25 -7.5,12.2 -6.4,12.15 -5.25,12.1z M-4.4,12.05 C-3.75,12.15 -3.1,12.25 -2.45,12.25 L-0.85,17.2 -2.65,17.2 C-3.45,15.65 -4.15,13.9 -4.85,12.05 L-4.4,12.05z M-3.8,17.65 L-2.9,17.6 C-2.85,17.65 -2.85,17.75 -2.8,17.85 -3.15,17.8 -3.5,17.7 -3.8,17.65z M-2.45,17.6 L-0.7,17.6 -0.55,18.15 C-1.15,18.1 -1.7,18 -2.3,17.9 -2.35,17.8 -2.4,17.7 -2.45,17.6z M-14,5.1 L-13.05,5.25 C-12.85,6.2 -12.6,7.25 -12.35,8.25 L-16.3,8.45 C-16.85,7.05 -17.3,5.75 -17.65,4.65 L-14.05,5.1 -14,5.1z M-11.4,5.5 C-11.15,6.4 -10.85,7.35 -10.55,8.2 L-11.9,8.25 C-12.2,7.35 -12.4,6.35 -12.65,5.3 L-11.4,5.5z M-12.65,5.3 L-13.05,5.25 C-12.85,6.2 -12.6,7.25 -12.35,8.25 L-16.3,8.45 C-16.25,8.55 -16.25,8.6 -16.2,8.65 L-16.15,8.65 -15.85,8.8 C-14.65,8.7 -13.45,8.65 -12.2,8.6 L-11.6,10.1 C-11.5,10.15 -11.4,10.15 -11.25,10.2 -11.4,9.8 -11.55,9.3 -11.8,8.6 L-10.45,8.55 C-10.5,8.45 -10.5,8.35 -10.55,8.2 L-11.9,8.25 C-12.2,7.35 -12.4,6.35 -12.65,5.3z M-10.45,8.55 C-10.2,9.3 -9.9,9.95 -9.65,10.6 -10.2,10.45 -10.7,10.35 -11.25,10.2 -11.4,9.8 -11.55,9.3 -11.8,8.6 L-10.45,8.55z M-14.1,9.35 L-15.85,8.8 C-14.65,8.7 -13.45,8.65 -12.2,8.6 L-11.6,10.1 C-12.4,9.85 -13.3,9.65 -14.1,9.35z M-18,4.55 C-17.7,5.7 -17.3,7 -16.65,8.5 L-16.8,8.5 C-17.35,8.3 -17.85,8.1 -18.35,7.9 -18.7,7.05 -19.1,5.95 -19.5,4.65 L-18.15,4.55 C-18.1,4.55 -18.05,4.55 -18,4.55z M-20,4.25 L-20,4.3 -21.7,4.5 C-21.65,4.65 -21.65,4.75 -21.6,4.9 L-19.9,4.7 C-19.55,5.8 -19.25,6.8 -18.85,7.7 -18.7,7.75 -18.5,7.85 -18.35,7.9 -18.7,7.05 -19.1,5.95 -19.5,4.65 L-18.15,4.55 C-18.75,4.45 -19.4,4.35 -20,4.25z M-20,4.3 L-21.7,4.5 C-21.75,4.3 -21.8,4.1 -21.85,3.9 -21.2,4.05 -20.6,4.15 -20,4.25 L-20,4.3z M-18.85,7.7 C-19.6,7.4 -20.3,7.15 -20.95,6.8 -21.2,6.15 -21.4,5.55 -21.6,4.9 L-19.9,4.7 C-19.55,5.8 -19.25,6.8 -18.85,7.7z M-16.45,8.95 C-15.9,10.15 -15.35,11.3 -14.7,12.4 -15.15,12.45 -15.5,12.45 -15.85,12.5 -16.6,11.35 -17.3,10.15 -17.85,8.9 -17.55,8.85 -17.15,8.85 -16.8,8.85 -16.7,8.9 -16.6,8.9 -16.45,8.95z M-20.15,8.65 C-20.1,8.75 -20.05,8.85 -20,9 L-18.3,8.9 C-17.7,10.15 -17.05,11.4 -16.25,12.55 -16.6,12.6 -16.9,12.65 -17.2,12.7 -16.95,12.8 -16.75,12.9 -16.55,13.05 -16.4,13 -16.2,13 -16,12.95 -15.9,13.15 -15.8,13.35 -15.65,13.5 -15.45,13.55 -15.25,13.65 -15.05,13.75 L-14.85,13.85 C-15.1,13.5 -15.35,13.2 -15.6,12.85 L-14.5,12.75 C-14.55,12.6 -14.65,12.5 -14.7,12.4 -15.15,12.45 -15.5,12.45 -15.85,12.5 -16.6,11.35 -17.3,10.15 -17.85,8.9 -17.55,8.85 -17.15,8.85 -16.8,8.85 -17.15,8.7 -17.45,8.6 -17.75,8.55 L-18.05,8.55 -18.15,8.4 C-18.3,8.35 -18.5,8.25 -18.65,8.2 -18.6,8.25 -18.6,8.25 -18.6,8.3 L-18.5,8.5 -18.5,8.55 -20.15,8.65z M-17.75,8.55 L-18.05,8.55 -18.15,8.4 C-18,8.45 -17.9,8.5 -17.75,8.55z M-18.6,8.3 L-18.5,8.5 -18.5,8.55 -20.15,8.65 C-20.4,8.25 -20.6,7.75 -20.75,7.35 -20.15,7.55 -19.45,7.85 -18.65,8.2 -18.6,8.25 -18.6,8.25 -18.6,8.3z M-18.3,8.9 C-17.7,10.15 -17.05,11.4 -16.25,12.55 -16.6,12.6 -16.9,12.65 -17.2,12.7 -17.55,12.5 -17.85,12.3 -18.2,12.15 -18.9,11.1 -19.45,10.05 -20,9 L-18.3,8.9z M-13.35,14.55 L-14.85,13.85 C-15.1,13.5 -15.35,13.2 -15.6,12.85 L-14.5,12.75 C-14.15,13.4 -13.8,13.95 -13.35,14.55z M-15.65,13.5 C-15.9,13.35 -16.2,13.2 -16.55,13.05 -16.4,13 -16.2,13 -16,12.95 -15.9,13.15 -15.8,13.35 -15.65,13.5z M-12.95,15.15 C-12.35,15.95 -11.75,16.75 -11.2,17.4 L-11.75,17.4 C-12.7,16.5 -13.6,15.55 -14.4,14.45 L-13.15,15.05 -13,15.1 -12.95,15.15z M-13,18.2 L-13.1,18.15 C-13.15,18.1 -13.25,18 -13.3,17.95 -12.85,17.9 -12.4,17.9 -11.9,17.85 -11.15,18.55 -10.35,19.3 -9.45,19.95 -10,19.7 -10.55,19.5 -11.1,19.2 L-12.9,18.3 -13,18.2z M-13.65,17.6 C-13.55,17.7 -13.45,17.8 -13.3,17.95 -12.85,17.9 -12.4,17.9 -11.9,17.85 -11.15,18.55 -10.35,19.3 -9.45,19.95 -9,20.15 -8.65,20.35 -8.2,20.5 -9.3,19.65 -10.35,18.75 -11.35,17.8 L-10.85,17.8 C-11,17.65 -11.1,17.55 -11.2,17.4 L-11.75,17.4 C-12.7,16.5 -13.6,15.55 -14.4,14.45 L-15.25,14 C-14.4,15.2 -13.4,16.35 -12.3,17.45 -12.8,17.5 -13.25,17.55 -13.65,17.6z M-10.45,18.35 C-9.8,19.05 -9,19.75 -8.15,20.5 L-8.2,20.5 C-9.3,19.65 -10.35,18.75 -11.35,17.8 L-10.85,17.8 C-10.7,18 -10.55,18.2 -10.45,18.35z M-13.65,17.6 C-15.15,16.1 -16.45,14.65 -17.5,13.15 -17.4,13.1 -17.25,13.1 -17.1,13.1 L-15.25,14 C-14.4,15.2 -13.4,16.35 -12.3,17.45 -12.8,17.5 -13.25,17.55 -13.65,17.6z M-17.1,13.1 L-17.7,12.75 -17.75,12.75 C-17.65,12.9 -17.6,13 -17.5,13.15 -17.4,13.1 -17.25,13.1 -17.1,13.1z M-13.45,18.4 L-13.1,18.7 C-12.55,19.25 -11.95,19.7 -11.3,20.25 -11.6,20.1 -11.9,19.95 -12.2,19.8 -13.4,19.25 -14.3,18.7 -14.95,18.2 -14.7,18.15 -14.4,18.1 -14.1,18.05 -13.9,18.15 -13.7,18.25 -13.45,18.4z M-14.1,18.05 C-14.2,17.95 -14.4,17.85 -14.55,17.75 -15.1,17.85 -15.35,17.95 -15.4,18.1 -15.4,18.15 -15.4,18.2 -15.4,18.25 -15.2,18.4 -15,18.55 -14.8,18.7 -14.6,18.85 -14.4,19.05 -14.2,19.2 -13.65,19.55 -12.95,19.9 -12.15,20.25 -11.45,20.6 -10.75,20.85 -10.1,21.1 -10.55,20.85 -10.9,20.55 -11.3,20.25 -11.6,20.1 -11.9,19.95 -12.2,19.8 -13.4,19.25 -14.3,18.7 -14.95,18.2 -14.7,18.15 -14.4,18.1 -14.1,18.05z M-15.4,18.25 C-16.6,17.15 -17.75,16.05 -18.8,14.9 -17.45,15.95 -16,16.9 -14.55,17.75 -15.1,17.85 -15.35,17.95 -15.4,18.1 -15.4,18.15 -15.4,18.2 -15.4,18.25z M-12.15,20.25 C-11.45,20.6 -10.75,20.85 -10.1,21.1 -7.7,22.7 -4.85,24.1 -1.55,25.3 -6.8,23.75 -11,21.75 -14.2,19.2 -13.65,19.55 -12.95,19.9 -12.15,20.25z M-12.25,15.5 C-11.1,15.95 -9.75,16.45 -8.15,16.95 -8.1,17.1 -8,17.15 -7.95,17.25 L-10.7,17.35 -12.25,15.5z M-10.4,17.75 L-7.65,17.65 C-6.6,19.15 -5.35,20.55 -4.05,21.8 -5.1,21.5 -6.1,21.2 -7.05,20.85 -8.25,19.95 -9.25,19 -10.15,18.1 L-10.4,17.75z M-10.7,17.35 L-10.4,17.75 -7.65,17.65 C-6.6,19.15 -5.35,20.55 -4.05,21.8 -3.8,21.85 -3.5,21.95 -3.25,22 -4.75,20.7 -6.05,19.25 -7.15,17.65 L-6.1,17.65 -6.15,17.55 -6.2,17.5 C-6.5,17.4 -6.8,17.3 -7.05,17.25 L-7.45,17.25 C-7.5,17.2 -7.5,17.15 -7.55,17.15 -7.75,17.1 -7.95,17 -8.15,16.95 -8.1,17.1 -8,17.15 -7.95,17.25 L-10.7,17.35z M-7.55,17.15 C-7.4,17.15 -7.2,17.2 -7.05,17.25 L-7.45,17.25 C-7.5,17.2 -7.5,17.15 -7.55,17.15z M-6.1,17.65 C-5.15,19.25 -3.85,20.75 -2.45,22.15 -2.7,22.1 -3,22.05 -3.25,22 -4.75,20.7 -6.05,19.25 -7.15,17.65 L-6.1,17.65z M-19.85,13.5 C-19.35,13.4 -18.7,13.3 -17.9,13.2 -18,13.05 -18.1,12.95 -18.15,12.85 -19.2,13 -19.8,13.15 -20.15,13.25 -20.1,13.3 -20.1,13.35 -20.05,13.4 -20,13.45 -19.9,13.5 -19.85,13.5z M-17.9,13.2 C-16.9,14.7 -15.7,16.05 -14.35,17.45 -16.55,16.2 -18.35,14.9 -19.85,13.5 -19.35,13.4 -18.7,13.3 -17.9,13.2z M-20.15,13.25 C-21.05,12.15 -21.8,10.95 -22.45,9.75 -21.4,10.6 -20,11.5 -18.5,12.35 -18.4,12.5 -18.3,12.7 -18.15,12.85 -19.2,13 -19.8,13.15 -20.15,13.25z M-11.2,19.55 C-10.55,19.85 -9.6,20.35 -8.3,20.85 -7.9,21.1 -7.5,21.4 -7.05,21.7 -7.95,21.45 -8.8,21.2 -9.6,20.9 -10.45,20.35 -11.25,19.75 -12,19.15 L-11.2,19.55z M-7.2,21.25 C-7.6,21.1 -7.95,20.95 -8.3,20.85 -7.9,21.1 -7.5,21.4 -7.05,21.7 -7.95,21.45 -8.8,21.2 -9.6,20.9 -9.2,21.15 -8.8,21.45 -8.4,21.7 -7.65,21.95 -6.9,22.1 -6.1,22.3 -4.85,23.15 -3.5,23.8 -2.15,24.45 -4.05,23.4 -5.7,22.35 -7.2,21.25z M-6.1,22.3 C-4.85,23.15 -3.5,23.8 -2.15,24.45 -1.7,24.65 -1.2,24.95 -0.65,25.2 -3.55,24.2 -6.15,23.05 -8.4,21.7 -7.65,21.95 -6.9,22.1 -6.1,22.3z M-22.55,2.65 C-22.6,2.45 -22.65,2.2 -22.7,1.95 -24.2,1.7 -25,1.45 -25.2,1.25 L-25.15,1.7 C-24.75,1.9 -23.95,2.1 -22.85,2.3 L-24.85,2.65 C-24.75,2.7 -24.6,2.8 -24.3,2.95 L-22.55,2.65z M-25.25,1.1 L-24.85,1 -24.95,0.8 C-24.9,0.7 -24.65,0.45 -22.95,0 -22.9,0.65 -22.8,1.3 -22.7,1.95 -24.2,1.7 -25,1.45 -25.2,1.25 L-25.25,1.1z M-24.95,2.5 L-24.85,2.35 -24.95,2.35 -25.05,2.3 -25.15,1.7 C-24.75,1.9 -23.95,2.1 -22.85,2.3 L-24.85,2.65 C-24.9,2.6 -24.95,2.55 -24.95,2.5z M-22.4,3.45 C-23.2,3.25 -23.85,3.1 -24.3,2.95 L-22.55,2.65 C-22.5,2.9 -22.45,3.2 -22.4,3.45z M-24.45,4.9 C-24.35,4.95 -24.25,5.05 -24.15,5.1 L-22,4.9 C-22.05,4.8 -22.05,4.65 -22.1,4.55 L-24.5,4.8 C-24.45,4.85 -24.45,4.9 -24.45,4.9z M-22.1,4.55 L-24.5,4.8 C-24.75,4 -24.85,3.45 -24.9,3.05 -24.5,3.3 -23.6,3.6 -22.25,3.85 -22.2,4.1 -22.15,4.3 -22.1,4.55z M-22,4.9 C-21.85,5.45 -21.65,6 -21.4,6.6 -22.55,6.1 -23.45,5.55 -24.15,5.1 L-22,4.9z M-22.6,9.2 L-20.35,9.05 C-20.4,8.9 -20.5,8.8 -20.55,8.65 L-22.9,8.8 -22.9,8.85 C-22.9,8.9 -22.9,8.95 -22.85,9 -22.8,9.05 -22.7,9.15 -22.6,9.2z M-20.35,9.05 C-19.9,9.95 -19.4,10.85 -18.9,11.7 -20.4,10.85 -21.6,10 -22.6,9.2 L-20.35,9.05z M-20.55,8.65 L-22.9,8.8 -22.9,8.85 C-23.5,7.65 -23.95,6.5 -24.3,5.45 -23.55,5.95 -22.55,6.5 -21.2,7.1 -21,7.6 -20.8,8.15 -20.55,8.65z M25.25,2.5 C25.2,2.5 25.2,2.5 25.15,2.5 25.15,2.55 25.15,2.55 25.15,2.6 L25.2,2.6 25.25,2.65 25.25,2.7 25.3,2.5 25.25,2.5z M23.95,12.25 C23.95,12.2 23.95,12.15 23.9,12.1 L23.85,12.25 23.8,12.3 23.8,12.35 23.95,12.3 23.95,12.25z M22.2,16.6 L22.1,16.8 22.25,16.65 22.2,16.6z M-7.75,-26.45 L-7.8,-26.45 C-8.05,-26.35 -8.25,-26.25 -8.5,-26.15 -8.25,-26.2 -7.95,-26.25 -7.65,-26.3 L-7.75,-26.45z M-5.8,-26.6 L-5.45,-26.6 -5.55,-26.75 -5.65,-26.7 C-5.7,-26.65 -5.75,-26.65 -5.8,-26.6z M-3.55,-26.75 L-3.25,-26.75 C-3.2,-26.75 -3.1,-26.75 -2.95,-26.75 L-3.5,-26.85 -3.55,-26.85 -3.55,-26.75z M-2.75,-26.9 L-2.8,-26.9 -2.85,-26.75 C-2.6,-26.75 -2.35,-26.75 -2.05,-26.75 -2.3,-26.8 -2.5,-26.85 -2.75,-26.9z M-4.6,-26.75 C-4.55,-26.8 -4.45,-26.8 -4.4,-26.8 L-4.55,-26.85 -4.65,-26.85 -4.7,-26.8 C-4.75,-26.75 -4.75,-26.75 -4.8,-26.7 L-4.6,-26.75z"/>
+        <path id="path325" fill="url(#radialGradient218)" d="M24.85,-0.9 C24.85,-0.95 24.85,-1 24.85,-1.05 L24.8,-1.05 C24.85,-0.95 24.85,-0.85 24.85,-0.9"/>
+        <path id="path531" fill="url(#radialGradient219)" d="M-5.65,17.6 C-5.65,17.65 -5.65,17.65 -5.6,17.65 L-5.45,17.65 C-5.5,17.6 -5.6,17.6 -5.65,17.6"/>
+        <path id="path590" fill="url(#radialGradient220)" d="M13.85,21.8 L13.85,21.75 C13.8,21.8 13.75,21.8 13.7,21.8 13.75,21.8 13.8,21.8 13.85,21.8"/>
+        <path id="path964" fill="url(#radialGradient221)" d="M-16.65,8.55 L-16.65,8.5 -16.8,8.5 C-16.75,8.5 -16.7,8.5 -16.65,8.55"/>
+        <path id="path1074" fill="url(#radialGradient222)" d="M25,6.1 L24.95,6.05 25,6.15 25,6.1"/>
+      </g>
+    </g>
+  </g>
+</svg>

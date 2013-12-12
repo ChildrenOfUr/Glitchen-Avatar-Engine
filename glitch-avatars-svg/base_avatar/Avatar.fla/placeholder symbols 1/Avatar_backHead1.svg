@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Avatar"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="68"
+   height="126"
+   viewBox="0 0 68 126"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Avatar_backHead1.svg">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="1.8730159"
+     inkscape:cx="34"
+     inkscape:cy="63"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Avatar" />
+  <defs
+     id="defs3">
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="46.72503302871269"
+       cx="126.5"
+       cy="74.75"
+       fx="126.5"
+       fy="74.75"
+       gradientTransform="matrix(-0.41302490234375 0.9107818603515625 0.9107818603515625 0.41302490234375 110.65 -71.299)"
+       id="radialGradient">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.2980392156862745"
+         offset="0"
+         id="stop6" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2980392156862745"
+         offset="1"
+         id="stop8" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="46.728"
+       cx="121.808"
+       cy="-112.495"
+       fx="121.808"
+       fy="-112.495"
+       gradientTransform="matrix(-0.413,0.911,0.911,0.413,163.95,-105.649)"
+       id="radialGradient1">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.2980392156862745"
+         offset="0"
+         id="stop11" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2980392156862745"
+         offset="1"
+         id="stop13" />
+    </radialGradient>
+  </defs>
+  <g
+     id="backHead2"
+     overflow="visible"
+     transform="translate(27.228814,52.322034)"
+     style="overflow:visible">
+    <g
+       id="backHead1_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="m 24.101,-23.049 c 0.05,-9.8 -2.25,-16.8 -6.5,-20.3 q -7.3,-6.05 -18.05,-5.5 c -6,-0.3 -12.45,0.9 -18,5.5 -4.25,3.5 -6.55,10.5 -6.5,20.3 0.05,8.85 4.45,15.95 10.5,21.25 3.65,3.2 9.2,5.7 14,7.1 l 0.05,0 c 4.75,-1.4 10.35,-3.9 13.95,-7.1 6.05,-5.3 10.45,-12.4 10.55,-21.25 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ff0000" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path1"
+             d="m -20.649,-17.949 c -3.9,-10.2 -1.45,-17.8 0.75,-24 -3.35,3.8 -5.1,10.25 -5.05,18.9 0.05,8.85 4.45,15.95 10.5,21.25 3.65,3.2 9.2,5.7 14,7.1 l 0.05,0 c 4.25,-1.25 9.2,-3.4 12.75,-6.15 -1.5,-1.35 -3.8,-2.85 -7.25,-3.85 q -4.85,-1.4 -9.8,0.05 l -3.95,1.7 c 0,0 -8.7,-6.3 -12,-15 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.2" />
+        </g>
+        <g
+           id="drawingObject2">
+          <path
+             id="path2"
+             d="m -18.199,-43.349 c -4.25,3.5 -6.55,10.5 -6.5,20.3 0.05,8.85 4.45,15.95 10.5,21.25 3.65,3.2 9.2,5.7 14,7.1 l 0.05,0 c 4.75,-1.4 10.35,-3.9 13.95,-7.1 6.05,-5.3 10.45,-12.4 10.55,-21.25 0.05,-9.8 -2.25,-16.8 -6.5,-20.3 q -7.3,-6.05 -18.05,-5.5 c -6,-0.3 -12.45,0.9 -18,5.5 z"
+             style="fill:url(#radialGradient1)"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

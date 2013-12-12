@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Avatar"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="68"
+   height="126"
+   viewBox="0 0 68 126"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Avatar_sideSkull1.svg">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="1.8730159"
+     inkscape:cx="34"
+     inkscape:cy="123.49993"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Avatar" />
+  <defs
+     id="defs3">
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="45.674386891661"
+       cx="56.05"
+       cy="25.55"
+       fx="56.05"
+       fy="25.55"
+       gradientTransform="matrix(-0.3775787353515625 0.926055908203125 0.8732452392578125 0.4027557373046875 54.9 -36.649)"
+       id="radialGradient">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.2980392156862745"
+         offset="0"
+         id="stop6" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2980392156862745"
+         offset="1"
+         id="stop8" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="45.678"
+       cx="63.804"
+       cy="-55.297"
+       fx="63.804"
+       fy="-55.297"
+       gradientTransform="matrix(-0.378,0.926,0.873,0.403,81.2,-55.399)"
+       id="radialGradient1">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.2980392156862745"
+         offset="0"
+         id="stop11" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2980392156862745"
+         offset="1"
+         id="stop13" />
+    </radialGradient>
+  </defs>
+  <g
+     id="sideSkull2"
+     overflow="visible"
+     transform="translate(26.694915,28.830508)"
+     style="overflow:visible">
+    <g
+       id="sideSkull1_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="m 21.501,17.001 c 3.75,-4.75 3.8,-16.85 3.4,-24.5 -0.3,-5.95 -6.1,-14.7 -13.45,-16.9 -7.9,-2.35 -20.3,-4.5 -29.9,3.15 q -6.55,5.25 -6.5,19.55 c 0.05,8.55 4.45,15.35 10.55,20.5 6.05,5.1 17.6,8.45 21.7,7.9 4.65,-0.6 8.95,-3.1 14.2,-9.7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ff0000" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path1"
+             d="m -13.699,13.851 q -4.3,-4.5 -7.3,-12 -2.7,-6.7 -3.15,-12.35 c -0.55,2.6 -0.8,5.55 -0.8,8.8 0.05,8.55 4.45,15.35 10.55,20.5 6.05,5.1 17.6,8.45 21.7,7.9 1.65,-0.2 3.3,-0.7 4.9,-1.5 -10.5,1.1 -19.25,-4.35 -25.9,-11.35 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.2" />
+        </g>
+        <g
+           id="drawingObject2">
+          <path
+             id="path2"
+             d="m 25.001,-7.499 c -0.3,-5.95 -6.1,-14.7 -13.45,-16.9 -7.9,-2.35 -20.3,-4.5 -29.9,3.15 q -6.55,5.25 -6.5,19.55 c 0.05,8.55 4.45,15.35 10.55,20.5 6.05,5.1 17.6,8.45 21.7,7.9 4.65,-0.6 8.95,-3.1 14.2,-9.7 3.75,-4.75 3.8,-16.85 3.4,-24.5 z"
+             style="fill:url(#radialGradient1)"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
