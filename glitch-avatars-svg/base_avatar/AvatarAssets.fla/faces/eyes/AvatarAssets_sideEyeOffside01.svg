@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="6.4467993"
+   height="10.725041"
+   viewBox="0 0 6.4467993 10.725041"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_sideEyeOffside01.svg">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview41"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="36.391834"
+     inkscape:cy="-57.387552"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3">
+    <symbol
+       id="sideEyeOffside01Anim_f0"
+       viewBox="-53.5 -54.4 105.5 109.75">
+      <g
+         id="sideEyeOffside01Anim_f0_1_0">
+        <g
+           id="element2">
+          <g
+             id="drawingObject">
+            <path
+               id="path"
+               d="m 1.925,0.783 c 0.293,-2.692 -0.479,-4.969 -1.777,-5.064 -1.295,-0.145 -2.567,1.913 -2.86,4.604 -0.292,2.691 0.53,4.971 1.827,5.065 Q 0.061,5.521 0.859,4.148 1.706,2.776 1.925,0.783 z"
+               inkscape:connector-curvature="0"
+               style="fill:#a3a3a3;fill-opacity:0.08600003" />
+          </g>
+          <g
+             id="drawingObject1">
+            <path
+               id="path1"
+               d="m 2.07,0.864 c 0.291,-2.642 -0.681,-4.926 -2.177,-5.078 -1.495,-0.151 -2.917,1.901 -3.208,4.542 -0.291,2.641 0.681,4.926 2.127,5.076 Q -0.043,5.543 0.903,4.225 1.851,2.857 2.07,0.864 z"
+               inkscape:connector-curvature="0"
+               style="fill:url(#radialGradient2)" />
+          </g>
+          <g
+             id="drawingObject2">
+            <path
+               id="path2"
+               d="m 1.546,1.407 c 0.214,-1.846 -0.482,-3.414 -1.63,-3.505 -1.097,-0.089 -2.194,1.263 -2.408,3.109 -0.213,1.845 0.533,3.415 1.63,3.504 Q -0.014,4.596 0.717,3.695 1.401,2.74 1.546,1.407 z"
+               inkscape:connector-curvature="0"
+               style="fill:url(#radialGradient3)" />
+          </g>
+          <g
+             id="drawingObject3">
+            <path
+               id="path3"
+               d="m -1.189,-1.776 c 0.316,-0.439 0.383,-0.937 0.138,-1.096 -0.196,-0.106 -0.655,0.128 -0.97,0.567 -0.317,0.49 -0.384,0.988 -0.188,1.094 q 0.44,0.316 1.02,-0.565 z"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" />
+          </g>
+        </g>
+      </g>
+    </symbol>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="5.6138"
+       cx="45.849998"
+       cy="27.6"
+       fx="45.849998"
+       fy="27.6"
+       gradientTransform="matrix(0.19647217,0.98234558,0.59823608,-0.41722107,20.35,-5.949)"
+       id="radialGradient">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop17" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop19" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="3.7783725"
+       cx="25.9"
+       cy="5.6999998"
+       fx="25.9"
+       fy="5.6999998"
+       gradientTransform="matrix(0.21966553,0.97705078,0.66885376,-0.41967773,16.4,-17.199)"
+       id="radialGradient1">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop22" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop24" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="5.6240001"
+       cx="20.729"
+       cy="-7.302"
+       fx="20.729"
+       fy="-7.302"
+       gradientTransform="matrix(0.162,0.987,0.611,-0.396,0.3,-23.899)"
+       id="radialGradient2">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop27" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop29" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="3.8870001"
+       cx="17.35"
+       cy="-17.584"
+       fx="17.35"
+       fy="-17.584"
+       gradientTransform="matrix(0.18,0.984,0.664,-0.397,7.95,-23.599)"
+       id="radialGradient3">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop32" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop34" />
+    </radialGradient>
+  </defs>
+  <g
+     id="sideEyeOffside2"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(4.3918344,6.1125931)">
+    <g
+       id="sideEyeOffside01_1_1">
+      <use
+         xlink:href="#sideEyeOffside01Anim_f0"
+         id="element1"
+         width="106"
+         height="110"
+         x="-54"
+         y="-55"
+         overflow="visible"
+         viewBox="-53.5 -54.4 105.5 109.75"
+         transform="matrix(1.1691589,0,0,1.1025391,-0.149,-0.849)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideEyeOffside01_1_0">
+      <use
+         xlink:href="#sideEyeOffside01Anim_f0"
+         id="element"
+         width="106"
+         height="110"
+         x="-54"
+         y="-55"
+         overflow="visible"
+         transform="matrix(1.1691589,0,0,1.1025391,-0.149,-0.849)"
+         style="overflow:visible" />
+    </g>
+  </g>
+</svg>

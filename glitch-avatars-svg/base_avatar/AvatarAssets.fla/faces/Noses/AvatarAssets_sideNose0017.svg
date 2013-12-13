@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="6.9000001"
+   height="7.3499999"
+   viewBox="0 0 6.9000001 7.3499999"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_sideNose0017.svg">
+  <metadata
+     id="metadata3085">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3083"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="35.449"
+     inkscape:cy="-57.149"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3054">
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="3.4636841"
+       cx="399.60001"
+       cy="636.95001"
+       fx="399.60001"
+       fy="636.95001"
+       gradientTransform="matrix(1,0,0,-0.99642944,0,1271.6)"
+       id="radialGradient">
+      <stop
+         stop-color="#373535"
+         stop-opacity="0.4980392156862745"
+         offset="0"
+         id="stop3057" />
+      <stop
+         stop-color="#373535"
+         stop-opacity="0"
+         offset="1"
+         id="stop3059" />
+    </radialGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       x1="402.14999"
+       y1="634.03748"
+       x2="398.75"
+       y2="639.26251"
+       id="linearGradient">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.2980392156862745"
+         offset="0"
+         id="stop3062" />
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.08627450980392157"
+         offset="1"
+         id="stop3064" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="3.464"
+       cx="-0.098999999"
+       cy="1272.8"
+       fx="-0.098999999"
+       fy="1272.8"
+       gradientTransform="matrix(1,0,0,-0.996,0,1269.4)"
+       id="radialGradient1">
+      <stop
+         stop-color="#373535"
+         stop-opacity="0.4980392156862745"
+         offset="0"
+         id="stop3067" />
+      <stop
+         stop-color="#373535"
+         stop-opacity="0"
+         offset="1"
+         id="stop3069" />
+    </radialGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       x1="2.401"
+       y1="-1.761"
+       x2="-0.99900001"
+       y2="3.4630001"
+       id="linearGradient1">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.2980392156862745"
+         offset="0"
+         id="stop3072" />
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.08627450980392157"
+         offset="1"
+         id="stop3074" />
+    </linearGradient>
+  </defs>
+  <g
+     id="sideNose18"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(3.449,2.499)">
+    <g
+       id="sideNose0017_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="m 0.851,-2.099 0.75,0.1 c -0.5,-0.3 -1.05,-0.5 -1.7,-0.5 -1.85,0 -3.35,1.65 -3.35,3.65 0,2.05 1.5,3.7 3.35,3.7 1.65,0 3,-1.3 3.3,-3 -0.45,0.95 -1.35,1.6 -2.35,1.6 q -1.1,0 -1.85,-0.8 -0.75,-0.8 -0.75,-1.95 c 0,-1.55 1.15,-2.8 2.6,-2.8 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient1)" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path1"
+             d="m 3.451,0.701 c 0,-1.55 -1.15,-2.8 -2.6,-2.8 -1.45,0 -2.6,1.25 -2.6,2.8 0,1.5 1.15,2.75 2.6,2.75 q 1.1,0 1.85,-0.8 0.75,-0.8 0.75,-1.95 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#linearGradient1)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

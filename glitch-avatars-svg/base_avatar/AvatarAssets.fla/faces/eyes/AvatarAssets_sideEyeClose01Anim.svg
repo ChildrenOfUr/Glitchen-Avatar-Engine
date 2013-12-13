@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="15.943872"
+   height="15.692038"
+   viewBox="0 0 15.943872 15.692038"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_sideEyeClose01Anim.svg">
+  <metadata
+     id="metadata222">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview220"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="39.099"
+     inkscape:cy="-55.063212"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3">
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="7.2029147"
+       cx="4.75"
+       cy="4.4499998"
+       fx="4.75"
+       fy="4.4499998"
+       gradientTransform="matrix(0.45016479,0.89347839,0.83332825,-0.47766113,-1.099,2.35)"
+       id="radialGradient">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop6" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop8" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.9353004"
+       cx="6.1999998"
+       cy="5.4499998"
+       fx="6.1999998"
+       fy="5.4499998"
+       gradientTransform="matrix(0.46231079,0.88945007,0.86181641,-0.47738647,-1.349,2.55)"
+       id="radialGradient1">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop11" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop13" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="8.6672649"
+       cx="5.0500002"
+       cy="5.5"
+       fx="5.0500002"
+       fy="5.5"
+       gradientTransform="matrix(0.39428711,0.91999817,0.73143005,-0.49142456,-0.949,3.55)"
+       id="radialGradient2">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop16" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop18" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.5304527"
+       cx="7"
+       cy="7.25"
+       fx="7"
+       fy="7.25"
+       gradientTransform="matrix(0.40437317,0.91529846,0.75137329,-0.48907471,-1.299,4.4)"
+       id="radialGradient3">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop21" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop23" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="8.7630634"
+       cx="4.9499998"
+       cy="5.6500001"
+       fx="4.9499998"
+       fy="5.6500001"
+       gradientTransform="matrix(0.45198059,0.89265442,0.6934967,-0.53813171,-1.199,4.3)"
+       id="radialGradient4">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop26" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop28" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.5700517"
+       cx="7.0500002"
+       cy="7.3000002"
+       fx="7.0500002"
+       fy="7.3000002"
+       gradientTransform="matrix(0.46070862,0.8888855,0.7154541,-0.53929138,-1.399,5)"
+       id="radialGradient5">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop31" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop33" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="6.8496733"
+       cx="4.75"
+       cy="8.0500002"
+       fx="4.75"
+       fy="8.0500002"
+       gradientTransform="matrix(0.57324219,0.82098389,0.81735229,-0.55154419,-4.549,8.6)"
+       id="radialGradient6">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop36" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop38" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.7066512"
+       cx="6.3000002"
+       cy="8.8500004"
+       fx="6.3000002"
+       fy="8.8500004"
+       gradientTransform="matrix(0.58421326,0.81315613,0.84474182,-0.55262756,-4.899,8.65)"
+       id="radialGradient7">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop41" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop43" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="7.2029147"
+       cx="4.6999998"
+       cy="4.0999999"
+       fx="4.6999998"
+       fy="4.0999999"
+       gradientTransform="matrix(0.45016479,0.89347839,0.83332825,-0.47766113,-0.799,1.85)"
+       id="radialGradient8">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop46" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop48" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="3.642019"
+       cx="7.1500001"
+       cy="5.5500002"
+       fx="7.1500001"
+       fy="5.5500002"
+       gradientTransform="matrix(0.47619629,0.88095093,0.88775635,-0.47619629,-1.199,1.9)"
+       id="radialGradient9">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop51" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop53" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="6.7530622"
+       cx="7.0999999"
+       cy="5.3499999"
+       fx="7.0999999"
+       fy="5.3499999"
+       gradientTransform="matrix(0.50642395,0.86422729,0.93945313,-0.46238708,-1.549,1.65)"
+       id="radialGradient10">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop56" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop58" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="3.540781"
+       cx="9.0500002"
+       cy="6.6500001"
+       fx="9.0500002"
+       fy="6.6500001"
+       gradientTransform="matrix(0.51748657,0.85664368,0.96153259,-0.45803833,-2.049,1.95)"
+       id="radialGradient11">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop61" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop63" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="6.7639999"
+       cx="-1.437"
+       cy="0.81"
+       fx="-1.437"
+       fy="0.81"
+       gradientTransform="matrix(0.506,0.863,0.938,-0.462,0.05,0.75)"
+       id="radialGradient12">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop66" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop68" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="3.5439999"
+       cx="0.108"
+       cy="1.706"
+       fx="0.108"
+       fy="1.706"
+       gradientTransform="matrix(0.517,0.856,0.961,-0.458,0.4,0.45)"
+       id="radialGradient13">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop71" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop73" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="7.2069998"
+       cx="-0.64700001"
+       cy="0.653"
+       fx="-0.64700001"
+       fy="0.653"
+       gradientTransform="matrix(0.45,0.893,0.833,-0.477,-0.049,-0.249)"
+       id="radialGradient14">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop76" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop78" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="3.6470001"
+       cx="1.011"
+       cy="1.659"
+       fx="1.011"
+       fy="1.659"
+       gradientTransform="matrix(0.476,0.88,0.887,-0.476,0.2,-0.349)"
+       id="radialGradient15">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop81" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop83" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="6.8590002"
+       cx="-4.4429998"
+       cy="8.3610001"
+       fx="-4.4429998"
+       fy="8.3610001"
+       gradientTransform="matrix(0.572,0.82,0.816,-0.551,-4.099,7.95)"
+       id="radialGradient16">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop86" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop88" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.7129998"
+       cx="-3.2409999"
+       cy="9.2110004"
+       fx="-3.2409999"
+       fy="9.2110004"
+       gradientTransform="matrix(0.583,0.812,0.844,-0.552,-4.199,8.2)"
+       id="radialGradient17">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop91" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop93" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="8.8789997"
+       cx="-1.434"
+       cy="2.2750001"
+       fx="-1.434"
+       fy="2.2750001"
+       gradientTransform="matrix(0.473,0.881,0.726,-0.531,-0.949,0.4)"
+       id="radialGradient18">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop96" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop98" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.6350002"
+       cx="0.152"
+       cy="4.5549998"
+       fx="0.152"
+       fy="4.5549998"
+       gradientTransform="matrix(0.482,0.876,0.748,-0.532,-1.499,1.8)"
+       id="radialGradient19">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop101" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop103" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="8.6750002"
+       cx="-0.79400003"
+       cy="1.406"
+       fx="-0.79400003"
+       fy="1.406"
+       gradientTransform="matrix(0.394,0.919,0.731,-0.491,-0.549,-0.699)"
+       id="radialGradient20">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop106" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop108" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.533"
+       cx="0.80599999"
+       cy="3.806"
+       fx="0.80599999"
+       fy="3.806"
+       gradientTransform="matrix(0.404,0.915,0.751,-0.489,-1.099,0.6)"
+       id="radialGradient21">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop111" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop113" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="7.2069998"
+       cx="-0.89700001"
+       cy="0.653"
+       fx="-0.89700001"
+       fy="0.653"
+       gradientTransform="matrix(0.45,0.893,0.833,-0.477,0,-0.549)"
+       id="radialGradient22">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop116" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop118" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.947"
+       cx="0.31600001"
+       cy="1.864"
+       fx="0.31600001"
+       fy="1.864"
+       gradientTransform="matrix(0.461,0.887,0.86,-0.476,-0.099,-0.049)"
+       id="radialGradient23">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop121" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop123" />
+    </radialGradient>
+  </defs>
+  <g
+     id="sideEyeClose01Anim1"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(7.099,8.75525)">
+    <g
+       id="sideEyeClose01Anim_1_6">
+      <g
+         id="element6">
+        <g
+           id="drawingObject27">
+          <path
+             id="path27"
+             d="m 5.451,0.201 c -0.05,-0.75 -0.25,-1.4 -0.5,-2 -2.3,-0.8 -4.5,-1.95 -6.95,-2.05 q -0.3,0 -0.7,-0.2 c -1.5,1 -2.45,2.75 -2.3,4.7 0.15,2.95 2.65,5.2 5.5,5.1 2.9,-0.15 5.1,-2.65 4.95,-5.55 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.22699998" />
+        </g>
+        <g
+           id="drawingObject28">
+          <path
+             id="path28"
+             d="m 6.451,0.201 c -0.05,-0.6 -0.15,-1.15 -0.35,-1.65 q -0.5,-0.15 -4,-1.45 -2.4,-0.9 -4.1,-0.95 l -0.35,-0.05 c -1.45,1 -2.35,2.7 -2.25,4.55 0.15,2.95 2.75,5.25 5.85,5.1 3.05,-0.15 5.35,-2.65 5.2,-5.55 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient12)" />
+        </g>
+        <g
+           id="drawingObject29">
+          <path
+             id="path29"
+             d="m 5.501,0.251 c -0.05,-1.5 -1.45,-2.7 -3.1,-2.6 -1.65,0.05 -2.9,1.35 -2.8,2.9 0.05,1.5 1.45,2.7 3.1,2.6 q 1.25,-0.05 2.05,-0.9 0.85,-0.85 0.75,-2 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient13)" />
+        </g>
+        <g
+           id="drawingObject30">
+          <path
+             id="path30"
+             d="m -0.449,-3.149 c -0.4,-0.3 -1.3,0 -1.9,0.65 -0.6,0.65 -0.8,1.45 -0.35,1.8 0.45,0.3 1.3,0 1.9,-0.65 q 0.5,-0.5 0.6,-1.05 0.1,-0.5 -0.25,-0.75 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           id="drawingObject31">
+          <path
+             id="path31"
+             d="m 0.401,-3.449 c 5.55,0.8 5.35,2.45 6.95,2.05 q 0.65,-0.2 1,-1.1 0.3,-0.9 0.2,-2.15 c -0.15,0.6 -0.4,1.55 -1.15,1.65 -1.45,0.25 -6.25,-2.55 -10.25,-2.05 -2.3,0.3 -4.25,1.75 -4.25,1.75 0,0 2.55,-0.8 7.5,-0.15 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.06700003" />
+        </g>
+        <g
+           id="drawingObject32">
+          <path
+             id="path32"
+             d="m -0.349,-3.599 c 3.55,0.5 5.3,2.1 6.95,2.55 1.1,0.25 1.95,0.2 2.2,-1.5 0.25,-1.7 -0.65,-3.7 -0.65,-3.7 0,0 0.3,1.55 0.35,2.2 0.05,0.6 -0.3,2.8 -1.95,2.25 -1.6,-0.6 -4.15,-1.7 -7.6,-2.25 q -2.15,-0.35 -4.15,0.05 -0.806,0.161 -1.35,0.4 c 0.25,-0.1 0.6,-0.15 1.05,-0.2 1.25,-0.15 3,-0.1 5.15,0.2 z"
+             inkscape:connector-curvature="0"
+             style="fill:#876f35" />
+        </g>
+      </g>
+      <animate
+         attributeName="display"
+         begin="0s"
+         repeatCount="indefinite"
+         dur="0.25s"
+         keyTimes="0;1;1"
+         values="none;inline;none"
+         id="animate140" />
+    </g>
+    <g
+       id="sideEyeClose01Anim_1_5">
+      <g
+         id="element5">
+        <g
+           id="drawingObject22">
+          <path
+             id="path22"
+             d="m -0.699,-4.999 -1.4,0 c -1.6,1.05 -2.65,3.1 -2.55,5.45 0.15,3.25 2.5,5.75 5.25,5.6 2.7,-0.15 4.8,-2.9 4.65,-6.1 -0.05,-1.3 -0.45,-2.5 -1.1,-3.4 l -0.05,-0.05 c -1.2,-0.75 -3,-1.4 -4.8,-1.5 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.2" />
+        </g>
+        <g
+           id="drawingObject23">
+          <path
+             id="path23"
+             d="m 1.251,6.051 c 2.9,-0.15 5.1,-2.9 4.95,-6.1 -0.05,-1 -0.3,-1.95 -0.75,-2.75 q -0.6,-0.2 -1.35,-0.7 c -1.2,-0.75 -3,-1.4 -4.8,-1.5 l -0.8,0 c -1.75,1 -2.9,3.1 -2.8,5.45 0.2,3.25 2.65,5.8 5.55,5.6 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient14)" />
+        </g>
+        <g
+           id="drawingObject24">
+          <path
+             id="path24"
+             d="m 5.401,0.251 c -0.1,-1.6 -1.4,-2.85 -3,-2.8 -1.55,0.1 -2.75,1.5 -2.65,3.1 0.05,1.65 1.4,2.9 2.95,2.8 q 1.15,-0.05 1.95,-0.95 0.8,-0.9 0.75,-2.15 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient15)" />
+        </g>
+        <g
+           id="drawingObject25">
+          <path
+             id="path25"
+             d="m -0.349,-3.749 c -0.4,-0.35 -1.2,0 -1.8,0.7 -0.55,0.75 -0.7,1.65 -0.3,2 0.4,0.3 1.2,0 1.8,-0.75 q 0.45,-0.55 0.55,-1.1 0.1,-0.6 -0.25,-0.85 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           id="drawingObject26">
+          <path
+             id="path26"
+             d="m 6.301,-2.449 c 1.1,0 0.8,-1 0.8,-1 q -1.25,0.6 -2.6,-0.35 c -1.4,-0.9 -3.6,-1.55 -4.9,-1.55 -1.3,0 -2.05,0.45 -2.05,0.45 0,0 2.3,-0.2 3.75,0.3 2.2,0.8 3.85,2.15 5,2.15 z"
+             inkscape:connector-curvature="0"
+             style="fill:#876f35" />
+        </g>
+      </g>
+      <animate
+         attributeName="display"
+         begin="0s"
+         repeatCount="indefinite"
+         dur="0.25s"
+         keyTimes="0;0.833;1"
+         values="none;inline;none"
+         id="animate154" />
+    </g>
+    <g
+       id="sideEyeClose01Anim_1_4">
+      <g
+         id="element4">
+        <g
+           id="drawingObject17">
+          <path
+             id="path17"
+             d="m 0.851,5.601 c 1.5,-0.1 2.8,-0.7 3.8,-1.65 -0.9,0.65 -1.95,1.05 -3.15,1.1 q -2.4,0.1 -4.15,-1.45 -1.8,-1.55 -1.9,-3.85 c -0.1,-1.65 0.55,-3.15 1.65,-4.2 -1.5,1.05 -2.4,2.8 -2.3,4.7 0.2,3.1 2.9,5.45 6.05,5.35 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.2" />
+        </g>
+        <g
+           id="drawingObject18">
+          <path
+             id="path18"
+             d="m 6.901,-0.749 c -0.15,-3.1 -2.85,-5.45 -6.05,-5.35 -3.15,0.15 -5.6,2.75 -5.4,5.85 0.15,3.05 2.85,5.45 6.05,5.3 q 2.35,-0.1 3.95,-1.8 1.6,-1.7 1.45,-4 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:0.08600003" />
+        </g>
+        <g
+           id="drawingObject19">
+          <path
+             id="path19"
+             d="m 5.251,0.651 q -3.6,-0.7 -5.65,-0.45 c -1.15,0.2 -3.45,1.05 -3.45,1.05 0,0 2.4,-0.4 5.5,-0.15 l 4.8,0.3 -1.2,-0.75 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           id="drawingObject20">
+          <path
+             id="path20"
+             d="m -1.999,1.601 c -1.8,-2.7 0.2,-5.9 1.95,-7.55 -2.7,0.55 -4.7,2.9 -4.5,5.7 0.15,3.05 2.85,5.45 6.05,5.3 q 3.15,-0.15 4.7,-2.8 c -1.9,1.7 -6.2,2.4 -8.2,-0.65 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.08600003" />
+        </g>
+        <g
+           id="drawingObject21">
+          <path
+             id="path21"
+             d="m 1.101,-0.499 c -3.5,0.1 -4.95,1.75 -4.95,1.75 0,0 1.5,-0.7 5.15,-0.65 2.15,0 3.95,0.45 4.7,0.65 0.3,0.1 0.45,0.15 0.45,0.15 0,0 0.2,-0.45 -0.15,-0.75 Q 6.163,0.467 6.001,0.301 c -0.05,-0.05 -0.55,-0.55 -1.35,-0.8 -1.05,-0.4 -1.75,-0.25 -1.75,-0.25 l 0.5,0 -0.5,0 1.45,0.4 0.45,0.2 c 0,0 -1.45,-0.45 -3.7,-0.35 z"
+             inkscape:connector-curvature="0"
+             style="fill:#876f35" />
+        </g>
+      </g>
+      <animate
+         attributeName="display"
+         begin="0s"
+         repeatCount="indefinite"
+         dur="0.25s"
+         keyTimes="0;0.667;0.833;1"
+         values="none;inline;none;none"
+         id="animate168" />
+    </g>
+    <g
+       id="sideEyeClose01Anim_1_3">
+      <g
+         id="element3">
+        <g
+           id="drawingObject12">
+          <path
+             id="path12"
+             d="m -2.349,-8.249 c -0.85,0.45 -1.55,0.95 -2,1.6 -0.05,0.1 -0.1,0.2 -0.15,0.25 0.3,-0.25 0.8,-0.6 1.75,-1.05 q 1.9,-0.85 3.65,-0.5 c -0.3,-0.4 -0.7,-0.65 -1.2,-0.75 -0.5,-0.15 -1.2,0 -2.05,0.45 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.2" />
+        </g>
+        <g
+           id="drawingObject13">
+          <path
+             id="path13"
+             d="m -0.549,-4.399 c -2.7,0.4 -4.5,3.15 -4,6.15 0.25,1.45 1,2.65 2,3.5 l 0.15,-0.05 c 2.2,-0.8 4.55,-1.1 6.95,-1.05 0.65,-1.1 0.95,-2.45 0.7,-3.9 -0.5,-2.95 -3.1,-5.05 -5.8,-4.65 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.08600003" />
+        </g>
+        <g
+           id="drawingObject14">
+          <path
+             id="path14"
+             d="m -4.149,1.751 c 0.25,1.35 1,2.55 1.95,3.35 q 3.4,-1.15 7.55,-0.9 c 0.75,-1.1 1.15,-2.55 0.85,-4 -0.5,-3 -3.2,-5.05 -6.1,-4.65 -2.85,0.45 -4.75,3.2 -4.25,6.2 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient16)" />
+        </g>
+        <g
+           id="drawingObject15">
+          <path
+             id="path15"
+             d="m -1.349,1.901 c 0.15,1.1 0.85,2 1.7,2.55 q 2.15,-0.35 4.4,-0.3 c 0.9,-0.8 1.4,-2.05 1.2,-3.35 -0.35,-2.05 -2.25,-3.45 -4.3,-3.15 -2,0.3 -3.35,2.2 -3,4.25 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient17)" />
+        </g>
+        <g
+           id="drawingObject16">
+          <path
+             id="path16"
+             d="m -0.649,-2.549 c -0.45,-0.3 -1.25,0.1 -1.75,0.85 -0.5,0.75 -0.55,1.55 -0.1,1.85 0.45,0.25 1.2,-0.1 1.7,-0.85 q 0.35,-0.55 0.4,-1.1 0.05,-0.5 -0.25,-0.75 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <animate
+         attributeName="display"
+         begin="0s"
+         repeatCount="indefinite"
+         dur="0.25s"
+         keyTimes="0;0.5;0.667;1"
+         values="none;inline;none;none"
+         id="animate182" />
+    </g>
+    <g
+       id="sideEyeClose01Anim_1_2">
+      <g
+         id="element2">
+        <g
+           id="drawingObject8">
+          <path
+             id="path8"
+             d="m 5.851,-1.049 c -0.45,-4.05 -3.3,-7.05 -6.4,-6.65 -3.05,0.35 -5.15,3.9 -4.7,7.95 0.5,4.05 3.35,7.05 6.35,6.65 q 2.35,-0.25 3.75,-2.6 1.35,-2.3 1,-5.35 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.08600003" />
+        </g>
+        <g
+           id="drawingObject9">
+          <path
+             id="path9"
+             d="m 6.948,-1.149 c -0.477,-4 -3.499,-7 -6.733,-6.6 -3.234,0.4 -5.461,4 -5.037,8 0.477,4.05 3.499,7.05 6.733,6.65 q 2.439,-0.3 3.871,-2.65 1.484,-2.35 1.166,-5.4 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient18)" />
+        </g>
+        <g
+           id="drawingObject10">
+          <path
+             id="path10"
+             d="m 5.588,-0.099 c -0.212,-2.1 -1.803,-3.6 -3.552,-3.4 -1.75,0.2 -2.969,2.05 -2.704,4.15 0.212,2.1 1.802,3.65 3.552,3.45 q 1.325,-0.15 2.12,-1.4 0.796,-1.2 0.584,-2.8 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient19)" />
+        </g>
+        <g
+           id="drawingObject11">
+          <path
+             id="path11"
+             d="m -0.74,-5.249 c -0.477,-0.4 -1.378,0.05 -1.961,1 -0.583,0.95 -0.689,2.05 -0.212,2.45 0.53,0.45 1.378,-0.05 2.014,-1 q 0.425,-0.7 0.478,-1.45 0.053,-0.7 -0.319,-1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <animate
+         attributeName="display"
+         begin="0s"
+         repeatCount="indefinite"
+         dur="0.25s"
+         keyTimes="0;0.333;0.5;1"
+         values="none;inline;none;none"
+         id="animate194" />
+    </g>
+    <g
+       id="sideEyeClose01Anim_1_1">
+      <g
+         id="element1">
+        <g
+           id="drawingObject4">
+          <path
+             id="path4"
+             d="m 5.501,-0.749 c -0.15,-4 -2.65,-7.15 -5.55,-6.95 -2.9,0.15 -5.1,3.55 -4.9,7.6 0.15,4 2.65,7.1 5.5,6.95 q 2.15,-0.15 3.6,-2.35 1.45,-2.25 1.35,-5.25 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.08600003" />
+        </g>
+        <g
+           id="drawingObject5">
+          <path
+             id="path5"
+             d="m 6.501,-0.749 c -0.15,-4 -2.75,-7.1 -5.85,-6.95 -3.05,0.2 -5.4,3.6 -5.2,7.6 0.15,4.05 2.75,7.15 5.85,6.95 q 2.3,-0.1 3.8,-2.35 1.55,-2.25 1.4,-5.25 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient20)" />
+        </g>
+        <g
+           id="drawingObject6">
+          <path
+             id="path6"
+             d="m 5.501,0.151 c -0.1,-2.1 -1.5,-3.7 -3.15,-3.65 -1.65,0.1 -2.9,1.9 -2.8,4 0.1,2.05 1.45,3.7 3.1,3.6 q 1.25,-0.05 2.05,-1.25 0.85,-1.15 0.8,-2.7 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient21)" />
+        </g>
+        <g
+           id="drawingObject7">
+          <path
+             id="path7"
+             d="m -0.399,-5.299 c -0.4,-0.4 -1.3,0 -1.9,0.9 -0.6,0.9 -0.75,2 -0.35,2.4 0.45,0.45 1.3,0.05 1.9,-0.85 q 0.5,-0.65 0.6,-1.4 0.1,-0.7 -0.25,-1.05 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <animate
+         attributeName="display"
+         begin="0s"
+         repeatCount="indefinite"
+         dur="0.25s"
+         keyTimes="0;0.167;0.333;1"
+         values="none;inline;none;none"
+         id="animate206" />
+    </g>
+    <g
+       id="sideEyeClose01Anim_1_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="m 5.301,-0.549 c -0.2,-3.25 -2.55,-5.8 -5.25,-5.65 -2.75,0.15 -4.85,2.9 -4.7,6.15 0.2,3.25 2.55,5.75 5.25,5.6 q 2.05,-0.1 3.45,-1.9 1.35,-1.8 1.25,-4.2 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.08600003" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path1"
+             d="m 6.251,-0.549 c -0.15,-3.25 -2.65,-5.8 -5.55,-5.65 -2.9,0.15 -5.1,2.9 -4.95,6.15 0.15,3.25 2.65,5.8 5.55,5.6 q 2.15,-0.1 3.6,-1.9 1.45,-1.8 1.35,-4.2 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient22)" />
+        </g>
+        <g
+           id="drawingObject2">
+          <path
+             id="path2"
+             d="m 5.901,0.051 c -0.1,-2.2 -1.85,-3.9 -3.9,-3.8 -2.05,0.1 -3.6,1.95 -3.5,4.2 0.1,2.2 1.85,3.9 3.9,3.8 q 1.55,-0.05 2.55,-1.3 1.05,-1.25 0.95,-2.9 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient23)" />
+        </g>
+        <g
+           id="drawingObject3">
+          <path
+             id="path3"
+             d="m -0.299,-4.249 c -0.4,-0.35 -1.2,0 -1.8,0.7 -0.6,0.75 -0.75,1.65 -0.35,2 0.45,0.3 1.25,0 1.85,-0.75 q 0.4,-0.55 0.5,-1.1 0.1,-0.6 -0.2,-0.85 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <animate
+         attributeName="display"
+         begin="0s"
+         repeatCount="indefinite"
+         dur="0.25s"
+         keyTimes="0;0.167;1"
+         values="inline;none;none"
+         id="animate218" />
+    </g>
+  </g>
+</svg>

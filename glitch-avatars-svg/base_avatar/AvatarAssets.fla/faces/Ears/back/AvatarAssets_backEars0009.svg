@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="63.999287"
+   height="14.844227"
+   viewBox="0 0 63.999287 14.844227"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_backEars0009.svg">
+  <metadata
+     id="metadata3217">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3215"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="64.079643"
+     inkscape:cy="-67.079337"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3175">
+    <pattern
+       id="bitmap"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(1 0 0 1 -34.599 -52.649)">
+      <symbol
+         id="Avatar_Texture_symbol"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\glitch-avatars\base_avatar\Avatar_Texture"
+           xlink:href="Avatar_Texture"
+           height="200"
+           width="200"
+           id="Avatar_Texture" />
+      </symbol>
+      <use
+         id="Avatar_Texture_use"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Avatar_Texture_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+    <pattern
+       id="bitmap1"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(1 0 0 1 -85.999 -52.499)">
+      <symbol
+         id="Avatar_Texture_symbol1"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\glitch-avatars\base_avatar\Avatar_Texture"
+           xlink:href="Avatar_Texture"
+           height="200"
+           width="200"
+           id="Avatar_Texture1" />
+      </symbol>
+      <use
+         id="Avatar_Texture_use1"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Avatar_Texture_symbol1"
+         externalResourcesRequired="true" />
+    </pattern>
+    <pattern
+       id="bitmap2"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(0.8499755859375 0 0 0.8499755859375 -59.549 -97.449)">
+      <symbol
+         id="symbol3186"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\glitch-avatars\base_avatar\Avatar_Texture"
+           xlink:href="Avatar_Texture"
+           height="200"
+           width="200"
+           id="image3188" />
+      </symbol>
+      <use
+         id="use3190"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Avatar_Texture_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+    <pattern
+       id="bitmap3"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(0.8499755859375 0 0 0.8499755859375 -110.399 -97.349)">
+      <symbol
+         id="symbol3193"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\glitch-avatars\base_avatar\Avatar_Texture"
+           xlink:href="Avatar_Texture"
+           height="200"
+           width="200"
+           id="image3195" />
+      </symbol>
+      <use
+         id="use3197"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Avatar_Texture_symbol1"
+         externalResourcesRequired="true" />
+    </pattern>
+  </defs>
+  <g
+     id="backEars10"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(32.079643,19.923564)">
+    <g
+       id="backEars0009_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="m 19.772,-8.515 c 2.422,-1.87 2.465,-3.57 2.465,-3.57 q 0.34,-2.508 0.085,-7.182 c 0,0 -1.487,2.124 -2.167,3.782 -0.68,1.657 -1.53,3.825 -2.678,6.12 -1.147,2.252 -0.127,2.762 2.295,0.85 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.29800002" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path1"
+             d="m 21.472,-15.868 c 0.255,1.955 -0.595,3.74 -1.742,4.548 -1.148,0.85 -1.063,2.507 -1.063,2.507 l 2.04,2.125 -2.04,-2.125 c 0,0 2.933,4.463 7.65,3.443 4.717,-1.063 7.31,-9.01 4.335,-12.538 q -1.87,-2.209 -5.27,-1.997 l -3.06,0.638 c 0,0 -1.062,1.402 -0.85,3.399 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#bitmap2)" />
+        </g>
+        <g
+           id="drawingObject2">
+          <path
+             id="path2"
+             d="m 21.472,-15.868 c 0.255,1.955 -0.595,3.74 -1.742,4.548 -1.148,0.85 -1.063,2.507 -1.063,2.507 l 0.638,0.808 -0.638,-0.808 c 0,0 0.85,1.36 2.423,2.38 1.402,0.298 2.974,0.808 4.589,0.553 4.76,-0.68 4.038,-9.393 3.103,-10.625 -1.19,-1.572 -5.398,-1.403 -7.14,-1.19 q -0.297,0.85 -0.17,1.827 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.29800002" />
+        </g>
+      </g>
+      <g
+         id="element1">
+        <g
+           id="drawingObject3">
+          <path
+             id="path3"
+             d="m -22.057,-10.853 -0.34,-1.105 c 0,0 0.043,1.7 2.465,3.613 2.422,1.87 3.442,1.402 2.295,-0.893 -1.148,-2.252 -1.998,-4.42 -2.677,-6.077 -0.68,-1.658 -2.168,-3.782 -2.168,-3.782 q -0.255,4.674 0.085,7.139"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.29800002" />
+        </g>
+        <g
+           id="drawingObject4">
+          <path
+             id="path4"
+             d="m -21.632,-15.74 c 0.213,-1.998 -0.85,-3.357 -0.85,-3.357 q -1.317,-0.553 -3.06,-0.638 -3.4,-0.212 -5.27,1.955 c -2.975,3.527 -0.382,11.475 4.335,12.537 4.718,1.063 7.692,-3.4 7.692,-3.4 0,0 0.043,-1.7 -1.105,-2.507 -1.147,-0.85 -1.997,-2.593 -1.742,-4.59 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#bitmap3)" />
+        </g>
+        <g
+           id="drawingObject5">
+          <path
+             id="path5"
+             d="m -19.89,-11.15 c -1.147,-0.85 -1.997,-2.593 -1.742,-4.59 q 0.128,-0.893 -0.127,-1.828 c -1.785,-0.212 -5.993,-0.34 -7.183,1.19 -0.935,1.233 -1.657,9.988 3.145,10.625 1.615,0.255 3.145,-0.255 4.548,-0.552 1.572,-1.02 2.464,-2.338 2.464,-2.338 0,0 0.043,-1.7 -1.105,-2.507 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.29800002" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

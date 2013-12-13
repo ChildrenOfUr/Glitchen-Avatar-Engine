@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="11.95681"
+   height="14.230965"
+   viewBox="0 0 11.95681 14.230965"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_sideEarClose0002.svg">
+  <metadata
+     id="metadata3033">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3031"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="38.78481"
+     inkscape:cy="-53.036044"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3007">
+    <pattern
+       id="bitmap"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(1 0 0 1 -76.099 -53.549)">
+      <symbol
+         id="Avatar_Texture_symbol"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\glitch-avatars\base_avatar\Avatar_Texture"
+           xlink:href="Avatar_Texture"
+           height="200"
+           width="200"
+           id="Avatar_Texture" />
+      </symbol>
+      <use
+         id="Avatar_Texture_use"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Avatar_Texture_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+    <pattern
+       id="bitmap1"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(1.08221435546875 0 0 1.08306884765625 -108.949 -106.399)">
+      <symbol
+         id="symbol3014"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\glitch-avatars\base_avatar\Avatar_Texture"
+           xlink:href="Avatar_Texture"
+           height="200"
+           width="200"
+           id="image3016" />
+      </symbol>
+      <use
+         id="use3018"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Avatar_Texture_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+  </defs>
+  <g
+     id="sideEarClose3"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(6.7848098,5.2670088)">
+    <g
+       id="sideEarClose0002_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="m -2.674,-5.122 c -3.679,1.083 -5.303,5.036 -3.138,9.098 1.677,3.141 6.114,5.523 8.279,4.873 2.164,-0.703 2.705,-2.328 2.705,-2.328 0,0 -1.028,-1.462 -1.407,-3.412 Q 3.008,-0.519 3.549,-2.685 c 0,0 -3.247,-3.304 -6.223,-2.437 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#bitmap1)" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path1"
+             d="M 3.549,-2.685 C 3.224,-2.523 2.954,-1.169 3.278,1.918 Q 3.657,4.788 3.441,5.654 3.062,7.117 1.114,7.604 C -1.105,8.2 -3.161,7.008 -5.109,5.005 -3.161,7.658 0.519,9.445 2.467,8.849 4.631,8.146 5.172,6.521 5.172,6.521 5.172,6.521 4.144,5.059 3.765,3.109 3.008,-0.519 3.549,-2.685 3.549,-2.685 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.29800002" />
+        </g>
+        <g
+           id="drawingObject2">
+          <path
+             id="path2"
+             d="m 3.387,-2.793 c -0.65,-0.65 -3.464,-3.087 -6.061,-2.329 q -1.677,0.487 -2.759,1.733 -1.029,1.191 -1.299,2.87 c 0.92,-1.895 2.705,-3.358 5.14,-3.52 2.002,-0.108 3.842,0.596 4.979,1.246 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:0.25099996" />
+        </g>
+        <g
+           id="drawingObject3">
+          <path
+             id="path3"
+             d="M -0.139,0.662 -1.005,0.229 c 0,0 1.623,0.704 2.056,1.137 0.487,0.487 1.191,1.895 1.191,1.895 l -1.245,1.192 -1.353,-0.542 0,-0.812 1.353,0.379 0,-1.192 -2.273,0 0.109,0.921 c 0.054,0.542 0.324,1.354 0.324,1.354 L 1.322,5.644 1.971,4.994 C 2.62,4.344 2.891,2.72 2.891,2.72 c 0,0 0,-0.542 -1.299,-1.787 -1.244,-1.246 -3.03,-2.004 -3.03,-2.004 l 1.028,0.541 -1.028,-0.541 -1.84,1.462 -0.703,0.975 1.082,1.462 c 0,0 0.162,-0.542 0.433,-0.812 l 1.461,-1.787"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.29800002" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

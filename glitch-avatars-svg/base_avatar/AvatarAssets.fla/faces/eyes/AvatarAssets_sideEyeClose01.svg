@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="10.923853"
+   height="11.793629"
+   viewBox="0 0 10.923853 11.793629"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_sideEyeClose01.svg">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview41"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="36.86139"
+     inkscape:cy="-56.799597"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3">
+    <symbol
+       id="sideEyeClose01Anim_f0"
+       viewBox="-54.75 -56.3 110.9 111.75">
+      <g
+         id="sideEyeClose01Anim_f0_1_0">
+        <g
+           id="element2">
+          <g
+             id="drawingObject">
+            <path
+               id="path"
+               d="m 5.301,-0.549 c -0.2,-3.25 -2.55,-5.8 -5.25,-5.65 -2.75,0.15 -4.85,2.9 -4.7,6.15 0.2,3.25 2.55,5.75 5.25,5.6 q 2.05,-0.1 3.45,-1.9 1.35,-1.8 1.25,-4.2 z"
+               inkscape:connector-curvature="0"
+               style="fill:#000000;fill-opacity:0.08600003" />
+          </g>
+          <g
+             id="drawingObject1">
+            <path
+               id="path1"
+               d="m 6.251,-0.549 c -0.15,-3.25 -2.65,-5.8 -5.55,-5.65 -2.9,0.15 -5.1,2.9 -4.95,6.15 0.15,3.25 2.65,5.8 5.55,5.6 q 2.15,-0.1 3.6,-1.9 1.45,-1.8 1.35,-4.2 z"
+               inkscape:connector-curvature="0"
+               style="fill:url(#radialGradient2)" />
+          </g>
+          <g
+             id="drawingObject2">
+            <path
+               id="path2"
+               d="m 5.901,0.051 c -0.1,-2.2 -1.85,-3.9 -3.9,-3.8 -2.05,0.1 -3.6,1.95 -3.5,4.2 0.1,2.2 1.85,3.9 3.9,3.8 q 1.55,-0.05 2.55,-1.3 1.05,-1.25 0.95,-2.9 z"
+               inkscape:connector-curvature="0"
+               style="fill:url(#radialGradient3)" />
+          </g>
+          <g
+             id="drawingObject3">
+            <path
+               id="path3"
+               d="m -0.299,-4.249 c -0.4,-0.35 -1.2,0 -1.8,0.7 -0.6,0.75 -0.75,1.65 -0.35,2 0.45,0.3 1.25,0 1.85,-0.75 q 0.4,-0.55 0.5,-1.1 0.1,-0.6 -0.2,-0.85 z"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" />
+          </g>
+        </g>
+      </g>
+    </symbol>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="7.2029147"
+       cx="4.75"
+       cy="4.4499998"
+       fx="4.75"
+       fy="4.4499998"
+       gradientTransform="matrix(0.45016479,0.89347839,0.83332825,-0.47766113,-1.099,2.35)"
+       id="radialGradient">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop17" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop19" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.9353004"
+       cx="6.1999998"
+       cy="5.4499998"
+       fx="6.1999998"
+       fy="5.4499998"
+       gradientTransform="matrix(0.46231079,0.88945007,0.86181641,-0.47738647,-1.349,2.55)"
+       id="radialGradient1">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop22" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop24" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="7.2069998"
+       cx="-0.89700001"
+       cy="0.653"
+       fx="-0.89700001"
+       fy="0.653"
+       gradientTransform="matrix(0.45,0.893,0.833,-0.477,0,-0.549)"
+       id="radialGradient2">
+      <stop
+         stop-color="#FAF1E4"
+         stop-opacity="1"
+         offset="0"
+         id="stop27" />
+      <stop
+         stop-color="#E3D6BF"
+         stop-opacity="1"
+         offset="1"
+         id="stop29" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="4.947"
+       cx="0.31600001"
+       cy="1.864"
+       fx="0.31600001"
+       fy="1.864"
+       gradientTransform="matrix(0.461,0.887,0.86,-0.476,-0.099,-0.049)"
+       id="radialGradient3">
+      <stop
+         stop-color="#7D653A"
+         stop-opacity="1"
+         offset="0"
+         id="stop32" />
+      <stop
+         stop-color="#5C461D"
+         stop-opacity="1"
+         offset="1"
+         id="stop34" />
+    </radialGradient>
+  </defs>
+  <g
+     id="sideEyeClose2"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(4.8613904,6.5932248)">
+    <g
+       id="sideEyeClose01_1_1">
+      <use
+         xlink:href="#sideEyeClose01Anim_f0"
+         id="element1"
+         width="111"
+         height="112"
+         x="-55"
+         y="-57"
+         overflow="visible"
+         viewBox="-54.75 -56.3 110.9 111.75"
+         transform="translate(0,0.2)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideEyeClose01_1_0">
+      <use
+         xlink:href="#sideEyeClose01Anim_f0"
+         id="element"
+         width="111"
+         height="112"
+         x="-55"
+         y="-57"
+         overflow="visible"
+         transform="translate(0,0.2)"
+         style="overflow:visible" />
+    </g>
+  </g>
+</svg>
