@@ -15,9 +15,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="9.6048489"
+   height="17.285345"
+   viewBox="0 0 9.6048489 17.285345"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_sideLegUpperClose.svg">
   <metadata
@@ -45,12 +45,16 @@
      id="namedview19"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="63"
+     inkscape:cx="32.929452"
+     inkscape:cy="-44.067468"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3">
     <pattern
@@ -62,11 +66,11 @@
        viewBox="0 0 200 200"
        patternTransform="matrix(1 0 0 1 -82.849 -8.899)">
       <image
-         sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture"
+         sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\side\Avatar_Texture"
          xlink:href="Avatar_Texture"
-         height="200"
+         id="Avatar_Texture"
          width="200"
-         id="Avatar_Texture" />
+         height="200" />
     </pattern>
     <pattern
        id="bitmap1"
@@ -77,17 +81,17 @@
        viewBox="0 0 200 200"
        patternTransform="matrix(1 0 0 1 -99.899 -93.899)">
       <image
-         sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture"
+         sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\side\Avatar_Texture"
          xlink:href="Avatar_Texture"
-         height="200"
+         id="image8"
          width="200"
-         id="image8" />
+         height="200" />
     </pattern>
   </defs>
   <g
      id="sideLegUpperClose1"
      overflow="visible"
-     transform="translate(5.8728815,4.2711865)"
+     transform="translate(4.8023333,2.624)"
      style="overflow:visible">
     <g
        id="sideLegUpperClose_0">

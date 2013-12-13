@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Avatar"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="50.399403"
+   height="53.569584"
+   viewBox="0 0 50.399403 53.569584"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Avatar_sideHeadContainer.svg">
+  <metadata
+     id="metadata89">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview87"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.8730159"
+     inkscape:cx="55.015759"
+     inkscape:cy="57.753575"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Avatar" />
+  <defs
+     id="defs3">
+    <symbol
+       id="sideHatContainer"
+       viewBox="-65.1 -70.05 149.95 153.25" />
+    <symbol
+       id="sideEarCloseContainer"
+       viewBox="-63.2 -60.25 115.30000000000001 114.85" />
+    <symbol
+       id="sideHairRibbonContainer"
+       viewBox="-62.85 -81.55 125.7 163.1" />
+    <symbol
+       id="sideHairContainer"
+       viewBox="-70.85 -73.9 149.95 153.25" />
+    <symbol
+       id="sideFacialFeatureContainer"
+       viewBox="-74.9 -76.65 149.95000000000002 153.25" />
+    <symbol
+       id="sideNoseContainer"
+       viewBox="-52.35 -52.9 107.85 107.55" />
+    <symbol
+       id="sideMouthContainer"
+       viewBox="-56.8 -52 119.14999999999999 103.7" />
+    <symbol
+       id="sideEyeCloseContainer"
+       viewBox="-54.4 -53.95 108.8 107.7" />
+    <symbol
+       id="sideEyeOffsideContainer"
+       viewBox="-52.7 -53.45 105.5 106.75" />
+    <symbol
+       id="sideSkullContainer"
+       viewBox="-75.05 -76.7 150.14999999999998 153.35000000000002">
+      <g
+         id="sideSkullContainer_0_0">
+        <g
+           id="element20"
+           overflow="visible"
+           style="overflow:visible">
+          <g
+             id="sideSkull_0">
+            <g
+               id="element21">
+              <g
+                 id="drawingObject">
+                <path
+                   id="path"
+                   d="m 21.501,17.001 c 3.75,-4.75 3.8,-16.85 3.4,-24.5 -0.3,-5.95 -6.1,-14.7 -13.45,-16.9 -7.9,-2.35 -20.3,-4.5 -29.9,3.15 q -6.55,5.25 -6.5,19.55 c 0.05,8.55 4.45,15.35 10.55,20.5 6.05,5.1 17.6,8.45 21.7,7.9 4.65,-0.6 8.95,-3.1 14.2,-9.7 z"
+                   inkscape:connector-curvature="0"
+                   style="fill:url(#bitmap1)" />
+              </g>
+              <g
+                 id="drawingObject1">
+                <path
+                   id="path1"
+                   d="m -13.699,13.851 q -4.3,-4.5 -7.3,-12 -2.7,-6.7 -3.15,-12.35 c -0.55,2.6 -0.8,5.55 -0.8,8.8 0.05,8.55 4.45,15.35 10.55,20.5 6.05,5.1 17.6,8.45 21.7,7.9 1.65,-0.2 3.3,-0.7 4.9,-1.5 -10.5,1.1 -19.25,-4.35 -25.9,-11.35 z"
+                   inkscape:connector-curvature="0"
+                   style="fill:#000000;fill-opacity:0.2" />
+              </g>
+              <g
+                 id="drawingObject2">
+                <path
+                   id="path2"
+                   d="m 25.001,-7.499 c -0.3,-5.95 -6.1,-14.7 -13.45,-16.9 -7.9,-2.35 -20.3,-4.5 -29.9,3.15 q -6.55,5.25 -6.5,19.55 c 0.05,8.55 4.45,15.35 10.55,20.5 6.05,5.1 17.6,8.45 21.7,7.9 4.65,-0.6 8.95,-3.1 14.2,-9.7 3.75,-4.75 3.8,-16.85 3.4,-24.5 z"
+                   inkscape:connector-curvature="0"
+                   style="fill:url(#radialGradient1)" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </symbol>
+    <pattern
+       id="bitmap"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(1 0 0 1 -74.749 -73.349)">
+      <symbol
+         id="Avatar_Texture_symbol"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\glitch-avatars\base_avatar\Avatar_Texture"
+           xlink:href="Avatar_Texture"
+           height="200"
+           width="200"
+           id="Avatar_Texture" />
+      </symbol>
+      <use
+         id="Avatar_Texture_use"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Avatar_Texture_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="45.674385"
+       cx="56.049999"
+       cy="25.549999"
+       fx="56.049999"
+       fy="25.549999"
+       gradientTransform="matrix(-0.37757874,0.92605591,0.87324524,0.40275574,54.9,-36.649)"
+       id="radialGradient">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.2980392156862745"
+         offset="0"
+         id="stop30" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2980392156862745"
+         offset="1"
+         id="stop32" />
+    </radialGradient>
+    <pattern
+       id="bitmap1"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(1 0 0 1 -99.849 -99.849)">
+      <symbol
+         id="symbol35"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\glitch-avatars\base_avatar\Avatar_Texture"
+           xlink:href="Avatar_Texture"
+           height="200"
+           width="200"
+           id="image37" />
+      </symbol>
+      <use
+         id="use39"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Avatar_Texture_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="45.678001"
+       cx="63.804001"
+       cy="-55.297001"
+       fx="63.804001"
+       fy="-55.297001"
+       gradientTransform="matrix(-0.378,0.926,0.873,0.403,81.2,-55.399)"
+       id="radialGradient1">
+      <stop
+         stop-color="#FFF"
+         stop-opacity="0.2980392156862745"
+         offset="0"
+         id="stop42" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2980392156862745"
+         offset="1"
+         id="stop44" />
+    </radialGradient>
+  </defs>
+  <g
+     id="sideHeadContainer1"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(21.015759,48.870104)">
+    <g
+       id="sideHeadContainer_10_1">
+      <use
+         xlink:href="#sideSkullContainer"
+         id="element19"
+         width="151"
+         height="154"
+         x="-76"
+         y="-77"
+         overflow="visible"
+         viewBox="-75.05 -76.7 150.14999999999998 153.35000000000002"
+         transform="translate(4.6,-22.199)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_10_0">
+      <use
+         xlink:href="#sideSkullContainer"
+         id="element18"
+         width="151"
+         height="154"
+         x="-76"
+         y="-77"
+         overflow="visible"
+         transform="translate(4.6,-22.199)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_9_1">
+      <use
+         xlink:href="#sideEyeOffsideContainer"
+         id="element17"
+         width="106"
+         height="107"
+         x="-53"
+         y="-54"
+         overflow="visible"
+         viewBox="-52.7 -53.45 105.5 106.75"
+         transform="translate(26.7,-19.199)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_9_0">
+      <use
+         xlink:href="#sideEyeOffsideContainer"
+         id="element16"
+         width="106"
+         height="107"
+         x="-53"
+         y="-54"
+         overflow="visible"
+         transform="translate(26.7,-19.199)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_8_1">
+      <use
+         xlink:href="#sideEyeCloseContainer"
+         id="element15"
+         width="109"
+         height="108"
+         x="-55"
+         y="-54"
+         overflow="visible"
+         viewBox="-54.4 -53.95 108.8 107.7"
+         transform="translate(4.8,-19.699)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_8_0">
+      <use
+         xlink:href="#sideEyeCloseContainer"
+         id="element14"
+         width="109"
+         height="108"
+         x="-55"
+         y="-54"
+         overflow="visible"
+         transform="translate(4.8,-19.699)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_7_1">
+      <use
+         xlink:href="#sideMouthContainer"
+         id="element13"
+         width="120"
+         height="104"
+         x="-57"
+         y="-52"
+         overflow="visible"
+         viewBox="-56.8 -52 119.14999999999999 103.7"
+         transform="translate(12.55,-3.199)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_7_0">
+      <use
+         xlink:href="#sideMouthContainer"
+         id="element12"
+         width="120"
+         height="104"
+         x="-57"
+         y="-52"
+         overflow="visible"
+         transform="translate(12.55,-3.199)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_6_1">
+      <use
+         xlink:href="#sideNoseContainer"
+         id="element11"
+         width="108"
+         height="108"
+         x="-53"
+         y="-53"
+         overflow="visible"
+         viewBox="-52.35 -52.9 107.85 107.55"
+         transform="translate(18.15,-11.399)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_6_0">
+      <use
+         xlink:href="#sideNoseContainer"
+         id="element10"
+         width="108"
+         height="108"
+         x="-53"
+         y="-53"
+         overflow="visible"
+         transform="translate(18.15,-11.399)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_5_1">
+      <use
+         xlink:href="#sideFacialFeatureContainer"
+         id="element9"
+         width="150"
+         height="154"
+         x="-75"
+         y="-77"
+         overflow="visible"
+         viewBox="-74.9 -76.65 149.95000000000002 153.25"
+         transform="translate(4.6,-22.199)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_5_0">
+      <use
+         xlink:href="#sideFacialFeatureContainer"
+         id="element8"
+         width="150"
+         height="154"
+         x="-75"
+         y="-77"
+         overflow="visible"
+         transform="translate(4.6,-22.199)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_4_1">
+      <use
+         xlink:href="#sideHairContainer"
+         id="element7"
+         width="150"
+         height="154"
+         x="-71"
+         y="-74"
+         overflow="visible"
+         viewBox="-70.85 -73.9 149.95 153.25"
+         transform="translate(0.55,-24.999)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_4_0">
+      <use
+         xlink:href="#sideHairContainer"
+         id="element6"
+         width="150"
+         height="154"
+         x="-71"
+         y="-74"
+         overflow="visible"
+         transform="translate(0.55,-24.999)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_3_1">
+      <use
+         xlink:href="#sideHairRibbonContainer"
+         id="element5"
+         width="126"
+         height="164"
+         x="-63"
+         y="-82"
+         overflow="visible"
+         viewBox="-62.85 -81.55 125.7 163.1"
+         transform="translate(-16.849,-18.999)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_3_0">
+      <use
+         xlink:href="#sideHairRibbonContainer"
+         id="element4"
+         width="126"
+         height="164"
+         x="-63"
+         y="-82"
+         overflow="visible"
+         transform="translate(-16.849,-18.999)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_2_1">
+      <use
+         xlink:href="#sideEarCloseContainer"
+         id="element3"
+         width="116"
+         height="115"
+         x="-64"
+         y="-61"
+         overflow="visible"
+         viewBox="-63.2 -60.25 115.30000000000001 114.85"
+         transform="translate(-16.349,-14.749)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_2_0">
+      <use
+         xlink:href="#sideEarCloseContainer"
+         id="element2"
+         width="116"
+         height="115"
+         x="-64"
+         y="-61"
+         overflow="visible"
+         transform="translate(-16.349,-14.749)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_1_1">
+      <use
+         xlink:href="#sideHatContainer"
+         id="element1"
+         width="150"
+         height="154"
+         x="-66"
+         y="-71"
+         overflow="visible"
+         viewBox="-65.1 -70.05 149.95 153.25"
+         transform="translate(-5.149,-28.699)"
+         style="overflow:visible" />
+    </g>
+    <g
+       id="sideHeadContainer_1_0">
+      <use
+         xlink:href="#sideHatContainer"
+         id="element"
+         width="150"
+         height="154"
+         x="-66"
+         y="-71"
+         overflow="visible"
+         transform="translate(-5.149,-28.699)"
+         style="overflow:visible" />
+    </g>
+  </g>
+</svg>

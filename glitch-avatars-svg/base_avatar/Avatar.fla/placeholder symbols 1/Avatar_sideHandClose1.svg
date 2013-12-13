@@ -14,9 +14,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="9.4422426"
+   height="12.302369"
+   viewBox="0 0 9.4422426 12.302369"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_sideHandClose1.svg">
   <metadata
@@ -44,18 +44,22 @@
      id="namedview17"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="63"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="32.479768"
+     inkscape:cy="-48.810342"
+     inkscape:window-x="9"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3" />
   <g
      id="sideHandClose2"
      overflow="visible"
-     transform="translate(5.3389829,3.7372883)"
+     transform="translate(3.81875,1.85)"
      style="overflow:visible">
     <g
        id="sideHandClose1_0_0">

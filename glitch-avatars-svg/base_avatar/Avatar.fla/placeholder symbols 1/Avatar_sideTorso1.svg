@@ -14,9 +14,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="20.477186"
+   height="42.580448"
+   viewBox="0 0 20.477186 42.580448"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_sideTorso1.svg">
   <metadata
@@ -44,21 +44,25 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="137.16137"
+     inkscape:cx="31.537986"
+     inkscape:cy="55.936889"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3">
     <linearGradient
        gradientUnits="userSpaceOnUse"
        color-interpolation="sRGB"
-       x1="25.925"
-       y1="48.1125"
-       x2="23.675"
-       y2="59.587500000000006"
+       x1="25.924999"
+       y1="48.112499"
+       x2="23.674999"
+       y2="59.587502"
        id="linearGradient">
       <stop
          stop-color="#000"
@@ -75,9 +79,9 @@
        gradientUnits="userSpaceOnUse"
        color-interpolation="sRGB"
        x1="6.526"
-       y1="-36.886"
+       y1="-36.886002"
        x2="4.276"
-       y2="-25.411"
+       y2="-25.410999"
        id="linearGradient1">
       <stop
          stop-color="#000"
@@ -94,7 +98,7 @@
   <g
      id="sideTorso2"
      overflow="visible"
-     transform="translate(11.745763,41.644068)"
+     transform="translate(9.2837484,39.449)"
      style="overflow:visible">
     <g
        id="sideTorso1_0">

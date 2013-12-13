@@ -15,9 +15,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="7.7606907"
+   height="14.542243"
+   viewBox="0 0 7.7606907 14.542243"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_sideArmLowerOffside.svg">
   <metadata
@@ -45,12 +45,16 @@
      id="namedview25"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="63"
+     inkscape:cx="33.028524"
+     inkscape:cy="-47.298134"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3">
     <pattern
@@ -65,11 +69,11 @@
          id="Avatar_Texture_symbol"
          viewBox="0 0 200 200">
         <image
-           sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture"
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\side\Avatar_Texture"
            xlink:href="Avatar_Texture"
-           height="200"
+           id="Avatar_Texture"
            width="200"
-           id="Avatar_Texture" />
+           height="200" />
       </symbol>
       <use
          id="Avatar_Texture_use"
@@ -92,11 +96,11 @@
          id="symbol10"
          viewBox="0 0 200 200">
         <image
-           sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture"
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\side\Avatar_Texture"
            xlink:href="Avatar_Texture"
-           height="200"
+           id="image12"
            width="200"
-           id="image12" />
+           height="200" />
       </symbol>
       <use
          id="use14"
@@ -111,7 +115,7 @@
   <g
      id="sideArmLowerOffside1"
      overflow="visible"
-     transform="translate(3.7372883,2.1355936)"
+     transform="translate(2.7658115,0.97597152)"
      style="overflow:visible">
     <g
        id="sideArmLowerOffside_0">

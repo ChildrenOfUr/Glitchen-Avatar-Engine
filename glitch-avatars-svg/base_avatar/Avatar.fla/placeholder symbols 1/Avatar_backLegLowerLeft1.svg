@@ -14,9 +14,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="10.155297"
+   height="14.033912"
+   viewBox="0 0 10.155297 14.033912"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_backLegLowerLeft1.svg">
   <metadata
@@ -44,18 +44,22 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="63"
+     inkscape:cx="33.157791"
+     inkscape:cy="-47.128929"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3" />
   <g
      id="backLegLowerLeft2"
      overflow="visible"
-     transform="translate(3.7372881,2.6694915)"
+     transform="translate(2.8950783,0.83233333)"
      style="overflow:visible">
     <g
        id="backLegLowerLeft1_0">

@@ -15,9 +15,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="18.489487"
+   height="7.9876814"
+   viewBox="0 0 18.489487 7.9876814"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_backArmUpperLeft.svg">
   <metadata
@@ -45,12 +45,16 @@
      id="namedview23"
      showgrid="false"
      inkscape:zoom="7.77"
-     inkscape:cx="20.280051"
-     inkscape:cy="113.90592"
+     inkscape:cx="19.848343"
+     inkscape:cy="-3.6231821"
      inkscape:window-x="1098"
      inkscape:window-y="499"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3">
     <pattern
@@ -65,11 +69,11 @@
          id="Avatar_Texture.png_symbol"
          viewBox="0 0 200 200">
         <image
-           sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture.png"
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\back\Avatar_Texture.png"
            xlink:href="Avatar_Texture.png"
-           height="200"
+           id="Avatar_Texture.png"
            width="200"
-           id="Avatar_Texture.png" />
+           height="200" />
       </symbol>
       <use
          id="Avatar_Texture.png_use"
@@ -92,11 +96,11 @@
          id="symbol10"
          viewBox="0 0 200 200">
         <image
-           sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture.png"
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\back\Avatar_Texture.png"
            xlink:href="Avatar_Texture.png"
-           height="200"
+           id="image12"
            width="200"
-           id="image12" />
+           height="200" />
       </symbol>
       <use
          id="use14"
@@ -111,7 +115,7 @@
   <g
      id="backArmUpperLeft1"
      overflow="visible"
-     transform="translate(18.415767,3.0622558)"
+     transform="translate(17.984059,2.5790393)"
      style="overflow:visible">
     <g
        id="backArmUpperLeft_0">

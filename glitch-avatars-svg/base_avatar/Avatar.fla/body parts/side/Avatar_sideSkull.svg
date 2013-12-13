@@ -15,9 +15,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="50.135563"
+   height="53.359001"
+   viewBox="0 0 50.135563 53.359001"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_sideSkull.svg">
   <metadata
@@ -45,12 +45,16 @@
      id="namedview29"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="126.01428"
+     inkscape:cx="32.254464"
+     inkscape:cy="55.619426"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3">
     <pattern
@@ -62,21 +66,21 @@
        viewBox="0 0 200 200"
        patternTransform="matrix(1 0 0 1 -74.749 -73.349)">
       <image
-         sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture"
+         sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\side\Avatar_Texture"
          xlink:href="Avatar_Texture"
-         height="200"
+         id="Avatar_Texture"
          width="200"
-         id="Avatar_Texture" />
+         height="200" />
     </pattern>
     <radialGradient
        gradientUnits="userSpaceOnUse"
        color-interpolation="sRGB"
-       r="45.674386891661"
-       cx="56.05"
-       cy="25.55"
-       fx="56.05"
-       fy="25.55"
-       gradientTransform="matrix(-0.3775787353515625 0.926055908203125 0.8732452392578125 0.4027557373046875 54.9 -36.649)"
+       r="45.674385"
+       cx="56.049999"
+       cy="25.549999"
+       fx="56.049999"
+       fy="25.549999"
+       gradientTransform="matrix(-0.37757874,0.92605591,0.87324524,0.40275574,54.9,-36.649)"
        id="radialGradient">
       <stop
          stop-color="#FFF"
@@ -98,20 +102,20 @@
        viewBox="0 0 200 200"
        patternTransform="matrix(1 0 0 1 -99.849 -99.849)">
       <image
-         sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture"
+         sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\side\Avatar_Texture"
          xlink:href="Avatar_Texture"
-         height="200"
+         id="image13"
          width="200"
-         id="image13" />
+         height="200" />
     </pattern>
     <radialGradient
        gradientUnits="userSpaceOnUse"
        color-interpolation="sRGB"
-       r="45.678"
-       cx="63.804"
-       cy="-55.297"
-       fx="63.804"
-       fy="-55.297"
+       r="45.678001"
+       cx="63.804001"
+       cy="-55.297001"
+       fx="63.804001"
+       fy="-55.297001"
        gradientTransform="matrix(-0.378,0.926,0.873,0.403,81.2,-55.399)"
        id="radialGradient1">
       <stop
@@ -129,7 +133,7 @@
   <g
      id="sideSkull1"
      overflow="visible"
-     transform="translate(26.694915,28.830508)"
+     transform="translate(24.949379,26.584366)"
      style="overflow:visible">
     <g
        id="sideSkull_0">

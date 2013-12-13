@@ -15,9 +15,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="9.4422426"
+   height="12.302369"
+   viewBox="0 0 9.4422426 12.302369"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_sideHandClose.svg">
   <metadata
@@ -45,12 +45,16 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="63"
+     inkscape:cx="33.013666"
+     inkscape:cy="-48.810342"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3">
     <pattern
@@ -65,11 +69,11 @@
          id="Avatar_Texture_symbol"
          viewBox="0 0 200 200">
         <image
-           sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture"
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\side\Avatar_Texture"
            xlink:href="Avatar_Texture"
-           height="200"
+           id="Avatar_Texture"
            width="200"
-           id="Avatar_Texture" />
+           height="200" />
       </symbol>
       <use
          id="Avatar_Texture_use"
@@ -92,11 +96,11 @@
          id="symbol10"
          viewBox="0 0 200 200">
         <image
-           sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture"
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\side\Avatar_Texture"
            xlink:href="Avatar_Texture"
-           height="200"
+           id="image12"
            width="200"
-           id="image12" />
+           height="200" />
       </symbol>
       <use
          id="use14"
@@ -111,7 +115,7 @@
   <g
      id="sideHandClose1"
      overflow="visible"
-     transform="translate(4.8050845,3.7372883)"
+     transform="translate(3.81875,1.85)"
      style="overflow:visible">
     <g
        id="sideHandClose_0_0">

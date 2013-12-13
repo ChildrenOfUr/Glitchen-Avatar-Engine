@@ -15,9 +15,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="11.674712"
+   height="13.8104"
+   viewBox="0 0 11.674712 13.8104"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_backArmLowerLeft.svg">
   <metadata
@@ -41,16 +41,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-height="483"
      id="namedview23"
      showgrid="false"
      inkscape:zoom="6.0555201"
-     inkscape:cx="34"
-     inkscape:cy="121.6309"
-     inkscape:window-x="1092"
-     inkscape:window-y="408"
+     inkscape:cx="33.600587"
+     inkscape:cy="9.8168448"
+     inkscape:window-x="724"
+     inkscape:window-y="104"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3">
     <pattern
@@ -65,11 +69,11 @@
          id="Avatar_Texture.png_symbol"
          viewBox="0 0 200 200">
         <image
-           sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture.png"
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\back\Avatar_Texture.png"
            xlink:href="Avatar_Texture.png"
-           height="200"
+           id="Avatar_Texture.png"
            width="200"
-           id="Avatar_Texture.png" />
+           height="200" />
       </symbol>
       <use
          id="Avatar_Texture.png_use"
@@ -92,11 +96,11 @@
          id="symbol10"
          viewBox="0 0 200 200">
         <image
-           sodipodi:absref="F:\EveryStuff\Glitch\_public.domain\glitch-avatars-master\glitch-avatars-master\base_avatar\Avatar_Texture.png"
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\Avatar.fla\body parts\back\Avatar_Texture.png"
            xlink:href="Avatar_Texture.png"
-           height="200"
+           id="image12"
            width="200"
-           id="image12" />
+           height="200" />
       </symbol>
       <use
          id="use14"
@@ -111,7 +115,7 @@
   <g
      id="backArmLowerLeft1"
      overflow="visible"
-     transform="translate(9.2302005,11.899693)"
+     transform="translate(8.830788,11.524148)"
      style="overflow:visible">
     <g
        id="backArmLowerLeft_0">

@@ -14,9 +14,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="49.301842"
+   height="54.195835"
+   viewBox="0 0 49.301842 54.195835"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_backHead1.svg">
   <metadata
@@ -44,23 +44,27 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="63"
+     inkscape:cx="31.721229"
+     inkscape:cy="-5.3769651"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3">
     <radialGradient
        gradientUnits="userSpaceOnUse"
        color-interpolation="sRGB"
-       r="46.72503302871269"
+       r="46.725033"
        cx="126.5"
        cy="74.75"
        fx="126.5"
        fy="74.75"
-       gradientTransform="matrix(-0.41302490234375 0.9107818603515625 0.9107818603515625 0.41302490234375 110.65 -71.299)"
+       gradientTransform="matrix(-0.4130249,0.91078186,0.91078186,0.4130249,110.65,-71.299)"
        id="radialGradient">
       <stop
          stop-color="#FFF"
@@ -76,7 +80,7 @@
     <radialGradient
        gradientUnits="userSpaceOnUse"
        color-interpolation="sRGB"
-       r="46.728"
+       r="46.728001"
        cx="121.808"
        cy="-112.495"
        fx="121.808"
@@ -98,7 +102,7 @@
   <g
      id="backHead2"
      overflow="visible"
-     transform="translate(27.228814,52.322034)"
+     transform="translate(24.950042,48.894833)"
      style="overflow:visible">
     <g
        id="backHead1_0">

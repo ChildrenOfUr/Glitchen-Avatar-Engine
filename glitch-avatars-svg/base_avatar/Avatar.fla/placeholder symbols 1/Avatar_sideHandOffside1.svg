@@ -14,9 +14,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="9.4905176"
+   height="10.304545"
+   viewBox="0 0 9.4905176 10.304545"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_sideHandOffside1.svg">
   <metadata
@@ -44,18 +44,22 @@
      id="namedview23"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="63"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="33.103814"
+     inkscape:cy="-51.70986"
+     inkscape:window-x="31"
+     inkscape:window-y="55"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3" />
   <g
      id="sideHandOffside2"
      overflow="visible"
-     transform="translate(4.2711864,2.1355932)"
+     transform="translate(3.375,1.15)"
      style="overflow:visible">
     <g
        id="sideHandOffside1_0_0">

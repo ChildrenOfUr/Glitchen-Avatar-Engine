@@ -14,9 +14,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="68"
-   height="126"
-   viewBox="0 0 68 126"
+   width="8.4619398"
+   height="11.148925"
+   viewBox="0 0 8.4619398 11.148925"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Avatar_sideLegLowerOffside1.svg">
   <metadata
@@ -44,18 +44,22 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="1.8730159"
-     inkscape:cx="34"
-     inkscape:cy="63"
+     inkscape:cx="32.152869"
+     inkscape:cy="-50.05099"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Avatar" />
+     inkscape:current-layer="Avatar"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs3" />
   <g
      id="sideLegLowerOffside2"
      overflow="visible"
-     transform="translate(6.940678,4.8050847)"
+     transform="translate(5.0935463,3.005)"
      style="overflow:visible">
     <g
        id="sideLegLowerOffside1_0">
