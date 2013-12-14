@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="54.65406"
+   height="53.603298"
+   viewBox="0 0 54.65406 53.603298"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_backHatLizard.svg">
+  <metadata
+     id="metadata3364">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3362"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="61.699"
+     inkscape:cy="-59.099"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3222" />
+  <g
+     id="backHatLizard1"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(29.699,50.702298)">
+    <g
+       id="backHatLizard_0">
+      <g
+         id="element">
+        <g
+           id="group1">
+          <g
+             id="drawingObject">
+            <path
+               id="path"
+               d="m -8.349,-42.049 c 0.2,-0.5 -0.25,-4.5 -2.85,-5.85 q -1.6,-0.85 -3.65,-1 -2,0 -2.75,-0.15 c -1.5,-0.2 -8.45,2.65 -9.6,4.8 -1.2,2.2 -3.2,7.85 -2.2,8.65 1,0.85 2.85,4.4 5.7,4.55 2.8,0.2 6.1,-2.85 9.25,-6.25 1.4,-1.5 5.9,-4.2 6.1,-4.75 z"
+               inkscape:connector-curvature="0"
+               style="fill:#ddd9b5" />
+          </g>
+          <g
+             id="drawingObject1">
+            <path
+               id="path1"
+               d="m -10.049,-42.899 c 0,0 0.35,-4.2 -2.85,-5.2 q -2.4,-0.75 -6.2,0.45 -3.85,1.2 -5.95,3.4 c -2.85,3 -2.65,7.15 -2.65,7.15 l 0.6,1.9 -0.7,1.55 c 0.65,0.75 1.4,1.5 2.25,2 l 15.5,-11.25 z"
+               inkscape:connector-curvature="0"
+               style="fill:#c1bd9e" />
+          </g>
+        </g>
+        <g
+           id="group2">
+          <g
+             id="drawingObject2">
+            <path
+               id="path2"
+               d="m 12.501,-49.049 q -1.7,0.05 -2.75,0.15 -2.05,0.15 -3.65,1 c -2.6,1.35 -3.05,5.35 -2.85,5.85 0.15,0.55 4.7,3.25 6.1,4.75 3.15,3.4 6.45,6.45 9.25,6.25 2.85,-0.15 4.7,-3.7 5.7,-4.55 0.95,-0.8 -1,-6.45 -2.2,-8.65 -1.15,-2.15 -8.15,-5 -9.6,-4.8 z"
+               inkscape:connector-curvature="0"
+               style="fill:#ddd9b5" />
+          </g>
+          <g
+             id="drawingObject3">
+            <path
+               id="path3"
+               d="m 7.801,-48.099 c -3.2,1 -2.85,5.2 -2.85,5.2 l 15.5,11.25 c 0.85,-0.5 1.6,-1.25 2.2,-2 l -0.65,-1.55 0.6,-1.9 c 0,0 0.2,-4.15 -2.65,-7.15 q -2.1,-2.25 -5.95,-3.4 -3.8,-1.2 -6.2,-0.45 z"
+               inkscape:connector-curvature="0"
+               style="fill:#c1bd9e" />
+          </g>
+        </g>
+        <g
+           id="drawingObject4">
+          <path
+             id="path4"
+             d="m -0.199,-50.699 c -9,-0.15 -20.75,4.85 -23.65,8.25 -2.85,3.35 -5.85,16.35 -5.85,20 0,3.6 4.25,12.25 7.35,15.85 1.35,1.6 3.2,3.4 5.05,5.1 1,1.2 1.95,2.25 2.6,2.6 1.15,0.65 5.65,1.5 6.5,1.65 l 0.8,0.15 2.6,-1.35 -2.6,1.35 c 0,0 4.35,-2.65 7.85,-2.8 3.5,-0.2 7.5,2.3 7.5,2.3 l 2.15,-1.35 -2.15,1.35 c 0,0 3.5,-2.5 6.5,-3.5 3,-1 5.85,-5.15 8,-9.3 2.15,-4.2 2.85,-12.2 2.35,-17.7 q 0,-4.2 -0.15,-5.65 -0.2,-2.25 -2.5,-5.05 c -0.85,-1.15 -1.85,-2.4 -2.75,-3.4 -1.85,-2.15 -10.6,-8.4 -19.6,-8.5 z"
+             inkscape:connector-curvature="0"
+             style="fill:#548b34" />
+        </g>
+        <g
+           id="drawingObject5">
+          <path
+             id="path5"
+             d="m -17.149,-29.999 c 0,0 -0.45,2.15 -2.95,2.05 -2.55,-0.15 -1.9,-3.65 -1.9,-3.65 l 0,1.75 0,-1.75 c 0,0 -0.3,1.85 -1.85,1.4 -1.5,-0.5 -0.75,-4.85 -0.75,-4.8 l -0.2,2.2 0.2,-2.225 0,0.025 c 0,-0.05 -0.3,1.95 -1.8,1.8 -0.65,-0.05 -0.8,-1 -0.7,-2 -1.5,4.85 -2.6,10.55 -2.6,12.75 0,3.6 4.25,12.25 7.35,15.85 1.35,1.6 3.2,3.4 5.05,5.1 1,1.2 1.95,2.25 2.6,2.6 1.15,0.65 5.65,1.5 6.5,1.65 l 0.8,0.15 2.6,-1.35 -2.6,1.35 c 0,0 4.35,-2.65 7.85,-2.8 3.5,-0.2 7.5,2.3 7.5,2.3 l 2.15,-1.35 -2.15,1.35 c 0,0 3.5,-2.5 6.5,-3.5 3,-1 5.85,-5.15 8,-9.3 2.15,-4.2 2.85,-12.2 2.35,-17.7 q -0.05,-3.6 -0.1,-4.9 -0.05,-2.05 -1.15,-3.8 c 0.2,1.75 0.15,3.35 -0.75,4.25 -1.15,1.2 -3.55,-2.4 -3.55,-2.4 l 1.35,1.65 -1.35,-1.65 0.8,2.5 -0.8,-2.5 c 0,0 2.1,4.8 0.25,5.5 -1.8,0.7 -3.2,-2.8 -3.2,-2.8 l 0.95,1.65 -0.95,-1.65 -0.15,1.35 0.15,-1.35 c 0,0 0.2,2.15 -1.75,4.2 -1.95,2.05 -4.55,-1.4 -4.55,-1.4 l 1.55,1.45 -1.55,-1.45 -0.35,1.45 0.35,-1.45 c 0,0 -0.1,2.8 -2.6,3.2 -2.5,0.35 -3.4,-3.1 -3.4,-3.1 l 0.75,1.7 -0.75,-1.7 c 0,0 -1.1,3 -4.25,3.4 -3.15,0.4 -3.55,-2.95 -3.55,-2.95 l 0.6,1.65 -0.6,-1.65 c 0,0 -0.3,2.5 -2.8,2.7 -2.5,0.25 -3.9,-3.1 -3.9,-3.1 l 1,1.65 -1,-1.65 c 0,0 -1.3,2.05 -3.6,2.1 -2.35,0 -3.05,-2.8 -3.05,-2.8 z"
+             inkscape:connector-curvature="0"
+             style="fill:#4b7e30" />
+        </g>
+        <g
+           id="drawingObject6">
+          <path
+             id="path6"
+             d="m -25.699,-19.249 c 0,0 0,1.7 -1.7,1 -1.4,-0.55 -2.1,-2.8 -2.3,-3.45 0.5,3.9 4.4,11.7 7.35,15.1 1.35,1.6 3.2,3.4 5.05,5.1 1,1.2 1.95,2.25 2.6,2.6 1.15,0.65 5.65,1.5 6.5,1.65 l 0.8,0.15 2.6,-1.35 -2.6,1.35 c 0,0 4.35,-2.65 7.85,-2.8 3.5,-0.2 7.5,2.3 7.5,2.3 l 2.15,-1.35 -2.15,1.35 c 0,0 3.5,-2.5 6.5,-3.5 3,-1 5.85,-5.15 8,-9.3 0.8,-1.55 1.4,-3.6 1.8,-5.85 q -1.05,0.95 -1.7,-0.75 l -0.45,-1.9 -0.45,1.85 0.45,-1.85 c 0,0 -0.3,3.35 -2.65,4.65 -2.35,1.35 -2.15,-1.5 -2.15,-1.5 l 0.2,1.25 -0.2,-1.25 c 0,0 -0.2,2.35 -3.2,3.7 -3,1.3 -3,-1.7 -3,-1.7 l 0.4,1.35 -0.4,-1.35 c 0,0 -2.8,3.5 -5.3,3.35 -2.5,-0.15 -2.5,-2.65 -2.5,-2.65 l 0.3,1.25 -0.3,-1.25 c 0,0 -0.35,2.5 -3.35,2.5 -3,0 -3.15,-2.35 -3.15,-2.35 l 0.45,1.2 -0.45,-1.2 c 0,0 -0.2,2.5 -3.5,2.15 -3.35,-0.3 -3,-2.65 -3,-2.65 l 0.25,1.2 -0.25,-1.2 c 0,0 -0.35,2 -2.2,2.15 -1.8,0.2 -3.5,-3.3 -3.5,-3.3 l 1.1,1.75 -1.1,-1.75 c 0,0 0,1.8 -1.8,1.5 -1.85,-0.35 -3.35,-3.85 -3.35,-3.85 l 1,1.8 -1,-1.8 c 0,0 0.15,2.5 -2.5,2.15 -2.65,-0.3 -2.65,-4.5 -2.65,-4.5 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject7">
+          <path
+             id="path7"
+             d="m -18.899,-4.049 c -0.55,0 -1.7,-0.85 -3,-2 1.3,1.45 2.95,3.05 4.6,4.55 1,1.2 1.95,2.25 2.6,2.6 1.15,0.65 5.65,1.5 6.5,1.65 l 0.8,0.15 2.6,-1.35 -2.6,1.35 c 0,0 4.35,-2.65 7.85,-2.8 3.5,-0.2 7.5,2.3 7.5,2.3 l 2.15,-1.35 -2.15,1.35 c 0,0 3.5,-2.5 6.5,-3.5 1.65,-0.5 3.2,-2 4.65,-3.95 -0.9,0.6 -1.95,1.2 -3,1.65 q -1.55,0.65 -1.6,-0.6 l 0.3,-1.4 c 0,0 -0.7,1.5 -3.35,2.35 -2.65,0.8 -2.5,-1.5 -2.5,-1.5 l 0.25,1.05 -0.25,-1.05 c 0,0 -0.85,1.65 -3.35,2 -2.5,0.3 -3.15,-2.35 -3.15,-2.35 l 0.65,1.3 -0.65,-1.3 c 0,0 -0.15,1.5 -2.65,2.65 -2.5,1.2 -4.35,-1.8 -4.35,-1.8 l 1.25,1.35 -1.25,-1.35 c 0,0 0.15,0.8 -1.85,2 -2,1.15 -5.15,-2.7 -5.15,-2.7 l 1.85,1.8 -1.85,-1.8 -0.05,1.1 0.05,-1.1 c 0,0 0.5,2.2 -1.85,2.35 -2.3,0.15 -4.15,-2.85 -4.15,-2.85 l 1.2,1.5 -1.2,-1.5 0.1,0.6 -0.1,-0.6 c 0,0 0.65,1.2 -1.35,1.2 z"
+             inkscape:connector-curvature="0"
+             style="fill:#436f2a" />
+        </g>
+        <g
+           id="group3">
+          <g
+             id="drawingObject8">
+            <path
+               id="path8"
+               d="m -22.449,-32.499 c 1.35,-1.9 0.3,-2.7 -0.65,-1.65 q -1,1.1 -0.7,2.05 0.3,0.95 1.35,-0.4 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject9">
+            <path
+               id="path9"
+               d="m -25.199,-35.399 c 1.5,-1.2 1.65,-3.35 0.15,-2.7 q -1,0.45 -1.1,2 -0.15,1.55 0.95,0.7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject10">
+            <path
+               id="path10"
+               d="m -20.749,-31.399 q -0.7,2 0.7,2 c 2,0 3.35,-4.7 1,-4.2 q -1,0.25 -1.7,2.2 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject11">
+            <path
+               id="path11"
+               d="m -14.549,-29.399 c 2.35,-0.2 2,-4.7 0,-3.7 q -1.3,0.65 -1.5,2.2 -0.15,1.6 1.5,1.5 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject12">
+            <path
+               id="path12"
+               d="m -22.199,-40.399 c 1.5,0.5 3,-3.15 1.3,-2.85 q -0.9,0.2 -1.6,1.3 -0.75,1.2 0.3,1.55 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject13">
+            <path
+               id="path13"
+               d="m -17.899,-43.899 c 1.35,0 3.7,-1.85 1.35,-1.5 q -0.95,0.1 -1.65,0.8 -0.65,0.7 0.3,0.7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject14">
+            <path
+               id="path14"
+               d="m -22.199,-36.899 c 1.15,0.5 3.15,-3 0.65,-2.35 q -0.75,0.2 -1.1,1.1 -0.4,0.9 0.45,1.25 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject15">
+            <path
+               id="path15"
+               d="m -19.199,-35.899 c 0.65,1 3.15,-2.2 1.3,-2 q -1.1,0.1 -1.45,0.7 -0.4,0.55 0.15,1.3 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject16">
+            <path
+               id="path16"
+               d="m -17.899,-40.899 c 1.7,0.15 3,-1.85 0.7,-1.5 q -0.8,0.1 -1.3,0.7 -0.5,0.65 0.6,0.8 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject17">
+            <path
+               id="path17"
+               d="m -13.399,-44.899 c 1.2,0.15 4,-2.35 1.35,-2 q -0.95,0.1 -1.55,1 -0.65,0.85 0.2,1 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject18">
+            <path
+               id="path18"
+               d="m -6.699,-47.099 c 1.3,0.35 3.3,-1.45 0.8,-1.65 q -0.8,-0.05 -1.3,0.7 -0.45,0.75 0.5,0.95 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject19">
+            <path
+               id="path19"
+               d="m -9.899,-44.099 c 1.2,0.2 2.5,-2 1,-1.8 q -0.7,0.1 -1.25,0.9 -0.55,0.8 0.25,0.9 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject20">
+            <path
+               id="path20"
+               d="m -13.899,-40.899 c 1.5,0.5 2.7,-2.7 1.2,-2.5 q -0.9,0.1 -1.55,1.1 -0.7,1.05 0.35,1.4 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject21">
+            <path
+               id="path21"
+               d="m -14.699,-36.399 c 0.8,1 2.65,-0.2 1.8,-2.2 q -0.35,-0.8 -1.4,0.35 -1,1.15 -0.4,1.85 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject22">
+            <path
+               id="path22"
+               d="m -7.199,-28.749 c 2.5,-0.65 0.8,-4.65 -0.85,-4.15 q -1.05,0.3 -0.95,2.45 0.1,2.2 1.8,1.7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject23">
+            <path
+               id="path23"
+               d="m -10.199,-35.249 c 1.15,0.5 2.5,-1.85 1,-2.65 q -0.8,-0.4 -1.35,0.95 -0.55,1.35 0.35,1.7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject24">
+            <path
+               id="path24"
+               d="m -0.899,-28.749 c 1.7,0 1.85,-4.3 -0.5,-3.5 q -1.05,0.4 -0.9,1.95 0.2,1.55 1.4,1.55 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject25">
+            <path
+               id="path25"
+               d="m -4.399,-34.099 c 1.5,0 2.5,-3.15 0.35,-3.15 q -0.6,0 -1,1.6 -0.35,1.55 0.65,1.55 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject26">
+            <path
+               id="path26"
+               d="m -1.049,-48.449 c 1.15,0.35 0.85,-0.95 0.85,-0.95 q -0.95,0 -1.3,0.35 -0.4,0.3 0.45,0.6 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject27">
+            <path
+               id="path27"
+               d="m -8.699,-40.349 c 1.5,0.15 2.85,-2.6 0.85,-2.6 q -0.65,0 -1.25,1.25 -0.65,1.3 0.4,1.35 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject28">
+            <path
+               id="path28"
+               d="m -4.349,-39.599 c 2.15,0.4 3.9,-2.85 2,-3.35 q -1.55,-0.4 -2.55,1.35 -1.05,1.75 0.55,2 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject29">
+            <path
+               id="path29"
+               d="m 3.301,-41.099 c 1.1,-0.1 1,-1.85 -0.75,-2 q -0.8,-0.05 -0.45,1.05 0.35,1.05 1.2,0.95 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject30">
+            <path
+               id="path30"
+               d="m 7.651,-42.199 c 0.5,0.1 2,-1.75 -0.85,-2 q -0.45,-0.05 0,0.95 0.45,0.95 0.85,1.05 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject31">
+            <path
+               id="path31"
+               d="m -4.099,-44.349 c 1.5,0.15 2.5,-2.35 1.25,-2.35 q -1.15,0 -1.75,1.15 -0.6,1.15 0.5,1.2 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject32">
+            <path
+               id="path32"
+               d="m 2.401,-44.949 c 1.5,0.5 1,-1.75 0,-1.75 q -0.9,0 -1,0.7 -0.05,0.7 1,1.05 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject33">
+            <path
+               id="path33"
+               d="m 6.151,-47.099 c 0.9,0.5 4.75,1.25 1.4,-0.6 q -0.9,-0.5 -1.5,-0.15 -0.6,0.35 0.1,0.75 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject34">
+            <path
+               id="path34"
+               d="m 1.551,-35.099 c 1,0 1.6,-3.6 -0.25,-3.1 q -0.85,0.2 -0.7,1.65 0.2,1.45 0.95,1.45 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject35">
+            <path
+               id="path35"
+               d="m 7.901,-35.949 c 1.9,0.35 0.65,-3.75 -1.1,-3.25 q -0.75,0.2 -0.45,1.55 0.3,1.45 1.55,1.7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject36">
+            <path
+               id="path36"
+               d="m 12.651,-38.949 c 1.15,0.6 1.65,-1.25 0.4,-1.75 q -1,-0.4 -1.1,0.45 -0.15,0.8 0.7,1.3 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+          <g
+             id="drawingObject37">
+            <path
+               id="path37"
+               d="m 11.151,-43.599 c 1.75,0.65 1.75,-0.35 1,-1.25 q -0.6,-0.7 -1.45,0.1 -0.8,0.7 0.45,1.15 z"
+               inkscape:connector-curvature="0"
+               style="fill:#63a43e" />
+          </g>
+        </g>
+        <g
+           id="drawingObject38">
+          <path
+             id="path38"
+             d="m 20.451,-36.399 c 1.65,-0.5 0.85,-2.65 -1.15,-2.85 q -0.7,-0.05 -0.3,1.6 0.35,1.6 1.45,1.25 z"
+             inkscape:connector-curvature="0"
+             style="fill:#4b7e30" />
+        </g>
+        <g
+           id="drawingObject39">
+          <path
+             id="path39"
+             d="m 18.101,-33.399 c 1.2,-0.85 -0.3,-4.2 -1.65,-3.2 q -0.85,0.65 0,2.2 0.8,1.6 1.65,1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#4b7e30" />
+        </g>
+        <g
+           id="drawingObject40">
+          <path
+             id="path40"
+             d="m 11.301,-31.599 c 2,0.35 1.65,-4 0.65,-3.8 q -1.1,0.15 -1.6,1.85 -0.45,1.75 0.95,1.95 z"
+             inkscape:connector-curvature="0"
+             style="fill:#4b7e30" />
+        </g>
+        <g
+           id="drawingObject41">
+          <path
+             id="path41"
+             d="m -26.949,-26.349 c 1.75,0.65 2,-3.85 0.75,-4.5 l -1.05,2.05 q -0.8,2.1 0.3,2.45 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject42">
+          <path
+             id="path42"
+             d="m -23.949,-23.349 c 1.85,0.4 1.5,-4.75 0.6,-4.85 l -1,2.3 q -0.8,2.35 0.4,2.55 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject43">
+          <path
+             id="path43"
+             d="m -18.599,-21.949 c 2,1 2.25,-2.65 1.15,-4.75 l -1.3,2 q -1.1,2.15 0.15,2.75 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject44">
+          <path
+             id="path44"
+             d="m -10.849,-26.199 -1.4,2.35 q -1.2,2.4 0.05,2.75 c 2,0.65 2.35,-3.35 1.35,-5.1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject45">
+          <path
+             id="path45"
+             d="m -4.849,-20.849 c 2.4,0.75 0.75,-2.85 0.25,-3.85 l -1,1.65 q -0.7,1.75 0.75,2.2 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject46">
+          <path
+             id="path46"
+             d="m 3.551,-21.199 c 1.75,0.5 1.5,-2 0.5,-4.25 l -0.9,1.95 q -0.7,2 0.4,2.3 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject47">
+          <path
+             id="path47"
+             d="m 10.801,-25.599 -0.75,1.75 q -0.5,1.8 0.75,2 c 2,0.4 1.85,-2.75 0,-3.75 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject48">
+          <path
+             id="path48"
+             d="m 17.751,-26.049 -1.35,-1.4 -0.25,2.25 q 0.05,2.05 1.4,1.35 c 2.1,-1.1 -1.15,-3.6 -1.15,-3.6"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject49">
+          <path
+             id="path49"
+             d="m 21.151,-27.249 q -0.5,1.45 0.5,1.55 c 1.65,0.1 0.15,-3 0.15,-3 l 0.55,1.55 -0.55,-1.55 -0.65,1.45 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject50">
+          <path
+             id="path50"
+             d="m -22.349,-18.699 c 0.75,0.75 1,-0.9 0.5,-2.9 l -0.55,1.15 q -0.4,1.3 0.05,1.75 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject51">
+          <path
+             id="path51"
+             d="m -14.199,-18.099 -0.75,-2 -0.5,1.55 q -0.3,1.6 0.75,1.95 c 1.6,0.65 -0.25,-3.5 -0.25,-3.5"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject52">
+          <path
+             id="path52"
+             d="m -9.099,-16.449 c 1.25,1.25 0.25,-3.15 0.25,-3.15 l -0.6,1.1 q -0.45,1.25 0.35,2.05 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject53">
+          <path
+             id="path53"
+             d="m 0.851,-17.599 -0.8,-2.6 -1.45,2.5 q -1.05,2.55 0.8,2.6 c 3,0.15 0.65,-5.1 0.65,-5.1"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject54">
+          <path
+             id="path54"
+             d="m 8.351,-17.899 -1.05,-2.45 -1.1,2.35 q -0.7,2.35 1.1,2.4 c 2.85,0.15 0,-4.75 0,-4.75"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject55">
+          <path
+             id="path55"
+             d="m 15.151,-19.549 -0.6,-1.8 -0.5,1.6 q -0.35,1.65 0.6,1.8 c 1.5,0.25 -0.1,-3.4 -0.1,-3.4"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject56">
+          <path
+             id="path56"
+             d="m 20.651,-19.199 c 1.25,-0.25 -0.5,-3.65 -0.5,-3.65 l -0.2,1.9 q -0.1,1.9 0.7,1.75 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject57">
+          <path
+             id="path57"
+             d="m 23.101,-22.949 q 0.05,1.15 0.45,1.25 c 0.6,0.1 -0.4,-2.4 -0.4,-2.4 l -0.05,1.15 z"
+             inkscape:connector-curvature="0"
+             style="fill:#47762d" />
+        </g>
+        <g
+           id="drawingObject58">
+          <path
+             id="path58"
+             d="m -18.849,-10.699 -1.35,-2.15 -0.25,1.85 q 0.05,1.95 1.35,2.15 c 2.15,0.4 -1.1,-4 -1.1,-4"
+             inkscape:connector-curvature="0"
+             style="fill:#436f2a" />
+        </g>
+        <g
+           id="drawingObject59">
+          <path
+             id="path59"
+             d="m -13.599,-7.449 c 1.75,0.35 -1.35,-3.25 -0.85,-3 l -0.25,1.35 q 0,1.4 1.1,1.65 z"
+             inkscape:connector-curvature="0"
+             style="fill:#436f2a" />
+        </g>
+        <g
+           id="drawingObject60">
+          <path
+             id="path60"
+             d="m -6.999,-7.899 -0.95,-1.45 -0.35,1.3 q -0.15,1.3 0.95,1.45 c 1.75,0.25 -0.6,-2.75 -0.6,-2.75"
+             inkscape:connector-curvature="0"
+             style="fill:#436f2a" />
+        </g>
+        <g
+           id="drawingObject61">
+          <path
+             id="path61"
+             d="m -0.049,-7.299 -0.55,-1.55 -0.65,1.2 q -0.5,1.25 0.55,1.55 c 1.6,0.5 0.1,-2.75 0.1,-2.75"
+             inkscape:connector-curvature="0"
+             style="fill:#436f2a" />
+        </g>
+        <g
+           id="drawingObject62">
+          <path
+             id="path62"
+             d="m 6.701,-7.749 -0.55,-1.6 -0.65,1.15 q -0.5,1.25 0.55,1.6 c 1.6,0.65 0.1,-2.75 0.1,-2.75"
+             inkscape:connector-curvature="0"
+             style="fill:#436f2a" />
+        </g>
+        <g
+           id="drawingObject63">
+          <path
+             id="path63"
+             d="m 12.501,-8.399 -0.35,-1.8 -1.25,1.8 q -0.95,1.8 0.4,1.8 c 2.1,0 0.85,-3.6 0.85,-3.6"
+             inkscape:connector-curvature="0"
+             style="fill:#436f2a" />
+        </g>
+        <g
+           id="drawingObject64">
+          <path
+             id="path64"
+             d="m 18.401,-9.549 -0.1,-1.8 q -0.55,0.55 -0.95,1.2 -0.8,1.35 0.05,1.8 c 1.4,0.75 0.9,-3 0.9,-3"
+             inkscape:connector-curvature="0"
+             style="fill:#436f2a" />
+        </g>
+        <g
+           id="drawingObject65">
+          <path
+             id="path65"
+             d="m -0.199,-2.249 c -4,0.15 -7.55,2.7 -6.7,2.5 l 2.3,-0.9 q 2.8,-0.85 5.2,-0.75 c 3.85,0.15 4.85,1 4.85,1 0,0 -1.65,-2 -5.65,-1.85 z"
+             inkscape:connector-curvature="0"
+             style="fill:#548b34" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

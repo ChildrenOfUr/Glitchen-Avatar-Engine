@@ -13,6 +13,6 @@ Adobe Flash CS6, Flash2Svg (http://www.tbyrne.org/export-flash-to-animated-svg),
 The Avatar.fla and AvatarAssets.fla folders have the same folder structure as the Avatar.fla file from glitch-avatars
 Everywhere that an SVG could be pulled out it was, otherwise there is a .placeholder file there to signify that something was in flash that couldn't be extracted properly.
 
-Some SVGs need more work to be usable, some are animated or should be, not all flash effects are able to directly translate to SVG using current export methods.  Much of the ActionScript functionality attached to these assets may need to be recreated.
+Some SVGs need more work to be usable, some are animated or should be, not all flash effects are able to directly translate to SVG using current export methods.  Some ActionScript functionality attached to these assets may need to be recreated.
 
 more to come...

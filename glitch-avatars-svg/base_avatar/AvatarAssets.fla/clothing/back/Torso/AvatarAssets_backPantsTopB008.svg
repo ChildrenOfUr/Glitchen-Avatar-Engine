@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="22.321398"
+   height="16.617279"
+   viewBox="0 0 22.321398 16.617279"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_backPantsTopB008.svg">
+  <metadata
+     id="metadata3325">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3323"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="43.762241"
+     inkscape:cy="-54.610512"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3295">
+    <pattern
+       id="bitmap"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="199"
+       viewBox="0 0 200 199"
+       patternTransform="matrix(1 0 0 1 -59.599 -15.299)">
+      <symbol
+         id="Denim_Texture_brown_symbol"
+         viewBox="0 0 200 199">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\AvatarAssets.fla\clothing\back\Denim_Texture_brown"
+           xlink:href="Denim_Texture_brown"
+           height="199"
+           width="200"
+           id="Denim_Texture_brown" />
+      </symbol>
+      <use
+         id="Denim_Texture_brown_use"
+         width="200"
+         height="199"
+         y="0"
+         x="0"
+         xlink:href="#Denim_Texture_brown_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+    <pattern
+       id="bitmap1"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="199"
+       viewBox="0 0 200 199"
+       patternTransform="matrix(1 0 0.012054443359375 1 -101.749 -100.349)">
+      <symbol
+         id="symbol3302"
+         viewBox="0 0 200 199">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\AvatarAssets.fla\clothing\back\Denim_Texture_brown"
+           xlink:href="Denim_Texture_brown"
+           height="199"
+           width="200"
+           id="image3304" />
+      </symbol>
+      <use
+         id="use3306"
+         width="200"
+         height="199"
+         y="0"
+         x="0"
+         xlink:href="#Denim_Texture_brown_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+  </defs>
+  <g
+     id="backPantsTopB9"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(11.762241,9.2277919)">
+    <g
+       id="backPantsTopB008_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="m -4.03,-8.949 q -3.841,0.75 -6.715,2.9 c 0,0 -1.559,3.45 -0.817,6.95 0.692,3.5 4.97,5.8 9.326,6.3 4.306,0.5 7.15,-0.05 9.238,-1 2.039,-0.9 3.575,-6.25 3.557,-7.75 -0.018,-1.5 -0.297,-3.9 -0.297,-3.9 0,0 -0.712,-1 -1.773,-1.85 -1.615,-1.25 -8.18,-2.5 -12.519,-1.65 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#bitmap1)" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path1"
+             d="m 1.225,-0.199 c -1.553,-0.25 -3.263,-1.05 -2.824,-2 0.389,-0.9 1.379,-1.75 3.28,-1.65 l 2.451,0.05 c 0,0 -2.266,-1.3 -4.017,-1.4 l -2.451,-0.1 2.289,-0.85 -2.289,0.85 c 0,0 3.727,-1.9 6.934,-1.25 3.159,0.7 4.01,0.75 4.01,0.75 0,0 -4.018,-1.45 -4.97,-1.65 l -1.811,-0.9 0.012,1.05 c 0,0 0.053,0.25 -1,-0.05 -1.004,-0.35 -6.842,0.65 -6.842,0.65 l -1.443,0.6 -3.67,2.5 c 0,0 0.735,-1.25 0.483,-1.45 -0.252,-0.1 0.386,-1.1 0.731,-1.55 l -0.843,0.55 c 0,0 -1.559,3.45 -0.817,6.95 0.692,3.5 4.97,5.8 9.326,6.3 4.306,0.5 7.15,-0.05 9.238,-1 2.039,-0.9 3.575,-6.25 3.557,-7.75 l -0.003,-0.2 c -1.157,-0.6 -3.613,-1.1 -5.148,0.15 -1.833,1.4 -2.58,1.65 -4.183,1.4 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.08600003" />
+        </g>
+        <g
+           id="drawingObject2">
+          <path
+             id="path2"
+             d="m -4.456,-6.949 -1.547,0.25 -1.443,0.6 -3.67,2.5 c 0,0 0.735,-1.25 0.483,-1.45 -0.252,-0.1 0.386,-1.1 0.731,-1.55 l -0.843,0.55 c 0,0 -1.559,3.45 -0.817,6.95 0.692,3.5 4.97,5.8 9.326,6.3 4.306,0.5 7.15,-0.05 9.238,-1 q 1.294,-0.55 2.459,-3.4 c -0.321,-1.75 -0.99,-3.35 -1.742,-3.5 -1.403,-0.25 -2.988,1 -3.709,3.4 -0.72,2.45 -1.717,2.7 -5.12,2.45 -3.453,-0.25 -2.172,-1.75 -2.172,-1.75 l -0.19,0.8 0.19,-0.8 1.15,0 c 1.15,0 3.095,-0.45 3.095,-0.45 0,0 -0.35,0 -2.956,-0.5 -2.556,-0.5 -1.774,-2 -3.463,-5.25 -1.176,-2.15 -0.091,-3.35 1,-4.15 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.08600003" />
+        </g>
+        <g
+           id="drawingObject3">
+          <path
+             id="path3"
+             d="m -7.412,-6.099 0.14,-0.85 q -2.188,0.95 -3.327,1.9 l -0.482,1.45 c 0,0 1.485,-1.2 3.371,-2.35 l 0.298,-0.15 z"
+             inkscape:connector-curvature="0"
+             style="fill:#613a1f" />
+        </g>
+        <g
+           id="drawingObject4">
+          <path
+             id="path4"
+             d="m 0.873,-7.349 -0.013,-1.1 q -3.102,-0.15 -5.942,0.65 l -1.095,0.4 -0.19,0.85 c 1.743,-0.6 4.139,-0.9 7.24,-0.8 z"
+             inkscape:connector-curvature="0"
+             style="fill:#7a4c2b" />
+        </g>
+        <g
+           id="drawingObject5">
+          <path
+             id="path5"
+             d="m 10.064,-3.949 -0.108,-0.65 q -0.256,-0.5 -0.914,-1.2 c -0.708,-0.65 -2.015,-1.25 -4.424,-2 l -2.757,-0.55 0.013,1.05 1,0 c 5.054,0.35 7.19,3.35 7.19,3.35 z"
+             inkscape:connector-curvature="0"
+             style="fill:#7a4c2b" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="10.972059"
+   height="18.825447"
+   viewBox="0 0 10.972059 18.825447"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_backPantsLegUpperLeftA008.svg">
+  <metadata
+     id="metadata3149">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3147"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="36.832753"
+     inkscape:cy="-46.374552"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3121">
+    <pattern
+       id="bitmap"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(1 0 0 1 -99.999 -99.999)">
+      <symbol
+         id="Denim_Texture_symbol"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\AvatarAssets.fla\clothing\back\Denim_Texture"
+           xlink:href="Denim_Texture"
+           height="200"
+           width="200"
+           id="Denim_Texture" />
+      </symbol>
+      <use
+         id="Denim_Texture_use"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Denim_Texture_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+    <pattern
+       id="bitmap1"
+       patternContentUnits="userSpaceOnUse"
+       patternUnits="userSpaceOnUse"
+       width="200"
+       height="200"
+       viewBox="0 0 200 200"
+       patternTransform="matrix(1 0 0 1 -99.349 -93.799)">
+      <symbol
+         id="symbol3128"
+         viewBox="0 0 200 200">
+        <image
+           sodipodi:absref="C:\Users\Training\Documents\GitHub\Glitchen-Avatar-Engine\glitch-avatars-svg\base_avatar\AvatarAssets.fla\clothing\back\Denim_Texture"
+           xlink:href="Denim_Texture"
+           height="200"
+           width="200"
+           id="image3130" />
+      </symbol>
+      <use
+         id="use3132"
+         width="200"
+         height="200"
+         y="0"
+         x="0"
+         xlink:href="#Denim_Texture_symbol"
+         externalResourcesRequired="true" />
+    </pattern>
+  </defs>
+  <g
+     id="backPantsLegUpperLeftA9"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(4.832753,3.2)">
+    <g
+       id="backPantsLegUpperLeftA008_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="M 5.45,6.9 C 5.5,5.65 6.3,2.7 5.95,0.8 Q 5.7,-0.7 4.5,-1.9 3.25,-3.2 1.85,-3.2 c -4.9,0.05 -6.25,5.6 -6.6,7.65 -0.35,2 0.45,8 1.65,9.7 C -1.6,16.2 2.4,15.8 4,13.8 4.95,12.55 5.35,8.15 5.45,6.9 z"
+             inkscape:connector-curvature="0"
+             style="fill:url(#bitmap1)" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path1"
+             d="m 6.051,0.901 c -0.15,-0.75 -0.55,-1.5 -1.05,-2.2 0.25,1.65 -0.85,3.75 -1.35,4.4 -0.55,0.75 -0.25,2.45 -0.45,2.85 -0.2,0.4 -0.6,0.1 -1.15,-0.2 -0.55,-0.35 -1,0.25 -1.25,0.65 -0.25,0.4 -0.25,0.75 -0.85,1.15 -0.6,0.45 -1.15,1.5 -1.75,3.85 -0.45,1.7 -1.2,1.75 -1.8,1.65 l 0.6,1.2 c 1.5,2.05 5.5,1.65 7.1,-0.35 q 1,-1.3 1.45,-6.9 c 0.05,-1.25 0.85,-4.2 0.5,-6.1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.2" />
+        </g>
+        <g
+           id="drawingObject2">
+          <path
+             id="path2"
+             d="m 6.051,0.901 -0.25,-0.7 c 0.15,2.4 -0.8,5.85 -0.9,6.25 -0.1,0.45 -1.1,2.1 -2.4,2.6 -1.3,0.5 -2.3,3.75 -2.75,4.5 q -0.2,0.35 -1.05,0.6 -1.05,0.2 -1.5,0.3 c 1.6,1.85 5.35,1.4 6.9,-0.55 0.95,-1.25 1.35,-5.65 1.45,-6.9 0.05,-1.25 0.85,-4.2 0.5,-6.1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.2" />
+        </g>
+        <g
+           id="drawingObject3">
+          <path
+             id="path3"
+             d="m -2.049,1.051 c 0.6,-1.45 1,-2.65 1,-2.65 q -1.5,1.9 -1.9,4.7 c -0.4,2.8 -0.35,3.4 -0.45,4.1 -0.1,0.7 0,1.35 -0.15,2.5 -0.15,1.15 0.2,3.1 0.2,3.1 0,0 0.2,-5.75 0.6,-7.65 0.35,-1.95 0.1,-2.65 0.7,-4.1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:0.2" />
+        </g>
+        <g
+           id="drawingObject4">
+          <path
+             id="path4"
+             d="m -1.699,-1.449 c 0,0 -1.65,2.45 -2.05,4.2 -0.35,1.7 -0.3,3.15 -0.2,4.2 l 0.15,4.4 c 0,0 0,-1.45 0.1,-2 0.05,-0.5 -0.15,-1.35 -0.05,-1.8 0.15,-0.45 -0.05,-1.5 0.4,-4.05 q 0.45,-2.5 1.65,-4.95 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:0.2" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
