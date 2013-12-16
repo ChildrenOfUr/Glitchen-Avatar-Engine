@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="8.691803"
+   height="10.305882"
+   viewBox="0 0 8.691803 10.305882"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_sleeveUpperClose20101130.svg">
+  <metadata
+     id="metadata3126">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3124"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="36.624414"
+     inkscape:cy="-53.444118"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3061">
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="2.8080583"
+       cx="-0.29899999"
+       cy="6.75"
+       fx="-0.29899999"
+       fy="6.75"
+       gradientTransform="matrix(1,0,0,-1,0,13.5)"
+       id="radialGradient">
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0"
+         id="stop3064" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0.85882"
+         id="stop3066" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="1"
+         id="stop3068" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="2.8080583"
+       cx="-0.29899999"
+       cy="6.75"
+       fx="-0.29899999"
+       fy="6.75"
+       gradientTransform="matrix(1,0,0,-1,0,13.5)"
+       id="radialGradient1">
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0"
+         id="stop3071" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0.85882"
+         id="stop3073" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="1"
+         id="stop3075" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="2.8080583"
+       cx="0"
+       cy="3.3499999"
+       fx="0"
+       fy="3.3499999"
+       gradientTransform="matrix(1,0,0,-1,0,6.7)"
+       id="radialGradient2">
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0"
+         id="stop3078" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0.85882"
+         id="stop3080" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="1"
+         id="stop3082" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="2.8080001"
+       cx="-0.29899999"
+       cy="20.25"
+       fx="-0.29899999"
+       fy="20.25"
+       gradientTransform="matrix(1,0,0,-1,0,26.95)"
+       id="radialGradient3">
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0"
+         id="stop3085" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0.85882"
+         id="stop3087" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="1"
+         id="stop3089" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="2.8080001"
+       cx="-0.29899999"
+       cy="20.25"
+       fx="-0.29899999"
+       fy="20.25"
+       gradientTransform="matrix(1,0,0,-1,0,26.95)"
+       id="radialGradient4">
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0"
+         id="stop3092" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0.85882"
+         id="stop3094" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="1"
+         id="stop3096" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       color-interpolation="sRGB"
+       r="2.8080001"
+       cx="-0.149"
+       cy="13.45"
+       fx="-0.149"
+       fy="13.45"
+       gradientTransform="matrix(1,0,0,-1,0,20.15)"
+       id="radialGradient5">
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0"
+         id="stop3099" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="0.85882"
+         id="stop3101" />
+      <stop
+         stop-color="#000"
+         stop-opacity="0.2"
+         offset="1"
+         id="stop3103" />
+    </radialGradient>
+  </defs>
+  <g
+     id="sleeveUpperClose20101131"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(4.6244141,1.75)">
+    <g
+       id="sleeveUpperClose20101130_0">
+      <g
+         id="element">
+        <path
+           id="path"
+           d="m 0.9,-1.75 -0.05,0 C -0.4,-1.3 -1.55,1 -1.55,2 c 0,2.55 0.55,2.35 1.25,2.85 0.8,0.6 0.75,0.85 0.75,0.85 0,0 -1.05,-0.95 -1.55,-0.4 -0.5,0.5 0.85,2.2 2.6,1.9 1.25,-0.25 1.6,0 2.15,-0.55 -0.15,0.6 -0.35,0.9 -0.35,0.9 0,0 1,-1.5 0.55,-4.85 C 3.4,-0.7 2.7,-1.55 0.9,-1.75 z"
+           inkscape:connector-curvature="0"
+           style="fill:#737373" />
+        <path
+           id="path1"
+           d="m 0.7,-1.75 -0.2,0 -0.55,0.05 c -0.45,0 -1.2,0.4 -1.8,1.2 l -0.1,0.2 1.35,-1.05 c -0.7,0.75 -1.15,1.9 -1.5,2.95 -0.5,1.5 -1.05,3 -0.85,3.45 0.2,0.4 0.8,1.25 1.3,1.55 l 0.5,0.3 -1.7,-0.7 c -0.35,-0.1 0.9,1.35 3.35,1.75 1.95,0 2.8,-0.4 2.8,-0.4 0,0 0.2,-0.3 0.35,-0.9 C 3.1,7.2 2.75,6.95 1.5,7.2 -0.25,7.5 -1.6,5.8 -1.1,5.3 -0.6,4.75 0.45,5.7 0.45,5.7 0.45,5.7 0.5,5.45 -0.3,4.85 -1,4.35 -1.55,4.55 -1.55,2 c 0,-1 1.15,-3.3 2.4,-3.75 0,0 0,0 -0.15,0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#545454" />
+        <path
+           id="path2"
+           d="M 2.6,8.2 Q 3.15,7.9 3.3,7.55 c 0,0 -0.85,0.4 -2.8,0.4 0.05,0 -0.05,0 -0.2,0 C -0.35,7.9 -1.05,7.7 -1.8,7.45 -2.6,7.15 -3.2,6.85 -3.75,6.5 c 0.5,0.7 1.4,1.65 3.15,1.95 Q 1.5,8.75 2.6,8.2 z"
+           inkscape:connector-curvature="0"
+           style="fill:url(#radialGradient3)" />
+        <path
+           id="path3"
+           d="m 0.3,7.95 c 0.15,0 0.25,0 0.2,0 C -1.95,7.55 -3.2,6.1 -2.85,6.2 l 1.7,0.7 -0.5,-0.3 C -2.15,6.3 -2.75,5.45 -2.95,5.05 -3.15,4.6 -2.6,3.1 -2.1,1.6 c 0.35,-1.05 0.8,-2.2 1.5,-2.95 l -1.35,1.05 -0.05,0 -0.1,0.2 C -2.2,0.1 -2.25,0.2 -2.3,0.3 -3,1.9 -4.6,5.1 -4.6,5.1 L -4.4,5.85 -4.6,5.1 c 0,0 -0.25,0.65 0.85,1.4 0.55,0.35 1.15,0.65 1.95,0.95 0.75,0.25 1.45,0.45 2.1,0.5 z"
+           inkscape:connector-curvature="0"
+           style="fill:#2e2e2e" />
+      </g>
+      <g
+         id="element1">
+        <path
+           id="path4"
+           d="m 0.9,-1.75 -0.05,0 C -0.4,-1.3 -1.55,1 -1.55,2 c 0,2.55 0.55,2.35 1.25,2.85 0.8,0.6 0.75,0.85 0.75,0.85 0,0 -1.05,-0.95 -1.55,-0.4 -0.5,0.5 0.85,2.2 2.6,1.9 1.25,-0.25 1.6,0 2.15,-0.55 -0.15,0.6 -0.35,0.9 -0.35,0.9 0,0 1,-1.5 0.55,-4.85 C 3.4,-0.7 2.7,-1.55 0.9,-1.75 z"
+           inkscape:connector-curvature="0"
+           style="fill:#737373" />
+        <path
+           id="path5"
+           d="m 0.7,-1.75 -0.2,0 -0.55,0.05 c -0.45,0 -1.2,0.4 -1.8,1.2 l -0.1,0.2 1.35,-1.05 c -0.7,0.75 -1.15,1.9 -1.5,2.95 -0.5,1.5 -1.05,3 -0.85,3.45 0.2,0.4 0.8,1.25 1.3,1.55 l 0.5,0.3 -1.7,-0.7 c -0.35,-0.1 0.9,1.35 3.35,1.75 1.95,0 2.8,-0.4 2.8,-0.4 0,0 0.2,-0.3 0.35,-0.9 C 3.1,7.2 2.75,6.95 1.5,7.2 -0.25,7.5 -1.6,5.8 -1.1,5.3 -0.6,4.75 0.45,5.7 0.45,5.7 0.45,5.7 0.5,5.45 -0.3,4.85 -1,4.35 -1.55,4.55 -1.55,2 c 0,-1 1.15,-3.3 2.4,-3.75 0,0 0,0 -0.15,0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#545454" />
+        <path
+           id="path6"
+           d="M 2.6,8.2 Q 3.15,7.9 3.3,7.55 c 0,0 -0.85,0.4 -2.8,0.4 0.05,0 -0.05,0 -0.2,0 C -0.35,7.9 -1.05,7.7 -1.8,7.45 -2.6,7.15 -3.2,6.85 -3.75,6.5 c 0.5,0.7 1.4,1.65 3.15,1.95 Q 1.5,8.75 2.6,8.2 z"
+           inkscape:connector-curvature="0"
+           style="fill:url(#radialGradient4)" />
+        <path
+           id="path7"
+           d="m 0.3,7.95 c 0.15,0 0.25,0 0.2,0 C -1.95,7.55 -3.2,6.1 -2.85,6.2 l 1.7,0.7 -0.5,-0.3 C -2.15,6.3 -2.75,5.45 -2.95,5.05 -3.15,4.6 -2.6,3.1 -2.1,1.6 c 0.35,-1.05 0.8,-2.2 1.5,-2.95 l -1.35,1.05 -0.05,0 -0.1,0.2 C -2.2,0.1 -2.25,0.2 -2.3,0.3 -3,1.9 -4.6,5.1 -4.6,5.1 L -4.4,5.85 -4.6,5.1 c 0,0 -0.25,0.65 0.85,1.4 0.55,0.35 1.15,0.65 1.95,0.95 0.75,0.25 1.45,0.45 2.1,0.5 z"
+           inkscape:connector-curvature="0"
+           style="fill:#2e2e2e" />
+      </g>
+      <g
+         id="element2"
+         overflow="visible"
+         style="overflow:visible">
+        <g
+           id="sleeveUpperClose20101130Color_3_0">
+          <g
+             id="element3">
+            <path
+               id="path8"
+               d="m 0.601,-1.75 -0.55,0.05 c -0.45,0 -1.2,0.4 -1.8,1.2 l -0.1,0.2 1.35,-1.05 c -0.7,0.75 -1.15,1.9 -1.5,2.95 -0.5,1.5 -1.05,3 -0.85,3.45 0.2,0.4 0.8,1.25 1.3,1.55 l 0.5,0.3 -1.7,-0.7 c -0.35,-0.1 0.9,1.35 3.35,1.75 1.95,0 2.8,-0.4 2.8,-0.4 0,0 0.2,-0.3 0.35,-0.9 -0.55,0.55 -0.9,0.3 -2.15,0.55 -1.75,0.3 -3.1,-1.4 -2.6,-1.9 0.5,-0.55 1.55,0.4 1.55,0.4 0,0 0.05,-0.25 -0.75,-0.85 -0.7,-0.5 -1.25,-0.3 -1.25,-2.85 0,-1 1.15,-3.3 2.4,-3.75 0,0 0,0 -0.15,0 l -0.2,0 z"
+               inkscape:connector-curvature="0"
+               style="fill:#545454" />
+            <path
+               id="path9"
+               d="m 1.001,-1.75 -0.05,0 c -1.25,0.45 -2.4,2.75 -2.4,3.75 0,2.55 0.55,2.35 1.25,2.85 0.8,0.6 0.75,0.85 0.75,0.85 0,0 -1.05,-0.95 -1.55,-0.4 -0.5,0.5 0.85,2.2 2.6,1.9 1.25,-0.25 1.6,0 2.15,-0.55 -0.15,0.6 -0.35,0.9 -0.35,0.9 0,0 1,-1.5 0.55,-4.85 -0.45,-3.4 -1.15,-4.25 -2.95,-4.45 z"
+               inkscape:connector-curvature="0"
+               style="fill:#737373" />
+            <path
+               id="path10"
+               d="m 3.401,7.55 c 0,0 -0.85,0.4 -2.8,0.4 0.05,0 -0.05,0 -0.2,0 -0.65,-0.05 -1.35,-0.25 -2.1,-0.5 -0.8,-0.3 -1.4,-0.6 -1.95,-0.95 0.5,0.7 1.4,1.65 3.15,1.95 q 2.1,0.3 3.2,-0.25 0.55,-0.3 0.7,-0.65 z"
+               inkscape:connector-curvature="0"
+               style="fill:url(#radialGradient5)" />
+            <path
+               id="path11"
+               d="m 0.401,7.95 c 0.15,0 0.25,0 0.2,0 -2.45,-0.4 -3.7,-1.85 -3.35,-1.75 l 1.7,0.7 -0.5,-0.3 c -0.5,-0.3 -1.1,-1.15 -1.3,-1.55 -0.2,-0.45 0.35,-1.95 0.85,-3.45 0.35,-1.05 0.8,-2.2 1.5,-2.95 l -1.35,1.05 -0.05,0 -0.1,0.2 c -0.1,0.2 -0.15,0.3 -0.2,0.4 -0.7,1.6 -2.3,4.8 -2.3,4.8 l 0.2,0.75 -0.2,-0.75 c 0,0 -0.25,0.65 0.85,1.4 0.55,0.35 1.15,0.65 1.95,0.95 0.75,0.25 1.45,0.45 2.1,0.5 z"
+               inkscape:connector-curvature="0"
+               style="fill:#2e2e2e" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
