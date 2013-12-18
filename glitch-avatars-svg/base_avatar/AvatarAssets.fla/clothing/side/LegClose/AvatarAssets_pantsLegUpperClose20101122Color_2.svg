@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="9.4499998"
+   height="7.5696154"
+   viewBox="0 0 9.4499998 7.5696154"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_pantsLegUpperClose20101122Color_2.svg">
+  <metadata
+     id="metadata3402">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3400"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="36.65"
+     inkscape:cy="-58.130385"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3394" />
+  <g
+     id="pantsLegUpperClose20101122Color_3"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(4.65,3.7)">
+    <g
+       id="pantsLegUpperClose20101122Color_2_0">
+      <g
+         id="element">
+        <path
+           id="path"
+           d="M 4.25,-3 C 3.55,-3.2 2,-3.45 0.55,-3.6 l -0.75,-0.05 -0.25,-0.05 -1.5,0 c -0.75,0.05 -1.65,0.15 -2.7,0.4 0.05,0.5 0.1,0.95 0.1,1.4 l 0.25,0 0.35,-0.05 0.1,0 0.1,-0.05 0.3,0 0.1,-0.05 0.3,0 0.45,-0.05 0.15,0 0.2,-0.05 0.75,0 0,-0.05 2.95,0 c 1.45,0.1 2.9,0.5 3.35,0.6 L 4.8,-2.75 4.25,-3 z M 4.2,2.4 C 4.2,2.3 4.2,2.2 4.25,2.1 3.8,2.3 2.55,2.55 0.6,2.4 -0.15,2.4 -1,2.25 -1.8,2.15 l -0.55,-0.1 -0.05,0 -1.7,-0.4 -0.05,0 c 0.05,0.15 0.15,0.3 0.2,0.45 0.15,0.35 0.35,0.7 0.6,1 l 3.5,0.7 0.7,0.05 c 0.8,0.05 1.6,0 2.2,-0.1 L 3.45,3.65 3.55,3.6 C 3.7,3.45 3.8,3.25 3.9,3.1 4,2.9 4.1,2.65 4.2,2.4 z M 0.95,1 1,1 C 2.8,1.1 4,0.95 4.55,0.9 l 0.2,-1.25 -9.25,-0.5 0,0.05 c 0,0.05 0,0.05 0,0.1 0,0.25 0,0.5 0.05,0.75 0,0.05 0,0.1 0.05,0.15 0,0.05 0,0.15 0,0.2 l 0.15,0.05 0.05,0 0.45,0.1 0.05,0 1.4,0.15 c 1,0.15 2.15,0.25 3.25,0.3 z"
+           inkscape:connector-curvature="0"
+           style="fill:#3d3d3b" />
+      </g>
+    </g>
+  </g>
+</svg>

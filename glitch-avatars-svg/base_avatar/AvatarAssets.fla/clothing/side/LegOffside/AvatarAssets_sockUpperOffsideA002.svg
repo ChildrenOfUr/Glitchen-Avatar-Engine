@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="AvatarAssets"
+   image-rendering="auto"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="8.6840181"
+   height="6.9994068"
+   viewBox="0 0 8.6840181 6.9994068"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AvatarAssets_sockUpperOffsideA002.svg">
+  <metadata
+     id="metadata3421">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3419"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9032258"
+     inkscape:cx="38.145018"
+     inkscape:cy="-58.878593"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="AvatarAssets" />
+  <defs
+     id="defs3390" />
+  <g
+     id="sockUpperOffsideA3"
+     overflow="visible"
+     style="overflow:visible"
+     transform="translate(6.1450179,3.878)">
+    <g
+       id="sockUpperOffsideA002_0">
+      <g
+         id="element">
+        <g
+           id="drawingObject">
+          <path
+             id="path"
+             d="M 2.447,-2.111 2.539,-2.72 c 0,0 -1.413,0.667 -4.718,0.266 -0.686,-0.093 -1.241,-0.285 -1.737,-0.419 l 0.55,0.298 0.618,0.195 0.871,0.156 c 1.562,0.142 2.691,0.153 2.691,0.153 l -1.082,0.312 C 0.926,-1.798 1.94,-2.007 2.461,-2.404 l -0.014,0.293 z m -0.093,0.608 0.05,-0.371 0.031,0.002 c -1.209,0.358 -2.281,0.457 -3.532,0.386 -0.514,0.238 -0.902,0.482 -1.106,0.791 1.872,0.213 3.768,-0.052 4.557,-0.808 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ded8d7" />
+        </g>
+        <g
+           id="drawingObject1">
+          <path
+             id="path3"
+             d="m 2.328,-0.971 c -1.663,0.653 -2.794,0.695 -4.546,0.595 q 0.091,0.699 1.262,1.139 1.23,0.497 2.005,0.061 c 0.646,-0.39 0.98,-0.798 1.186,-1.16 l 0.093,-0.635 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ded8d7" />
+        </g>
+        <g
+           id="drawingObject2">
+          <path
+             id="path4"
+             d="m -1.097,-1.486 c 1.251,0.071 2.323,-0.028 3.532,-0.386 l 0.026,-0.532 c -0.521,0.397 -1.535,0.606 -2.729,0.645 l -0.829,0.273 z"
+             inkscape:connector-curvature="0"
+             style="fill:#b33120" />
+        </g>
+        <g
+           id="drawingObject3">
+          <path
+             id="path5"
+             d="m -2.203,-0.695 -0.015,0.319 q 2.628,0.15 4.546,-0.595 l 0.026,-0.532 c -0.789,0.756 -2.685,1.021 -4.557,0.808 z"
+             inkscape:connector-curvature="0"
+             style="fill:#b33120" />
+        </g>
+        <g
+           id="drawingObject4">
+          <path
+             id="path6"
+             d="m -3.141,-2.029 c 0.93,0.213 1.932,0.27 2.873,0.27 l 1.082,-0.312 c 0,0 -1.129,-0.011 -2.691,-0.153 l -0.871,-0.156 -0.393,0.351 z"
+             inkscape:connector-curvature="0"
+             style="fill:#c2bdbc" />
+        </g>
+        <g
+           id="drawingObject5">
+          <path
+             id="path7"
+             d="M 2.136,0.406 2.146,0.193 2.235,-0.336 C 2.029,0.026 1.695,0.434 1.049,0.824 Q 0.274,1.26 -0.956,0.763 -2.127,0.323 -2.218,-0.376 l -0.688,-0.039 -0.931,-0.213 c -0.013,1.547 1.494,2.806 3.59,2.285 L 1.914,1.087 2.136,0.406 z"
+             inkscape:connector-curvature="0"
+             style="fill:#c2bdbc" />
+        </g>
+        <g
+           id="drawingObject6">
+          <path
+             id="path8"
+             d="m -2.203,-0.695 c 0.204,-0.309 0.592,-0.553 1.106,-0.791 l -1.937,-0.163 -0.373,-0.075 c -0.198,0.202 -0.274,0.465 -0.349,0.727 l 1.553,0.302 z"
+             inkscape:connector-curvature="0"
+             style="fill:#c2bdbc" />
+        </g>
+        <g
+           id="drawingObject7">
+          <path
+             id="path9"
+             d="m -3.034,-1.649 1.937,0.163 0.829,-0.273 c -0.941,0 -1.943,-0.057 -2.873,-0.27 -0.128,0.046 -0.196,0.149 -0.266,0.305 l 0.373,0.075 z"
+             inkscape:connector-curvature="0"
+             style="fill:#99291c" />
+        </g>
+        <g
+           id="drawingObject8">
+          <path
+             id="path10"
+             d="m -2.218,-0.376 0.015,-0.319 -1.553,-0.302 -0.076,0.263 -0.005,0.106 0.931,0.213 0.688,0.039 z"
+             inkscape:connector-curvature="0"
+             style="fill:#99291c" />
+        </g>
+        <g
+           id="drawingObject9">
+          <path
+             id="path11"
+             d="M 0.718,2.459 1.174,2.112 1.575,1.601 1.641,1.551 1.914,1.087 -0.247,1.657 C -2.343,2.178 -3.85,0.919 -3.837,-0.628 q -1.364,-0.344 -2.211,-0.979 l 0.086,-0.476 c 0.54,0.511 1.337,0.877 2.206,1.086 0.075,-0.262 0.151,-0.525 0.349,-0.727 -0.931,-0.213 -1.794,-0.529 -2.391,-1.15 l 0.091,-0.582 c 0.532,0.671 1.45,1.15 2.566,1.427 l 0.393,-0.351 -0.618,-0.195 -0.55,-0.298 -1.105,-0.49 -0.06,-0.057 -0.303,-0.231 -0.24,-0.227 c 0,0 -0.638,2.792 -0.502,3.867 0.071,1.124 0.824,2.395 1.867,2.881 1.043,0.486 3.129,0.178 4.463,-0.173 L 0.718,2.459 z"
+             inkscape:connector-curvature="0"
+             style="fill:#a39f9e" />
+        </g>
+        <g
+           id="drawingObject10">
+          <path
+             id="path12"
+             d="m -3.141,-2.029 c -1.116,-0.277 -2.034,-0.756 -2.566,-1.427 l -0.091,0.582 c 0.597,0.621 1.46,0.937 2.391,1.15 0.07,-0.156 0.138,-0.259 0.266,-0.305 z"
+             inkscape:connector-curvature="0"
+             style="fill:#7a2117" />
+        </g>
+        <g
+           id="drawingObject11">
+          <path
+             id="path13"
+             d="m -3.832,-0.734 0.076,-0.263 q -1.427,-0.348 -2.206,-1.086 l -0.086,0.476 c 0.485,0.347 1.468,0.777 2.211,0.979 l 0.005,-0.106 z"
+             inkscape:connector-curvature="0"
+             style="fill:#7a2117" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
